@@ -1,0 +1,3048 @@
+name,natural,choice,model,seed,batch,condition
+or1,3,Woman,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or2,3,Solar panel,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or3,4,Tray,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or4,3,The man,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or5,4,Suitcase,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or6,3,The drones,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or7,3,The red rays,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or8,4,Man,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or10,4,"""the man's right hand""",llava-hf/llava-1.5-7b-hf,175,batch1,r
+or11,3,Open books,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or13,3,Green cloth,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or14,3,The red bars,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs16,1,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs17,4,Everything equal,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs19,2,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs20,4,Man,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs21,3,Plants,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs22,3,Sun,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs23,4,Door,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs25,4,The light,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs26,3,Air pump,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs28,3,Pig,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs29,4,The man with a beard,llava-hf/llava-1.5-7b-hf,175,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de32,3,Person,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de33,4,Torch,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de37,4,People,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de38,3,Bike,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de40,4,The little girl,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de42,3,Solar panels,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de44,2,The magnifying glass,llava-hf/llava-1.5-7b-hf,175,batch1,r
+de45,2,VR goggle,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr47,3,Bench,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr48,2,Book,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr49,3,The electrode cap,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr50,4,The moon,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr52,1,The water,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr53,3,The helicopter,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr55,2,Faucet,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr56,4,Candle,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr57,2,Bank,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr59,3,The woman with a notepad.,llava-hf/llava-1.5-7b-hf,175,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,175,batch1,r
+or1,4,Woman,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or2,3,The pointy trees.,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or3,4,Tray,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or4,3,The man.,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or5,4,Suitcase,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or6,3,Drones,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,190,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or9,4,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or12,2,Child on bike,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or13,4,Stool,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs17,4,The brain,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs19,4,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs21,4,The plants,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs22,4,Everything equal,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs23,4,The door,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs25,3,Light,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs26,4,Bike,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs29,4,Man with a beard,llava-hf/llava-1.5-7b-hf,190,batch1,r
+cs30,3,Flasks,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de32,4,The person,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de33,4,Torch,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de35,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de36,3,Woman,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de37,2,People,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de38,3,Bike,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de39,3,Mug,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de40,3,Couch,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de42,3,The solar panels,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de44,4,The magnifying glass,llava-hf/llava-1.5-7b-hf,190,batch1,r
+de45,3,VR goggle,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr46,4,Blackboard,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr47,4,Bench,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr48,3,Book,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr50,4,The moon,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr55,4,Faucet,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr56,4,The quill pen,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr59,2,Laughing man,llava-hf/llava-1.5-7b-hf,190,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,190,batch1,r
+or1,4,Woman,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or3,3,Tray,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or4,2,The man,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or5,4,Baby,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or6,4,Drones,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or7,3,Red rays,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or9,4,The crowd,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or10,4,The thermos,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or13,3,Green cloth,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs17,3,Brain,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs19,2,Man in wheelchair,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs21,3,The plants,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs22,4,Everything equal,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs23,4,The moon,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs24,2,Phone,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs25,3,The light.,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs26,4,The air pump,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs28,3,Pig,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,195,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de32,3,Person,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de33,4,Sun,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de34,2,Mug,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de35,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de36,2,The woman,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de37,2,People,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de40,2,Couch,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de42,2,Solar panels,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de43,2,Puzzle pieces,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,195,batch1,r
+de45,4,VR goggle,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr47,3,Bench,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr48,3,Book,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr50,4,The moon,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr53,2,Helicopter,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr54,3,The piggy bank,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr55,3,Faucet,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr56,4,Quill pen,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr59,3,Woman with a notepad,llava-hf/llava-1.5-7b-hf,195,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,195,batch1,r
+or1,4,Woman,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or2,3,The pointy trees,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or3,4,Tray,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or4,3,The man,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or5,4,The baby,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or6,4,Drones,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or7,3,The red rays,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or8,4,Man,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or9,4,DJ,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or12,3,Child on bike,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or13,3,Green cloth,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or14,3,The red bars,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or15,2,Woman in jeans,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs16,3,Heart shaped tree,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs17,3,Brain,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs18,3,Elephant,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs19,3,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs21,4,Plants,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs22,4,The sun,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs23,2,Moon,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs25,4,Light,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs26,3,Bike,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs27,3,"""the woman's left foot""",llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs29,4,Man with beard,llava-hf/llava-1.5-7b-hf,237,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de31,2,Yellow tape,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de32,3,Person,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de33,3,The torch,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de35,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de36,3,Cigarette box,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de37,4,People,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de40,4,Couch,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de42,3,Solar panels,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,237,batch1,r
+de45,3,VR goggle,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr46,4,Blackboard,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr47,3,Bench,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr48,3,Book,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr50,1,The animal,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr55,4,Faucet,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr56,4,Bookshelf,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr59,3,Woman with notepad,llava-hf/llava-1.5-7b-hf,237,batch1,r
+fr60,4,The woman on stage,llava-hf/llava-1.5-7b-hf,237,batch1,r
+or1,3,Woman,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or2,2,Solar panel,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or3,4,The tray,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or4,4,The man,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or5,3,Suitcase,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or6,4,The drones,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or7,4,The red rays,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or9,3,The crowd,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or10,3,The thermos,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or11,3,Open books,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or12,3,Soccer ball,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or13,3,Green cloth,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or14,3,Red bars,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs17,4,Brain,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs18,3,Elephant,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs20,4,Man,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs21,4,Plants,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs22,4,Everything equal,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs23,3,Door,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs24,2,Phone,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs25,3,The light,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs26,3,Bike,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,254,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de32,2,Person,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de33,4,The torch in the hand of the man with the backpack.,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de36,3,Cigarette box,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de37,1,People,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de40,3,Couch,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de42,3,Solar panels,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de44,1,Magnifying glass,llava-hf/llava-1.5-7b-hf,254,batch1,r
+de45,2,VR goggle,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr47,4,The bench,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr50,4,Moon,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr55,4,Faucet,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr56,3,Candle,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr59,3,The woman with a notepad.,llava-hf/llava-1.5-7b-hf,254,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,254,batch1,r
+or1,3,Woman,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or2,3,Solar panel,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or3,4,Tray,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or4,3,The man,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or5,4,Suitcase,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or6,1,Barbed wire,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or7,3,Red rays,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or9,4,DJ,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or12,4,Bike,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or13,4,Green cloth,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or14,4,Cannot say.,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or15,3,The woman in jeans.,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs17,4,Brain,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs18,3,Elephant,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs19,2,Man in wheelchair,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs21,4,Plants,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs22,4,The sun,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs23,4,Door,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs24,4,The phone,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs25,3,Light,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs26,3,Air pump,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs29,4,Man with beard,llava-hf/llava-1.5-7b-hf,281,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de32,3,The person,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de33,4,The torch,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de34,1,Mug,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de36,1,Cigarette,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de37,3,People,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de38,3,Bike,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de39,3,Mug,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de40,4,Couch,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de42,3,Solar panels,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,281,batch1,r
+de45,4,VR goggle,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr47,4,Bench,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr50,3,Animal,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr51,3,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr52,4,The water,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr54,3,The piggy bank,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr55,4,Faucet,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr56,4,Quill pen,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr57,3,Bank,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,281,batch1,r
+fr60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,281,batch1,r
+or1,4,Woman,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or2,2,Skyscrapers,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or3,2,Tray,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or4,3,The man,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or5,3,The baby,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or6,3,Drones,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or7,3,Red rays,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or9,4,DJ,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or10,4,the man's right hand,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or11,2,The open books,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or12,4,The soccer ball,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or13,3,Green cloth,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or14,3,The red bars,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs17,4,Brain,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs21,3,Plants,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs22,3,The sun,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs23,3,The moon,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs25,3,Light,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs26,3,Air pump,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs28,1,The pig,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs29,3,Man with a beard.,llava-hf/llava-1.5-7b-hf,291,batch1,r
+cs30,2,The flasks,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de32,4,Person,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de33,3,The torch,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de34,3,Mug,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de35,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de36,4,Woman,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de37,4,People,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de40,4,Couch,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de42,3,Solar panels,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,291,batch1,r
+de45,4,VR goggle,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr47,1,The bench,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr49,1,The electrode cap,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr50,1,The moon,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr52,3,"The water, cannot say, the land.",llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr55,4,Faucet,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr56,1,The quill pen,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr57,3,Bank,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr58,3,The wind turbines,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr59,4,The laughing man,llava-hf/llava-1.5-7b-hf,291,batch1,r
+fr60,2,Woman on stage,llava-hf/llava-1.5-7b-hf,291,batch1,r
+or1,1,Woman,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or2,2,Pointy trees,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or3,3,Tray,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or4,3,Man,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or5,4,Suitcase,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or6,4,Drones,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,304,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or12,4,The kid on the bike.,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or13,3,The green cloth,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs17,4,The brain,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs20,4,Man,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs21,3,Plants,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs22,4,The sun,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs23,4,Moon,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs24,3,Phone,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs25,4,The light,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs26,3,Air pump,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs28,3,Pig,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs29,3,Man with beard,llava-hf/llava-1.5-7b-hf,304,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de32,4,The person,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de33,4,Torch,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de36,3,Cigarette box,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de37,4,People,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de39,3,Mug,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de40,2,Couch,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de42,4,Solar panels,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,304,batch1,r
+de45,4,VR goggle,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr46,2,Blackboard,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr47,4,Bench,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr50,3,The moon,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr51,3,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr53,4,Helicopter,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr55,3,Faucet,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr56,4,Quill pen,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr57,3,Bank,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr59,3,"The woman with a notepad, the table lamp, the laughing man",llava-hf/llava-1.5-7b-hf,304,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,304,batch1,r
+or1,2,Woman,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or2,4,Skyscrapers,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or3,1,Tray,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or4,3,The man,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or5,4,The baby,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or6,3,Drones,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or7,3,Red rays,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or8,2,Man,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or9,4,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or11,3,Open books,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or13,4,Green cloth,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs16,1,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs17,3,The brain,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs18,3,The elephant,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs19,4,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs20,3,Man,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs21,3,Screen,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs23,4,The moon,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs24,3,Phone,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs25,4,The light,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs26,3,Bike,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,323,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de32,3,The person,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de34,4,Mug,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de35,1,Standing people,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de36,3,Woman,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de37,1,People,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de38,3,Bike,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de39,3,Mug,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de40,3,Couch,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de42,4,Solar panels,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,323,batch1,r
+de45,4,VR goggle,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr47,3,Bench,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr48,3,Book,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr50,2,The animal,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr51,3,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr52,3,Water,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr53,2,Power lines,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr55,3,Faucet,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr56,3,Quill pen,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr58,1,Wind turbines,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr59,3,woman with a notepad,llava-hf/llava-1.5-7b-hf,323,batch1,r
+fr60,4,The woman on stage,llava-hf/llava-1.5-7b-hf,323,batch1,r
+or1,1,The woman,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or2,3,The pointy trees,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or3,2,Tray,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or4,4,The man,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or5,3,Suitcase,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or6,4,Drones,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or7,3,The red rays,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or8,4,Man,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or9,4,The crowd,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or11,4,Open books,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or13,4,Green cloth,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs17,3,The brain,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs18,4,Elephant,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs20,2,Man,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs21,4,Plants,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs22,4,The sun,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs23,2,The door,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs25,4,Light,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs26,4,Air pump,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs28,3,Pig,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs29,1,Cannot say,llava-hf/llava-1.5-7b-hf,356,batch1,r
+cs30,2,Flasks,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de32,4,Person,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de33,4,Sun,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de36,4,The cigarette box,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de37,4,People,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de38,4,Bike,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de39,4,Mug,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de40,4,Couch,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de42,4,Solar panels,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,356,batch1,r
+de45,1,VR goggle,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr47,3,Bench,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr50,4,The animal,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr52,3,Water,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr53,3,Helicopter,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr54,4,The piggy bank,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr55,3,Faucet,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr56,4,Bookshelf,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,356,batch1,r
+fr60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,356,batch1,r
+or1,3,The woman,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or2,2,Pointy trees,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or3,4,Tray,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or4,3,Man,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or5,4,Suitcase,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or6,3,The drones,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,456,batch1,r
+or8,3,Man,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or9,4,Soccer ball,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or10,4,the man's right hand,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or11,3,Open books,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or12,3,Soccer ball,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or13,4,The green cloth,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or14,4,Red bars,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs17,4,Everything equal,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs18,3,Elephant,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs19,2,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs20,3,The man,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs21,3,The plants,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs22,4,"The sun, the cloud, everything equal",llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs23,2,Moon,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs24,4,Phone,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs25,4,The light,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs26,4,Air pump,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs27,2,The woman's left foot,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs28,4,Pig,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs29,2,Cannot say,llava-hf/llava-1.5-7b-hf,456,batch1,r
+cs30,4,Flasks,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de32,3,Person,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de33,4,The torch,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de34,3,Mug,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de36,2,Cigarette box,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de37,3,People,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de38,3,Bike,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de39,1,Mug,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de40,4,Couch,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de42,4,The solar panels,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,456,batch1,r
+de45,1,VR goggle,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr46,3,Blackboard,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr47,4,Bench,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr48,4,Book,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr50,4,Moon,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr51,3,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr52,4,Water,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr53,4,Helicopter,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr55,3,Faucet,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr56,4,The quill pen,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr57,4,Bank,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr59,3,Woman,llava-hf/llava-1.5-7b-hf,456,batch1,r
+fr60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,456,batch1,r
+or16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or17,4,Brain,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or18,3,The elephant,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or20,4,The man,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or21,4,Plants,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or22,4,The sun,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or23,4,The moon,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or24,3,Phone,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or25,4,Light,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or26,3,Air pump,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or28,3,Pig,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or29,3,Man with a beard.,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or30,2,Flasks,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs31,4,The yellow tape,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs32,2,Person,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs33,3,Torch,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs34,3,Mug,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs36,3,The cigarette box,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs39,3,Mug,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs40,4,Couch,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs42,3,Solar panels,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,101,batch2,r
+cs45,3,VR goggle,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de46,1,Blackboard,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de47,2,The bench,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de48,3,The towel,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de50,3,The moon,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de52,3,Water,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de54,2,Piggy bank,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de56,4,Bookshelf,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de57,1,Bank,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de58,4,Hammer,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de59,2,Woman,llava-hf/llava-1.5-7b-hf,101,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr61,3,Cylinders,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr62,2,People,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr63,4,The corn,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr64,3,Glove,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr65,3,Ape,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr69,2,Sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr70,4,The arrow,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr71,4,Flames,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr73,3,Lamp,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr74,4,Everything equal,llava-hf/llava-1.5-7b-hf,101,batch2,r
+fr75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,101,batch2,r
+or16,4,The heart-shaped tree.,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or17,3,The brain,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or18,4,Elephant,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or19,4,Man in wheelchair,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or21,4,Plants,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or22,2,Everything equal,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or23,4,The moon,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or24,4,The phone,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or25,3,The light,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or26,3,Bike,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or27,4,"""the woman's left foot""",llava-hf/llava-1.5-7b-hf,211,batch2,r
+or28,2,The pig,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or29,4,Man with a beard,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or30,4,Flasks,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs32,3,Person,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs33,3,Torch,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs34,4,Mug,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs36,4,The woman,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs39,4,Mug,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs40,2,Couch,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs44,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,211,batch2,r
+cs45,2,VR goggle,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de46,3,Blackboard,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de47,4,Bench,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de48,2,Book,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de50,3,The animal,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de52,3,Water,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de56,4,Quill pen,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de57,2,Bank,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,211,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr61,4,The cranes,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr62,2,Seal,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr63,4,Corn,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr64,4,Glove,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr65,4,Ape,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr66,3,Hourglass,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr69,2,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr70,4,Arrow,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr71,3,Flames,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr72,3,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr74,4,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,211,batch2,r
+fr75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,211,batch2,r
+or16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or17,4,Brain,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or18,2,Elephant,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or19,3,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or21,4,The plants,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or22,3,Sun,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or23,3,Door,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or24,3,Phone,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or25,3,Light,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or26,3,Air pump,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or28,4,Pig,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or30,4,Flasks,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs33,4,Sun,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs34,3,Mug,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs35,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs36,2,Cigarette box,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs37,4,People,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs38,3,Bike,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs39,4,Mug,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs40,4,Couch,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs42,3,Solar panels,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs44,3,magnifying glass,llava-hf/llava-1.5-7b-hf,228,batch2,r
+cs45,3,VR goggle,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de46,3,Scale,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de47,3,Bench,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de48,3,Book,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de50,2,The moon,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de52,4,The water,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de56,3,Quill pen,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de57,4,Bank,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de59,2,Woman with notepad,llava-hf/llava-1.5-7b-hf,228,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr62,3,Seal,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr63,3,Corn,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr64,4,Glove,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr65,2,Ape,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr66,3,hourglass,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr67,4,yellow balls,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr71,4,Flames,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr74,4,Everything equal.,llava-hf/llava-1.5-7b-hf,228,batch2,r
+fr75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,228,batch2,r
+or16,3,"Heart-shaped tree, watering cans, child in striped sh",llava-hf/llava-1.5-7b-hf,274,batch2,r
+or17,4,The brain,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or18,3,Elephant,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or19,3,Tree,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or21,4,Plants,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or22,3,The sun,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or23,4,Door,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or24,4,The phone.,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or25,4,Light,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or26,4,Air pump,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or27,1,The woman's left foot,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or28,4,Pig,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or29,4,Man with beard,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or30,4,Flasks,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs32,1,The person,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs33,4,The torch,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs34,3,The mug,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs36,4,The woman,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs39,4,Mug,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs40,4,Couch,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,274,batch2,r
+cs45,4,VR goggle,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de46,4,Blackboard,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de47,2,Bench,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de48,4,Bathtub,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de50,3,The moon,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de52,4,Water,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de53,2,Helicopter,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de56,4,Quill pen,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de57,4,Bank,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,274,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr62,4,Seal,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr63,3,Corn,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr64,1,Glove,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr65,4,Ape,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr70,2,Arrow,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr71,4,Flames,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,274,batch2,r
+fr75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,274,batch2,r
+or16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or17,4,The brain,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or18,4,The elephant,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or21,4,Screen,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or22,4,The sun,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or23,3,The moon,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or24,4,Phone,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or25,4,The light,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or26,2,Air pump,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or27,4,The woman's left foot.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or28,4,Pig,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or29,4,Man with beard,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or30,2,Flasks,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs32,4,The person,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs33,3,The torch,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs34,4,Mug,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs35,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs39,3,The mug.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs40,4,Couch,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs42,3,The solar panels,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs43,2,Puzzle pieces,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,291,batch2,r
+cs45,4,VR goggle,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de46,4,Blackboard,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de47,4,Bench,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de48,3,Book,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de50,4,Moon,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de52,1,Water,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de56,4,Quill pen,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de57,3,Bank,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de58,4,The wind turbines,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de59,4,The woman with a notepad.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr61,3,Cylinders,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr62,3,Seal,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr63,2,Corn,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr64,4,Glove,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr65,3,Ape,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr67,4,The yellow balls,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr68,3,The shield,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr69,3,Sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr70,2,The arrow,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr71,2,Flames,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr73,3,The lamps,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,291,batch2,r
+fr75,3,The cliffs on the right,llava-hf/llava-1.5-7b-hf,291,batch2,r
+or16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or17,4,Everything equal,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or18,2,The elephant,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or19,4,Man in wheelchair,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or21,4,Screen,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or22,4,Sun,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or23,4,Moon,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or24,4,Phone,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or25,3,The light,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or26,3,Bike,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or28,2,Pig,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or29,3,Man with a beard,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or30,3,Flasks,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs31,2,Yellow tape,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs32,1,Person,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs33,4,Torch,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs34,3,Mug,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs35,1,The magnifying glass,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs36,3,Cigarette,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs37,2,People,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs38,3,Bike,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs39,3,Mug,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs40,1,Couch,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs42,3,Solar panels,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,309,batch2,r
+cs45,2,VR goggles,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de46,4,Blackboard,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de47,3,Bench,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de48,4,Book,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de49,4,The electrode cap.,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de50,3,The moon,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de51,4,Soldiers facing forward.,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de52,4,The water and the land,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de53,3,Helicopter,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de54,2,Piggy bank,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de56,4,The quill pen,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de57,3,Bank,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de59,3,Woman with notepad,llava-hf/llava-1.5-7b-hf,309,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr62,2,Seal,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr63,3,Corn,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr64,3,Glove,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr65,4,Ape,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr66,3,Hourglass,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr70,4,Arrow,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr71,4,Flames,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr72,3,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr74,4,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,309,batch2,r
+fr75,4,The mountain in the upper left corner.,llava-hf/llava-1.5-7b-hf,309,batch2,r
+or16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or17,3,The brain,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or18,4,Elephant,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or19,4,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or20,3,Man,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or21,3,The plants,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or22,4,The sun,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or23,4,The moon,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or24,2,The phone,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or25,4,Light,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or28,3,Pig,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or29,3,Man with beard,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or30,3,Flasks,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs32,4,Person,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs33,4,Torch,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs34,4,Mug,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs36,3,The cigarette box,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs39,4,Mug,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs40,3,The little girl,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs43,1,Puzzle pieces,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs44,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,356,batch2,r
+cs45,4,VR goggle,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de46,3,Blackboard,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de47,4,Bench,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de48,4,Book,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de50,3,Moon,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de51,3,Soldiers,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de52,4,Water,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de53,4,The helicopter,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de55,3,The faucet,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de56,4,Quill pen,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de57,1,Bank,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de59,3,Woman with notepad,llava-hf/llava-1.5-7b-hf,356,batch2,r
+de60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr62,1,People,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr63,3,Corn,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr64,1,Glove,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr65,1,Ape,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr69,3,Yes,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr70,3,The arrow,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr71,3,Flames,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr72,3,The red hat-shaped object,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr73,4,Lights,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr74,4,Everything equal,llava-hf/llava-1.5-7b-hf,356,batch2,r
+fr75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,356,batch2,r
+or16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or17,4,The lightning,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or18,3,Elephant,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or19,3,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or20,3,Man,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or21,4,Screen,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or22,4,Sun,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or23,4,The moon,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or24,3,Phone,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or25,4,Light,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or26,4,Bike,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or28,4,Pig,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or30,3,Flasks,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs31,4,The dog collar,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs32,3,The person,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs33,3,The torch,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs34,4,Mug,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs38,3,Bike,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs39,4,Mug,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs40,3,Couch,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,438,batch2,r
+cs45,3,VR goggle,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de46,4,Blackboard,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de47,3,Bench,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de48,3,Book,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de50,4,The moon,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de52,4,Water,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de55,2,Faucet,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de56,4,The quill pen,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de57,4,Bank,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de59,3,Woman,llava-hf/llava-1.5-7b-hf,438,batch2,r
+de60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr62,4,The people,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr63,4,Corn,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr64,4,Glove,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr65,3,Ape,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr68,3,The shield,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr71,3,Flames,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,438,batch2,r
+fr75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,438,batch2,r
+or16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or17,4,The brain,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or18,4,Elephant,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or21,4,Plants,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or22,4,Everything equal,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or23,4,The moon,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or24,2,Phone,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or25,3,The light,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or26,3,Bike,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or28,4,Pig,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or29,4,The man with a beard.,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or30,3,Flasks,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs32,4,Person,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs33,4,The torch,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs34,4,Mug,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs36,3,The cigarette box,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs37,4,The people,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs38,3,Bike,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs39,3,Mug,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs40,4,Couch,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs43,2,Puzzle pieces,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs44,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,462,batch2,r
+cs45,3,VR goggle,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de46,3,The blackboard,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de47,4,The bench,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de48,4,Book,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de50,2,Moon,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de51,3,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de52,3,The water,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de56,4,Quill pen,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de57,4,Bank,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de59,4,The woman with a notepad.,llava-hf/llava-1.5-7b-hf,462,batch2,r
+de60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr61,4,Cylinders,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr62,4,Seal,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr63,4,Corn,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr64,3,Glove,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr65,2,Ape,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr66,3,Hourglass,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr71,4,Flames,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr73,4,Lamp,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr74,4,everything equal,llava-hf/llava-1.5-7b-hf,462,batch2,r
+fr75,4,Cliffs,llava-hf/llava-1.5-7b-hf,462,batch2,r
+or16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or17,2,The brain,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or18,3,Elephant,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or20,4,Man,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or21,3,Plants,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or22,4,The sun,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or23,3,The moon,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or24,3,The phone,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or25,3,The light,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or26,3,Bike,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or28,3,Pig,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or30,3,Flasks,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs32,4,Person,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs33,3,Sun,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs34,2,Mug,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs36,4,Woman,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs37,3,People,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs38,4,Bike,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs39,3,The mug,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs40,1,Couch,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs41,3,The fingerprint scanner,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs42,4,Solar panels,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,467,batch2,r
+cs45,3,VR goggle,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de46,2,Blackboard,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de47,3,Bench,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de48,4,Book,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de50,4,Moon,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de52,3,Water,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de53,4,Helicopter,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de55,4,Faucet,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de56,3,Quill pen,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de57,4,Bank,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,467,batch2,r
+de60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr61,3,Cylinders,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr62,4,Seal,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr63,3,Corn,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr64,4,Glove,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr65,2,Ape,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr66,4,Hourglass,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr68,4,Shield,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr70,3,Arrow,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr71,3,The flames,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr72,4,Green flower-shaped object,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr73,2,The lamps,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr74,3,everything equal,llava-hf/llava-1.5-7b-hf,467,batch2,r
+fr75,4,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,467,batch2,r
+or31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or32,3,The person,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or33,3,Torch,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or36,4,The woman,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or38,4,Bike,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or39,3,Mug,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or40,4,Couch,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or42,4,Solar panels,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or43,1,Puzzle,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs47,4,The bench,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs48,2,Book,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs50,3,Moon,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr1,3,Woman,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr3,3,Tray,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr4,4,The man,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr5,2,The baby,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr6,2,Drones,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr8,3,Man,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr11,2,Open books,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr12,3,Child on bike,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr13,4,The green cloth,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr14,3,Red bars,llava-hf/llava-1.5-7b-hf,101,batch3,r
+fr15,3,The woman in jeans.,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs51,2,Soldiers,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs52,4,Water,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs53,2,Helicopter,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs56,4,The bookshelf,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs59,4,Woman with notepad,llava-hf/llava-1.5-7b-hf,101,batch3,r
+cs60,4,The woman on stage,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de61,2,Cylinders,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de62,4,People,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de63,3,Corn,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de65,3,Ape,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de66,3,Hourglass,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de68,3,Shield,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de71,4,Flames,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de72,3,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de73,4,Lamp,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de74,4,Yellow shirt,llava-hf/llava-1.5-7b-hf,101,batch3,r
+de75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,101,batch3,r
+or31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or32,4,Person,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or33,3,The torch,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or35,4,The magnifying glass,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or37,3,People,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or38,3,Bike,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or39,3,Mug,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or40,4,The couch,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or42,3,Solar panels,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs47,3,The bench.,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs48,4,Bathtub,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs49,2,Electrode cap,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs50,4,Animal,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr1,3,Woman,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr2,3,The pointy trees,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr3,4,Tray,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr4,4,The man,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr5,4,The baby,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr6,4,Drones,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr7,2,The red rays.,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr8,3,Man,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr9,4,DJ,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr11,3,The open books,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr12,4,The kid on the bike,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr13,3,Green cloth,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr14,4,Red bars,llava-hf/llava-1.5-7b-hf,113,batch3,r
+fr15,3,The woman in jeans.,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs51,3,Soldiers facing forward.,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs52,3,The water,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs56,4,The quill pen,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs59,3,The woman with a notepad,llava-hf/llava-1.5-7b-hf,113,batch3,r
+cs60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de61,3,Cylinders,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de62,3,Seal,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de63,4,Corn,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de65,4,Ape,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de66,4,Hourglass,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de68,4,Shield,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de69,2,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de71,3,The flames,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de73,4,Lamp,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de74,4,Everything equal,llava-hf/llava-1.5-7b-hf,113,batch3,r
+de75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,113,batch3,r
+or31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or32,4,Person,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or33,3,The torch,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or34,3,Mug,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or35,4,The magnifying glass,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or36,3,The woman,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or37,4,The people,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or38,4,Bike,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or40,3,Couch,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or42,3,Solar panels,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs47,4,Bench,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs48,3,Book,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs50,2,The moon,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr1,4,Woman,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr3,4,Tray,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr4,1,The man.,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr5,4,Baby,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr6,4,Drones,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr7,4,Red rays.,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr8,1,Man,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr9,3,The crowd,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr10,4,The thermos,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr11,4,Open books,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr12,3,Child on bike,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr13,4,Green,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr14,4,Red bars,llava-hf/llava-1.5-7b-hf,138,batch3,r
+fr15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs52,4,The water,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs53,4,Big car,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs56,2,The quill pen,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs59,3,Woman,llava-hf/llava-1.5-7b-hf,138,batch3,r
+cs60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de61,3,Cylinders,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de62,1,Seal,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de63,4,Corn,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de65,3,Ape,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de66,3,Hourglass,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de68,4,Shield,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de69,4,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de71,3,Flames,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de73,3,Lamp,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de74,3,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,138,batch3,r
+de75,4,Mountains,llava-hf/llava-1.5-7b-hf,138,batch3,r
+or31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or32,4,The person,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or33,3,Torch,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or36,1,Cigarette box and cigarette,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or38,1,Bike,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or39,3,Mug,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or40,3,Couch,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or42,3,The big window,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs47,4,Bench,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs48,3,Book,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs49,3,The electrode cap at the most front of this image.,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs50,4,Moon,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr1,4,Woman,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr3,3,Tray,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr4,2,The man,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr5,4,Baby,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr6,3,Barbed wire,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr7,3,Blue rays,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr8,4,Man,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr11,4,The open books,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr13,4,Green cloth,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr14,3,Red bars,llava-hf/llava-1.5-7b-hf,148,batch3,r
+fr15,2,Woman in jeans,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs52,4,The water,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs56,3,The quill pen,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs59,3,The woman with a notepad,llava-hf/llava-1.5-7b-hf,148,batch3,r
+cs60,3,The woman on stage,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de61,3,Cylinders,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de62,4,The seal,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de63,4,Corn,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de64,4,Glove,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de65,4,Ape,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de66,4,Hourglass,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de67,4,The yellow balls,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de68,2,Shield,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de69,4,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de71,3,Flames,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de72,3,The red flower-shaped object with a pointy middle is at the most,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de73,2,The lamps,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de74,3,Everything equal,llava-hf/llava-1.5-7b-hf,148,batch3,r
+de75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,148,batch3,r
+or31,4,The yellow tape,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or32,4,Person,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or33,4,Torch,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or36,4,Cigarette,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or38,4,Bike,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or39,3,Mug,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or40,3,Couch,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or42,3,Solar panels,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs47,3,Bench,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs48,4,Book,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs50,4,Animal,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr1,3,Woman,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr3,4,Tray,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr4,1,The man,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr5,4,Baby,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr6,4,Drones,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr7,3,"The red rays, it is ambiguous, or the blue rays",llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr8,3,The man,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr9,4,The crowd,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr11,2,Open books,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr13,2,The green cloth,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr14,4,Red bars,llava-hf/llava-1.5-7b-hf,193,batch3,r
+fr15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs52,4,Water,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs56,4,Quill pen,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs57,4,The bank,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs59,3,Woman with a notepad,llava-hf/llava-1.5-7b-hf,193,batch3,r
+cs60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de61,4,The cylinders,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de62,3,People,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de63,3,Corn,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de64,4,Glove,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de65,1,Ape,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de66,3,Hourglass,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de68,3,Shield,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de71,4,Flames,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de72,2,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de73,3,Lamp,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de74,4,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,193,batch3,r
+de75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,193,batch3,r
+or31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or32,4,Person,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or33,4,Torch,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or34,3,Mug,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or36,4,The woman,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or38,3,Bike,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or40,4,Couch,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or42,4,Solar panels,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs46,2,The blackboard,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs47,3,Bench,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs48,4,Book,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs50,4,The moon,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr1,4,Woman,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr2,2,Pointy trees,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr3,3,Tray,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr4,2,Man,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr5,3,The baby,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr6,3,The drones,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr8,4,Man,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr9,4,DJ,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr10,3,"""the woman's left hand""",llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr11,3,Open books,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr12,3,The kid on the bike,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr13,3,The green cloth,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr14,3,Red bars,llava-hf/llava-1.5-7b-hf,297,batch3,r
+fr15,1,Woman in jeans,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs52,4,Water,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs55,4,The faucet,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs56,4,Quill pen,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs57,4,Bank,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs59,3,The woman with a notepad,llava-hf/llava-1.5-7b-hf,297,batch3,r
+cs60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de61,4,Cylinders,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de62,3,The seal,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de63,3,Corn,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de64,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de65,4,Ape,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de66,2,The hourglass,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de68,3,Shield,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de71,4,The flames,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de73,4,Lamp,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,297,batch3,r
+de75,4,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,297,batch3,r
+or31,2,Yellow tape,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or32,3,Person,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or33,4,The torch,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or36,3,The woman,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or38,3,Bike,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or40,4,Couch,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or42,4,Solar panels,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or44,2,Magnifying glass,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or45,3,The VR goggle,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs47,4,Bench,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs48,4,Book,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs50,3,The moon,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr1,4,Woman,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr2,3,The pointy trees,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr3,4,Tray,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr4,2,The man,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr5,4,Suitcase,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr6,4,The drones,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr7,4,Blue rays,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr8,3,Man,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr9,3,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr10,4,The man's right hand.,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr11,4,Open books,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr12,4,The kid on the bike,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr13,4,The green cloth,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr14,2,Red bars,llava-hf/llava-1.5-7b-hf,403,batch3,r
+fr15,2,Woman in jeans,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs51,3,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs52,3,The water,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs55,3,Faucet,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs56,3,Bookshelf,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs57,4,Bank,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs59,3,Woman with a notepad,llava-hf/llava-1.5-7b-hf,403,batch3,r
+cs60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de61,1,The cylinders,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de62,4,Seal,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de63,3,The corn,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de64,4,Glove,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de65,3,Ape,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de66,4,Hourglass,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de67,2,Yellow balls,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de68,3,Shield,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de70,3,Arrow,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de71,3,Flames,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de72,3,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de73,4,Lamp,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de74,2,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,403,batch3,r
+de75,2,The cliffs on the right,llava-hf/llava-1.5-7b-hf,403,batch3,r
+or31,4,The yellow tape,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or32,4,Person,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or33,3,Torch,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or34,3,Mug,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or35,2,The magnifying glass,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or36,4,The cigarette box,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or37,2,People,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or38,3,Bike,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or42,2,The solar panels,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or43,2,The puzzle pieces,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or45,3,VR goggle,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs47,4,Bench,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs48,4,Book,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs50,4,Moon,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr1,3,Woman,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr2,3,Skyscrapers,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr3,4,Tray,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr4,2,The man,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr5,4,The baby,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr6,3,Drones,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr7,3,The red rays,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr8,4,The man,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr9,3,The crowd,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr11,4,The open books,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr12,4,Child on bike,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr13,2,Green cloth,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr14,4,The red bars,llava-hf/llava-1.5-7b-hf,441,batch3,r
+fr15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs51,2,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs52,3,Water,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs55,4,Faucet,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs56,3,The quill pen,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs59,4,woman with notepad,llava-hf/llava-1.5-7b-hf,441,batch3,r
+cs60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de61,3,Cylinders,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de62,2,The seal,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de63,3,Corn,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de65,4,Ape,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de66,2,Hourglass,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de68,4,Shield,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de70,3,The dollar sign,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de71,4,The flames,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de72,2,The red hat-shaped object.,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de73,4,The lamps,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de74,2,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,441,batch3,r
+de75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,441,batch3,r
+or31,3,The yellow tape,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or32,3,Person,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or33,4,Torch,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or34,3,Mug,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or37,3,People,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or38,4,Bike,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or40,4,Couch,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or42,4,Solar panels,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or44,2,The magnifying glass,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or45,4,VR goggle,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs46,3,Blackboard,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs47,3,Bench,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs48,3,Book,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs49,2,Electrode cap,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs50,3,The animal,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr1,2,Woman,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr2,3,Pointy trees,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr3,3,Tray,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr4,4,The man,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr5,3,Globe,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr6,3,Drones,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr7,3,Red rays,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr8,3,Man,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr9,4,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr10,3,"""the man's right hand""",llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr11,2,Open books,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr12,3,Soccer ball,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr13,4,The green cloth,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr14,4,Red bars,llava-hf/llava-1.5-7b-hf,443,batch3,r
+fr15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs52,3,Water,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs55,3,Faucet,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs56,4,Quill pen,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs59,3,The woman with a notepad,llava-hf/llava-1.5-7b-hf,443,batch3,r
+cs60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de61,4,Cylinders,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de62,3,People,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de63,4,Corn,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de65,3,Ape,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de66,4,Hourglass,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de68,4,Shield,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de69,4,Man with hat,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de70,3,The arrow,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de71,3,Flames,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de72,2,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de73,3,Lamp,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de74,3,Everything equal,llava-hf/llava-1.5-7b-hf,443,batch3,r
+de75,4,The trees in the lower left corner,llava-hf/llava-1.5-7b-hf,443,batch3,r
+or31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or32,3,Person,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or33,3,Torch,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or34,4,Mug,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or35,4,The magnifying glass,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or37,4,People,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or38,3,Bike,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or39,4,Mug,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or40,3,Couch,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or42,3,Solar panels,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or43,3,puzzle pieces,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,476,batch3,r
+or45,3,VR goggle,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs46,4,Blackboard,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs47,3,Bench,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs48,4,Book,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs50,4,The animal,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr1,4,Woman,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr2,1,Solar panel,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr3,3,Tray,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr4,2,The man,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr5,3,The baby,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr6,4,Drones,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr8,4,The man,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr9,4,The crowd,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr11,4,Open book,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr12,3,Child on bike,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr13,3,Green cloth,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr14,3,Red bars,llava-hf/llava-1.5-7b-hf,476,batch3,r
+fr15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs51,4,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs52,4,Water,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs53,4,Helicopter,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs55,2,Faucet,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs56,2,Quill pen,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs57,3,Bank,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs59,3,Woman with a notepad,llava-hf/llava-1.5-7b-hf,476,batch3,r
+cs60,4,Woman,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de61,4,Cylinders,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de62,4,Seal,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de63,4,Corn,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de64,3,Glove,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de65,3,Ape,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de66,2,The hourglass,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de68,3,Shield,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de71,3,The flames,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de72,2,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de73,4,Lamp,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de74,3,Everything equal,llava-hf/llava-1.5-7b-hf,476,batch3,r
+de75,4,"The cliffs on the right, the mountains in the upper left corner, or",llava-hf/llava-1.5-7b-hf,476,batch3,r
+or46,1,Blackboard,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or47,3,Bench,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or48,3,Book,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or50,4,Moon,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de1,4,Woman,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de2,4,The pointy trees,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de3,3,Tray,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de5,3,Suitcase,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de6,4,Drones,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,178,batch4,r
+de8,3,Man,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de9,4,The crowd,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de12,3,Kid on bike,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de13,3,The green cloth,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de14,3,Red bars,llava-hf/llava-1.5-7b-hf,178,batch4,r
+de15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr16,4,The heart-shaped tree,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr17,3,The brain,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr18,4,Elephant,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr19,4,The man in a wheelchair is at the most front of this image.,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr20,3,Man,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr21,4,Plants,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr22,4,The sun,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr23,3,The moon,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr24,2,Phone,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr25,4,Light,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr26,3,Air pump,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr28,4,Pig,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr29,4,Man with a beard,llava-hf/llava-1.5-7b-hf,178,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or52,4,Water,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or55,2,The faucet,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or56,4,Bookshelf,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs61,3,Cylinders,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs62,4,Seal,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs63,3,Corn,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs64,4,Glove,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs65,3,Ape,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs66,3,Hourglass,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs67,2,Yellow balls,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs70,3,The arrow,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs71,4,Flames,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs72,3,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs73,3,The lamps,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,178,batch4,r
+cs75,3,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,178,batch4,r
+or46,3,Blackboard,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or48,3,Book,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or49,4,The electrode cap,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or50,3,The animal,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de1,2,The woman,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de3,4,Tray,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de5,4,The baby,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de6,4,Drones,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de7,4,The blue rays.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de8,3,Man,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de9,3,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de13,4,Green cloth,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de14,4,Red bars,llava-hf/llava-1.5-7b-hf,191,batch4,r
+de15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr16,3,The heart-shaped tree.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr17,4,Everything equal,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr18,3,Elephant,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr20,4,Man,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr21,3,Plants,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr22,4,Sun,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr23,3,Moon,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr24,3,Phone,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr25,2,Light,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr26,2,Bike,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr27,3,"""the woman's left foot""",llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr28,3,Pig,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+fr30,3,Flasks,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or51,3,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or52,3,Water,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or53,3,Helicopter,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or55,3,Faucet,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or56,3,Quill pen,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or57,1,The bank,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or59,3,Woman with a notepad,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or60,4,The woman on stage.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs62,4,Seal,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs63,4,Corn,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs65,3,Ape,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs66,4,Hourglass,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs68,2,Shield,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs71,4,Flames,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs73,4,Lamp,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,191,batch4,r
+cs75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,191,batch4,r
+or46,3,The blackboard,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or48,3,Book,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or50,2,The moon,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de1,3,Woman,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de2,1,Pointy trees,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de3,2,Tray,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de5,4,The globe,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de6,3,The drones,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de7,4,"Red rays, it is ambiguous",llava-hf/llava-1.5-7b-hf,211,batch4,r
+de8,4,The man,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de9,4,The DJ behind the glass.,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de12,4,Child on bike,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de13,4,The green cloth,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de14,4,Red bars,llava-hf/llava-1.5-7b-hf,211,batch4,r
+de15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr17,3,Brain,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr18,3,Elephant,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr19,3,The man in a wheelchair.,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr20,3,Man,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr21,4,Screen,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr22,4,The sun,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr23,3,The door,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr25,4,The light,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr26,2,The bike,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr29,4,Man with beard,llava-hf/llava-1.5-7b-hf,211,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or51,3,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or52,4,The water,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or55,3,Faucet,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or56,4,Quill pen,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or58,4,The wind turbines,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or59,2,The woman with a notepad,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs62,1,Seal,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs63,2,Corn,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs64,4,Glove,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs65,4,Ape,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs66,3,Hourglass,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs67,2,Yellow balls,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs70,3,The arrow,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs71,4,Flames,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs72,3,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs73,2,Lamp,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs74,4,Yellow shirt,llava-hf/llava-1.5-7b-hf,211,batch4,r
+cs75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,211,batch4,r
+or46,4,Blackboard,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or47,3,Bench,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or48,3,Book,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or49,4,electrode cap,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or50,4,The moon,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de1,4,Woman,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de2,3,Solar panel,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de3,3,Tray,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de4,3,The man,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de5,3,The baby,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de6,3,Barbed wire,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,305,batch4,r
+de8,3,Man,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de12,4,Child on bike,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de13,3,The green cloth,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de14,2,The red bars,llava-hf/llava-1.5-7b-hf,305,batch4,r
+de15,2,Woman in jeans,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr16,4,The heart-shaped tree,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr17,3,The brain,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr18,3,The elephant,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr19,3,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr20,4,Man,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr21,4,Plants,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr22,2,The sun,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr23,3,The moon,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr25,3,The light,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr26,4,Air pump,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr28,4,Pig,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr29,4,Man with beard,llava-hf/llava-1.5-7b-hf,305,batch4,r
+fr30,3,Flasks,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or51,3,The soldiers facing forward,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or52,3,Water,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or53,3,Helicopter,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or54,3,Piggy bank,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or55,4,Faucet,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or56,4,The quill pen,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or57,3,Bank,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or59,4,The woman with a notepad,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs62,3,Seal,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs63,4,Corn,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs65,4,Ape,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs66,3,Hourglass,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs67,4,The yellow balls,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs71,2,Flames,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs73,3,The lamps,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs74,3,Everything equal,llava-hf/llava-1.5-7b-hf,305,batch4,r
+cs75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,305,batch4,r
+or46,3,Blackboard,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or48,3,Book,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or50,4,The moon,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de1,3,Woman,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de2,3,Skyscrapers,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de3,3,Tray,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de5,4,Suitcase,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de6,3,Drones,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,330,batch4,r
+de8,2,Man,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de9,3,DJ,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de12,3,Soccer ball,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de13,3,Green cloth,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de14,4,Red bars,llava-hf/llava-1.5-7b-hf,330,batch4,r
+de15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr17,4,Brain,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr18,4,Elephant,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr19,4,Laptops,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr20,3,Man,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr21,3,Screen,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr22,4,The sun,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr23,3,The moon,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr25,3,The light,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr26,4,Air pump,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr28,3,Pig,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr29,4,Man with a beard,llava-hf/llava-1.5-7b-hf,330,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or52,4,Water,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or53,3,Helicopter,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or55,3,The faucet,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or56,2,Quill pen,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or58,3,The wind turbines,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or59,3,Woman,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs61,3,Cylinders,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs62,3,Seal,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs63,3,Corn,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs64,4,Glove,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs65,3,Ape,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs66,4,The hourglass,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs69,4,Man with his hand on his chin,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs70,3,Arrow,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs71,3,Flames,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs72,2,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs73,4,Lamp,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs74,3,Person in yellow shirt,llava-hf/llava-1.5-7b-hf,330,batch4,r
+cs75,2,The cliffs on the right,llava-hf/llava-1.5-7b-hf,330,batch4,r
+or46,4,Blackboard,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or48,4,Book,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or50,3,The moon,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de1,3,The woman,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de2,3,Pointy trees,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de3,3,Tray,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de5,2,The baby,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de6,4,Drones,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de7,3,"The red rays, it is ambiguous",llava-hf/llava-1.5-7b-hf,340,batch4,r
+de8,4,Man,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de11,3,Open books,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de12,4,The kid on the bike,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de13,4,Green,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de14,3,The red bars,llava-hf/llava-1.5-7b-hf,340,batch4,r
+de15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr17,4,Brain,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr18,4,Elephant,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr19,4,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr20,2,Man,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr21,3,Screen,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr22,3,Everything equal,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr23,4,The moon,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr25,4,Light,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr26,2,Bike,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr28,4,Pig,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr29,2,Beard,llava-hf/llava-1.5-7b-hf,340,batch4,r
+fr30,3,Flasks,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or51,4,The soldiers facing forward.,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or52,1,Water,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or55,3,Faucet,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or56,4,Quill pen,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or59,2,Woman with notepad,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or60,3,The woman on stage,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs62,3,Seal,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs63,4,Tomatoes,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs65,3,Ape,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs66,3,Hourglass,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs69,4,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs71,4,Flames,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs73,4,Lights,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs74,3,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,340,batch4,r
+cs75,3,Cliffs,llava-hf/llava-1.5-7b-hf,340,batch4,r
+or46,4,The door on the left,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or48,4,Book,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or50,4,Moon,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de1,2,Woman,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de2,1,Solar panel,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de3,2,Tray,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de4,4,The man,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de5,3,The baby,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de6,3,Drones,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,414,batch4,r
+de8,4,Man,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de9,3,DJ behind glass,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de11,1,The open books,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de12,3,Soccer ball,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de13,3,Green cloth,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de14,4,The red bars,llava-hf/llava-1.5-7b-hf,414,batch4,r
+de15,2,Woman in jeans,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr17,2,The brain,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr18,3,Elephant,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr20,3,Man,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr21,4,Plants,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr22,4,The sun,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr23,3,The door,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr24,4,Cannot say,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr25,4,Light,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr26,4,The air pump,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr28,3,Pig,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr29,3,The man with a beard.,llava-hf/llava-1.5-7b-hf,414,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or52,3,Water,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or55,3,Faucet,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or56,3,Bookshelf,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or58,4,Wind turbines,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or59,3,Woman with notepad,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs61,3,Cylinders,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs62,3,Seal,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs63,4,Corn,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs65,4,Ape,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs66,3,Hourglass,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs67,3,The yellow balls,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs68,4,Shield,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs69,3,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs71,3,Flames,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs72,3,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs73,4,Lamp,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs74,2,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,414,batch4,r
+cs75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,414,batch4,r
+or46,3,Blackboard,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or47,2,Bench,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or48,4,The book,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or49,3,Electrode cap,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or50,4,The moon,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de1,4,Woman,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de2,3,Skyscrapers,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de3,2,Tray,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de4,4,Man,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de5,2,Suitcase,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de6,4,Drones,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de7,3,Red rays,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de8,3,Man,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de9,3,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de10,4,the man's right hand,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de13,4,Green cloth,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de14,3,Red bars,llava-hf/llava-1.5-7b-hf,455,batch4,r
+de15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr17,3,The brain,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr18,4,Elephant,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr19,3,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr20,4,Man,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr21,1,Plants,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr22,1,Everything equal,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr23,3,The moon,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr24,4,The phone,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr25,3,Light,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr26,3,The air pump,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr28,4,Pig,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr29,4,Cannot say,llava-hf/llava-1.5-7b-hf,455,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or51,4,Soldiers facing forward,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or52,4,Water,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or54,2,Piggy bank,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or55,4,Faucet,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or56,4,Quill,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or57,4,The bank,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or59,3,Woman,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or60,2,Woman on stage,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs62,3,The people,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs63,4,Corn,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs65,1,Ape,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs66,2,Hourglass,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs68,1,Shield,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs69,4,Sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs70,4,The dollar sign,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs71,4,Flames,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs72,3,Red hat-shaped object,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs73,4,Lamps,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs74,4,Yellow shirt,llava-hf/llava-1.5-7b-hf,455,batch4,r
+cs75,4,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,455,batch4,r
+or46,3,Blackboard,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or47,3,Bench,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or48,3,The book,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or49,3,The electrode cap,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or50,4,Animal,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de1,4,The woman,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de2,3,Skyscrapers,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de3,1,Tray,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de4,3,The man,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de5,4,The suitcase,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de6,3,Drones,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de7,4,"The red rays, it is ambiguous",llava-hf/llava-1.5-7b-hf,489,batch4,r
+de8,4,The man,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de9,3,DJ,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de10,3,The thermos,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de12,3,Child on bike,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de13,3,Green cloth,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de14,3,The red bars,llava-hf/llava-1.5-7b-hf,489,batch4,r
+de15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr17,4,The brain,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr18,4,Elephant,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr19,4,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr20,4,Man,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr21,4,Plants,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr22,3,The sun,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr23,4,The moon,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr25,4,The light,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr26,4,Bike,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr28,3,The pig,llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr29,4,"The man with a beard, the house symbol, cannot say.",llava-hf/llava-1.5-7b-hf,489,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or51,4,Soldiers,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or52,3,Water,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or54,4,Piggy bank,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or55,3,Faucet,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or56,4,Quill pen,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or57,4,Bank,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or58,3,Wind turbines,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or59,2,Woman with notepad,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or60,4,Woman on stage,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs62,3,Seal,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs63,3,Corn,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs64,3,Glove,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs65,2,Ape,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs66,4,Hourglass,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs68,3,Shield,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs69,4,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs70,2,Dollar sign,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs71,3,Fire truck,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs72,3,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs73,4,Lamp,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,489,batch4,r
+cs75,3,Cliffs on right,llava-hf/llava-1.5-7b-hf,489,batch4,r
+or46,3,Scale,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or47,4,Bench,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or48,4,Book,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or49,4,Electrode cap,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or50,3,Animal,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de1,2,Woman,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de2,2,Solar panel,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de3,4,Tray,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de4,3,It is ambiguous.,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de5,4,Suitcase,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de6,3,The drones,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,494,batch4,r
+de8,4,The man,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de11,4,Open books,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de13,4,Green cloth,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de14,3,Red bars,llava-hf/llava-1.5-7b-hf,494,batch4,r
+de15,3,The woman in jeans,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr17,4,The brain,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr18,2,Elephant,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr19,3,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr20,3,Man,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr21,2,Plants,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr22,4,Everything equal,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr23,4,The moon,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr24,4,Phone,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr25,4,Light,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr26,4,Bike,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr28,4,Pig,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr29,3,Cannot say,llava-hf/llava-1.5-7b-hf,494,batch4,r
+fr30,4,Flasks,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or51,3,Soldiers,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or52,4,The water,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or53,4,Helicopter,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or54,3,The piggy bank,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or55,4,Faucet,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or56,3,Quill pen,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or57,3,Bank,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or58,2,Wind turbines,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or59,3,The woman with a notepad,llava-hf/llava-1.5-7b-hf,494,batch4,r
+or60,3,Woman on stage,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs61,4,Cylinders,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs62,4,People,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs63,3,Corn,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs64,4,Glove,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs65,3,Ape,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs66,2,Hourglass,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs68,4,The shield,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs70,2,Arrow,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs71,3,Flames,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs72,1,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs73,4,Lamps,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs74,3,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,494,batch4,r
+cs1,3,Woman,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs2,4,The pointy trees,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs3,3,Tray,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs4,4,The man,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs5,2,The baby,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs6,4,Men with hands up,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs7,4,The red rays,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs8,4,Man,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs9,4,DJ,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs11,4,Open books,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs12,4,The kid on the bike,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs13,1,Stool,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs14,1,Red bars,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de17,4,Brain,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de18,3,Elephant,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de19,3,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de20,2,The man,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de21,4,Screen,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de22,4,Everything equal,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de23,2,Door,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de24,4,Phone,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de25,4,Big circle,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de26,4,Bike,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de28,4,Pig,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de29,2,Man with beard,llava-hf/llava-1.5-7b-hf,108,batch5,r
+de30,2,Flasks,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr32,1,Person,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr33,4,The torch,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr34,3,Mug,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr36,3,The cigarette box,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr37,3,People,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr38,2,Bike,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,108,batch5,r
+fr45,3,VR goggle,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or61,3,Cylinders,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or62,3,Seal,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or63,4,Corn,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or64,2,Glove,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or66,3,Hourglass,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or67,2,Yellow balls,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or68,3,Shield,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or69,4,The sitting man wearing a hat.,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or72,3,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or73,4,Lamps,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or74,3,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,108,batch5,r
+or75,4,Cliffs on the right,llava-hf/llava-1.5-7b-hf,108,batch5,r
+cs1,3,Woman,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs2,3,Pointy trees,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs4,4,It is ambiguous,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs5,3,The baby,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs6,4,Drones,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs7,2,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs8,2,Man,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs9,4,The crowd,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs11,4,Open books,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs12,3,Child on bike,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs13,3,Green cloth,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs14,3,Red bars,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs15,4,The woman with the headband,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de17,4,Brain,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de18,4,Elephant,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de19,3,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de20,4,Man,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de21,4,The plants,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de22,4,The sun,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de23,2,The moon,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de24,4,The phone,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de25,3,Light,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de26,3,Air pump,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de28,4,Pig,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de29,3,cannot say,llava-hf/llava-1.5-7b-hf,125,batch5,r
+de30,4,Flasks,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr32,3,Person,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr33,4,Torch,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr34,4,Mug,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr35,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr36,4,The cigarette box,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr37,4,People,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr38,1,Bike,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr40,3,Couch,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr42,3,Solar panels,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr44,4,The magnifying glass,llava-hf/llava-1.5-7b-hf,125,batch5,r
+fr45,3,VR goggle,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or61,2,Cylinders,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or62,3,Seal,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or63,1,Corn,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or64,2,Glove,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or67,4,The yellow balls,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or68,3,Shield,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or70,2,The dollar sign,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or72,2,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or73,4,Lamps,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,125,batch5,r
+or75,3,Cliffs on the right,llava-hf/llava-1.5-7b-hf,125,batch5,r
+cs1,3,Woman,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs2,1,Skyscrapers,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs3,4,The tray,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs4,4,The man,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs5,4,The baby,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs6,4,drones,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs7,4,The red rays,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs8,3,Man,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs9,4,DJ,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs11,4,Open books,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs12,3,The kid on the bike,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs13,3,Green cloth,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs14,3,Red bars,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de16,2,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de17,4,The brain,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de18,2,Elephant,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de19,2,Man in wheelchair,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de20,4,Man,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de21,3,Plants,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de22,4,Sun,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de23,1,The door,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de24,4,Cannot say.,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de25,3,The light,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de26,4,Bike,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de27,2,The woman's left foot,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de28,4,Pig,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de29,4,Cannot say,llava-hf/llava-1.5-7b-hf,136,batch5,r
+de30,3,Flasks,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr31,1,Yellow tape,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr32,4,Person,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr33,3,The torch,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr34,3,Mug,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr36,3,Cigarette box,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr37,4,People,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,136,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or62,3,People,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or63,2,Corn,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or64,3,Glove,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or68,4,Shield,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or72,3,The green flower-shaped object.,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or73,4,Lamps,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,136,batch5,r
+or75,4,Cliffs on right,llava-hf/llava-1.5-7b-hf,136,batch5,r
+cs1,4,Woman,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs2,4,Solar panel,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs4,4,Man,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs5,3,The baby,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs6,4,The drones,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs7,4,The red rays,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs8,3,The man,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs9,4,DJ,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs11,3,Open books,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs12,3,Child on bicycle,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs13,3,Green cloth,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs14,3,Red bars,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de17,2,The brain,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de18,4,Elephant,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de19,2,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de20,4,Man,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de21,4,Plants,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de22,4,The sun,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de23,2,Moon,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de24,4,Phone,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de25,4,Light,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de26,3,Air pump,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de27,4,the woman's left foot,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de28,2,Pig,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de29,3,Man with beard,llava-hf/llava-1.5-7b-hf,270,batch5,r
+de30,4,Flasks,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr32,4,Person,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr33,3,The torch,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr34,4,Mug,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr35,2,The magnifying glass,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr37,4,The people,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr44,3,The magnifying glass,llava-hf/llava-1.5-7b-hf,270,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or62,4,Seal,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or63,3,Corn,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or64,4,Glove,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or65,4,Ape,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or68,4,Shield,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or69,4,Sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or71,3,Flames,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or72,4,Red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or73,3,Lamp,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or74,4,The person in the yellow shirt is at the most front of the image.,llava-hf/llava-1.5-7b-hf,270,batch5,r
+or75,2,Cliffs on the right,llava-hf/llava-1.5-7b-hf,270,batch5,r
+cs1,4,The woman,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs2,3,Pointy trees,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs3,3,The tray,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs4,4,The man,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs5,3,Baby,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs6,4,Drones,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs7,4,Red rays,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs8,3,The man,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs9,3,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs11,3,Open books,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs12,3,The kid on the bike,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs13,3,Green cloth,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs14,3,Red bars,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de17,3,Everything,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de18,2,Elephant,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de19,3,Man in chair,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de20,3,The man,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de21,4,Plants,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de22,3,Everything equal,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de23,3,Moon,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de24,3,Phone,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de25,3,The light,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de26,3,Bike,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de27,1,The woman's left foot,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de28,3,Pig,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de29,1,Cannot say,llava-hf/llava-1.5-7b-hf,272,batch5,r
+de30,3,Flasks,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr32,4,The person,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr33,4,Torch,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr34,2,Mug,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr37,2,People,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr38,4,Bike,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr39,3,The mug,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,272,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or62,4,Seal,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or63,3,Corn,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or64,4,Glove,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or65,4,Ape,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or68,4,Shield,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or69,3,"The sitting man wearing a hat, the chalkboard, the man with",llava-hf/llava-1.5-7b-hf,272,batch5,r
+or70,3,Dollar sign,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or72,3,The red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or73,4,Lamp,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or74,3,The person in a yellow shirt,llava-hf/llava-1.5-7b-hf,272,batch5,r
+or75,3,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,272,batch5,r
+cs1,2,Woman,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs2,3,Pointy trees,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs4,3,Man,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs5,4,Suitcase,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs6,2,The drones,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs7,4,The red rays,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs8,3,Man,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs9,2,DJ,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs11,4,Open books,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs12,3,Kid on bike,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs13,4,The green cloth,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs14,3,Cannot say,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs15,4,The woman in jeans,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de16,3,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de17,4,Everything equal,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de18,3,The elephant,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de19,3,The tree,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de20,4,Man,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de21,3,Plants,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de22,3,Sun,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de23,4,Moon,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de24,3,Phone,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de25,4,The light,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de26,4,Bike,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de27,2,The woman's left foot,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de28,3,Pig,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de29,4,The man with a beard.,llava-hf/llava-1.5-7b-hf,305,batch5,r
+de30,4,Flasks,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr32,4,Person,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr33,4,The torch,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr34,4,Mug,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr35,3,"The magnifying glass, the door, the standing people and the book.",llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr36,3,The woman,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr37,3,People,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr39,4,Mug,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr42,3,Solar panels,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,305,batch5,r
+fr45,3,VR goggle,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or61,4,The cylinders,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or62,4,Seal,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or63,4,Corn,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or64,3,Glove,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or68,2,Shield,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or71,4,The flames,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or72,3,Red flower,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or73,2,The lamps,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or74,4,Everything equal,llava-hf/llava-1.5-7b-hf,305,batch5,r
+or75,3,Cliffs on the right.,llava-hf/llava-1.5-7b-hf,305,batch5,r
+cs1,3,Woman,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs2,2,Pointy trees,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs4,3,"The man, the weight, and it is ambiguous.",llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs5,2,Suitcase,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs6,4,Drones,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs7,4,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs8,2,The man,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs10,3,"""the man's right hand""",llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs11,2,Open books,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs12,3,Bike,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs13,4,Green cloth,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs14,4,Red bars,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de17,3,The brain,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de18,3,Elephant,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de19,4,Man in wheelchair,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de20,3,Man,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de21,4,Plants,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de22,3,The sun,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de23,2,The moon,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de24,4,Phone,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de25,4,Light,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de26,2,Air pump,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de28,4,Pig,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de29,3,Man with beard,llava-hf/llava-1.5-7b-hf,362,batch5,r
+de30,4,Cannot say,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr32,3,The person,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr33,4,Torch,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr34,3,Mug,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr35,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr36,4,Cigarette box,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr37,3,People,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr40,3,Little girl,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr41,1,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr42,3,Solar panels,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,362,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or62,3,Seal,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or63,4,Corn,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or64,3,Glove,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or66,3,Hourglass,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or67,3,Yellow balls,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or68,3,The shield,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or70,4,The arrow,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or72,3,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or73,3,Lamp,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or74,4,The person in a yellow shirt.,llava-hf/llava-1.5-7b-hf,362,batch5,r
+or75,3,The cliffs on the right.,llava-hf/llava-1.5-7b-hf,362,batch5,r
+cs1,3,Woman,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs2,4,Pointy trees,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs4,4,The man,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs5,4,Suitcase,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs6,4,Barbed wire,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs7,3,"The red rays, it is ambiguous.",llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs8,1,Man,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs9,3,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs10,3,The man's right hand,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs11,3,Open books,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs12,4,Soccer ball,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs13,4,Green cloth,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs14,4,Red bars,llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs15,4,Woman in jeans,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de17,4,The brain.,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de18,3,Elephant,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de19,4,The man in a wheelchair,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de20,3,Light,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de21,4,Plants,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de22,4,The sun,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de23,1,Moon,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de24,3,Phone,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de25,4,The light,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de26,3,Air pump,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de27,4,The woman's left foot,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de28,3,Pig,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de29,4,Man with beard,llava-hf/llava-1.5-7b-hf,387,batch5,r
+de30,3,Flasks,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr32,3,The person,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr33,2,Torch,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr34,4,Mug,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr36,3,Woman,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr39,4,Mug,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr40,3,Couch,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr41,3,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr43,3,puzzle pieces,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr44,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,387,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or62,4,The seal,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or63,4,Corn,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or64,3,The glove,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or65,1,Ape,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or66,3,Hourglass,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or68,4,The shield,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or69,4,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or70,4,The arrow,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or72,2,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or73,4,Lamp,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or74,3,Everything equal,llava-hf/llava-1.5-7b-hf,387,batch5,r
+or75,4,"Cliffs on the right, the mountains in the upper left corner, and the",llava-hf/llava-1.5-7b-hf,387,batch5,r
+cs1,4,Woman,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs2,2,Solar panel,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs3,3,Tray,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs4,3,The man,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs5,4,Suitcase,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs6,4,Drones,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs7,3,Red rays,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs8,1,The man,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs9,4,The DJ behind the glass,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs11,4,Open books,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs12,3,The kid on the bike,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs13,2,The green cloth,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs14,2,Red bars,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs15,3,Woman in jeans,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de17,4,Brain,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de18,4,Elephant,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de19,3,Man in a wheelchair,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de20,3,Man,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de21,4,Plants,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de22,4,The sun,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de23,4,Door,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de24,4,Phone,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de25,4,Light,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de26,2,Bike,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de28,3,Pig,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de29,4,The man with a beard.,llava-hf/llava-1.5-7b-hf,415,batch5,r
+de30,2,Flasks,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr31,4,Yellow tape,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr32,4,Person,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr33,4,Torch,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr34,3,Mug,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr36,3,Cigarette box,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr37,4,People,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr38,3,Bike,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr39,4,Mug,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr41,4,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr43,3,Puzzle pieces,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,415,batch5,r
+fr45,4,VR goggle,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or62,3,People,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or63,4,Corn,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or64,1,Glove,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or65,3,Ape,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or66,4,Hourglass,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or67,2,Yellow balls,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or68,4,Shield,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or69,3,The sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or70,4,Dollar sign,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or71,4,Flames,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or72,3,The red flower-shaped object with a pointy middle,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or73,4,Lamp,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or74,4,Everything equal.,llava-hf/llava-1.5-7b-hf,415,batch5,r
+or75,2,Cliffs on right,llava-hf/llava-1.5-7b-hf,415,batch5,r
+cs1,4,Woman,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs2,3,Solar panel,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs3,4,Tray,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs4,3,Man,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs5,2,The baby,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs6,4,Barbed wire,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs7,3,Red rays,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs8,3,Man,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs9,3,DJ behind the glass,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs10,4,The man's right hand,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs11,3,Open books,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs12,3,Child on bike,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs13,4,Green cloth,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs14,4,The red bars,llava-hf/llava-1.5-7b-hf,416,batch5,r
+cs15,3,The woman in jeans,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de16,4,Heart-shaped tree,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de17,3,Brain,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de18,3,The elephant,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de19,3,Man in wheelchair,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de20,3,Man,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de21,1,Plants,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de22,4,Everything equal,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de23,3,Door,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de24,4,Phone,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de25,4,Light,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de26,3,Air pump,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de27,3,The woman's left foot,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de28,1,Pig,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de29,3,Man with beard,llava-hf/llava-1.5-7b-hf,416,batch5,r
+de30,4,Flasks,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr31,3,Yellow tape,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr32,4,Person,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr33,3,The torch,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr34,3,Mug,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr35,3,Magnifying glass,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr36,3,The cigarette box,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr37,2,People,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr38,4,Bike,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr39,3,Mug,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr40,4,Couch,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr41,2,Fingerprint scanner,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr42,4,Solar panels,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr43,4,Puzzle pieces,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr44,4,Magnifying glass,llava-hf/llava-1.5-7b-hf,416,batch5,r
+fr45,3,VR goggle,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or61,4,Cylinders,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or62,4,Seal,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or63,3,Corn,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or64,4,Glove,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or65,4,Ape,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or66,3,hourglass,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or67,4,Yellow balls,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or68,4,Shield,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or69,4,the sitting man wearing a hat,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or70,2,Dollar sign,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or71,2,The flames.,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or72,4,The red flower-shaped object with a pointy middle.,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or73,4,Lamp,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or74,4,Person in yellow shirt,llava-hf/llava-1.5-7b-hf,416,batch5,r
+or75,4,The cliffs on the right,llava-hf/llava-1.5-7b-hf,416,batch5,r

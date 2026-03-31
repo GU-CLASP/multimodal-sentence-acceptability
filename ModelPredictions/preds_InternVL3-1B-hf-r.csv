@@ -1,0 +1,3061 @@
+name,natural,choice,model,seed,batch,condition
+or1,2,the woman,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or4,2,The man,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or7,4,the red rays,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or11,3,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or12,3,The kid on the bike is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or14,3,red bars,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or15,1,the woman in jeans,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs17,2,The brain.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs29,2,cannot say,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+cs30,2,flasks,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de31,3,the dog collar,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de34,3,the hands,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de37,2,The people,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de38,3,the chart,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de40,3,the little girl,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de42,2,the big window,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+de45,2,The person holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr50,2,The animal,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr51,1,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr52,3,the water,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr55,2,the crane,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr57,2,the bank,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr58,3,the people,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+fr60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,121,batch1,r
+or1,1,The woman,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or3,2,the tray,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or4,2,The man.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or11,2,the open books,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or14,3,The red bars,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or15,3,the woman with the headband,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs17,4,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs24,1,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs25,3,the big circle,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs28,2,the pig,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs29,2,the house symbol,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+cs30,2,The flasks.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de32,2,the person,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de34,2,the hands,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de38,2,the chart,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+de45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr48,3,the book,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr52,3,the land,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr55,2,The faucet.,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr58,3,the people,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-1B-hf,167,batch1,r
+or1,1,the woman,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or3,2,the tray,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or4,2,The man.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or6,1,The barbed wire is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or7,3,The red rays,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or14,2,red bars,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs17,2,The brain.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs18,3,the elephant,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs20,2,The man is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs24,3,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs25,1,the big circle,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs29,2,cannot say,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+cs30,2,the flasks,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de34,2,the mug,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de37,2,The people,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+de45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr47,2,the couple,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr50,3,the animal,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr52,3,the water,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr53,1,the helicopter,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr54,1,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr55,3,three standing humans,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+fr60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,193,batch1,r
+or1,2,The woman,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or3,2,the tray,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or4,3,The man.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or6,2,the barbed wire,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or9,2,the crowd,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or13,3,the stool,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or14,4,red bars,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or15,2,The woman in jeans is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs17,3,Everything equal.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs24,3,the phone,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs26,3,the bike,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs28,3,the pig,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs29,2,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+cs30,2,flasks,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de32,1,the person,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de34,3,the mug,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de36,2,The cigarette box.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de37,3,the people,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de38,2,the bike,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de43,4,the keyboard,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+de45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr46,1,the scale,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr52,3,the water,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr55,3,The crane is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr56,1,the quill pen,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr57,2,the bank,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr59,4,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+fr60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,277,batch1,r
+or1,2,the woman,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or4,1,the man,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or11,2,the open books,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or14,2,the red bars,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or15,3,,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs22,3,everything equal,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs24,2,the phone,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs25,3,the big circle,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs29,3,cannot say,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+cs30,2,flasks,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de32,2,the person,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de34,2,the mug,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de38,2,the chart,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de44,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+de45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr50,3,the animal,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr51,1,The soldiers facing forward.,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr52,4,the water,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr54,1,The piggy bank,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr55,3,the crane,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr58,3,the people,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+fr60,4,the woman on stage,OpenGVLab/InternVL3-1B-hf,312,batch1,r
+or1,1,the woman,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or2,1,the skyscrapers,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or3,2,the tray,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or4,3,The man.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or7,2,the red rays,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or10,4,the woman's left hand,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or11,2,the open books,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or14,2,red bars,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or15,2,The woman in jeans is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs22,3,everything equal,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs23,1,the door,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs24,2,The phone.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs28,3,the pig,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs29,2,cannot say,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+cs30,2,The flasks.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de31,2,the paramedics,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de32,2,the person,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de34,3,the mug,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de35,3,the magnifying glass,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de36,3,the cigarette box,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de38,2,the chart,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de39,2,The person sitting alone.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de42,3,the bigger globe,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+de45,3,The colorful face,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr47,2,the couple,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr52,2,the water,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr54,2,It is ambiguous and nothing else.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr55,1,The faucet is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr59,2,the woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+fr60,1,the woman on stage,OpenGVLab/InternVL3-1B-hf,360,batch1,r
+or1,2,The woman,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or4,3,The man.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or7,3,the red rays,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or14,3,red bars,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs17,3,The brain is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs18,4,the elephant,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs22,3,everything equal,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs24,2,phone,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs26,3,the bike,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs29,2,the house symbol,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+cs30,3,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de32,4,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de34,3,the mug,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de36,3,the cigarette box,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de38,3,the person,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de40,3,the little girl,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+de45,3,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr48,4,the bathtub,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr52,1,The water.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr55,2,the crane,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr56,1,the quill pen,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr57,2,The bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+fr60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,370,batch1,r
+or1,2,The woman,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or4,2,The man,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or6,3,the barbed wire,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or7,4,the red rays,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or9,2,the crowd,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or11,2,the open books,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or13,2,the stool,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or14,2,the red bars,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs22,3,everything equal,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs23,3,the door,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs24,2,The phone,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs29,2,cannot say,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+cs30,2,flasks,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de31,2,the yellow tape,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de34,2,the mug,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+de45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr47,2,the couple,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr52,3,the water,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr55,2,The faucet is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr57,1,the bank,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr59,3,the laughing man,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+fr60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,378,batch1,r
+or1,2,The woman,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or2,3,the solar panel,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or3,2,The tray,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or4,2,The man,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or6,3,the barbed wire,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or7,3,the red rays,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or13,1,the stool,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or14,3,red bars,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or15,3,the woman with the headband,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs17,2,Everything equal.,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs24,2,the phone,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs25,3,the big circle,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs29,2,cannot say,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+cs30,3,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de32,2,the person,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de34,2,the mug,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de36,4,the cigarette,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de38,3,the person,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de44,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+de45,2,The person holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr50,1,The animal,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr52,2,the water,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr53,1,The helicopter is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr54,2,The piggy bank,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr55,2,the faucet,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr59,1,the laughing man,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+fr60,4,the woman on stage,OpenGVLab/InternVL3-1B-hf,415,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or4,2,The man.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or5,3,the baby,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or7,2,the red rays,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or9,2,the crowd,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or11,1,the open books,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or12,3,The soccer ball is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or14,2,the red bars,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or15,2,the woman with the headband,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs18,1,The elephant,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs21,4,the screen,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs23,2,the door,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs24,2,the phone,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs25,2,the big circle,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs28,4,the pig,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs29,2,man with a beard,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+cs30,1,The flasks.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de32,3,the person,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de34,3,the mug,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de35,2,The magnifying glass,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de38,2,the chart,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de40,3,the little girl,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de44,3,The book with a brick on it is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+de45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr48,4,the bathtub,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr50,2,The animal,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr52,2,the water,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr55,2,the crane,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr57,3,the bank,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr59,3,the laughing man,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+fr60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,430,batch1,r
+or1,1,the woman,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or2,3,the solar panel,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or3,2,the tray,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or4,2,The man.,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or11,2,the open books,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or13,3,the stool,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or14,3,red bars,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs18,1,the elephant,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs20,3,the man,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs21,3,the screen,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs22,2,everything equal,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs23,3,the door,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs24,1,The phone,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs25,3,the big circle,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs26,2,the bike,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs27,4,the woman's left foot,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs28,4,the pig,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs29,3,cannot say,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+cs30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de32,4,the person,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de34,2,the mug,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de36,2,the woman,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de38,2,the chart,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de40,2,the little girl,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de41,4,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de42,2,the bigger globe,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+de45,1,the colorful face,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr47,3,the couple,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr52,2,the water,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr53,1,the helicopter,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr54,4,,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr55,3,the crane,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+fr60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,471,batch1,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or18,3,the elephant,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or21,4,the screen,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or22,2,everything equal,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or24,1,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or28,2,the liver,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or29,2,cannot say,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or30,2,The flasks.,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs31,4,the yellow tape,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs32,2,the person,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs38,3,the chart,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs41,4,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs43,4,the keyboard,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+cs45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de52,2,the land,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de53,1,the helicopter,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de55,2,the crane,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de57,4,the pig broken in half,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+de60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr62,3,the seal,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr63,1,the tractor,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr66,1,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr67,2,the yellow balls,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr70,1,the dollar sign,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-1B-hf,115,batch2,r
+or16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or17,3,The brain.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or18,3,the check mark,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or19,2,the laptops,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or20,3,the man,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or21,4,the screen,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or22,2,everything equal,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or23,3,the door,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or24,2,The phone.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or25,3,the light,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or28,2,the pig,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or29,2,cannot say,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or30,3,The flasks,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs32,3,the person,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs34,1,the mug,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs37,2,the people,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs38,2,the person,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs39,2,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs40,3,the little girl,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+cs45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de51,4,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de52,2,the water,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de55,2,The crane is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de57,2,the bank,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de59,2,The woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr62,2,the people,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr63,3,the tractor,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr65,4,the ape,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr67,2,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr68,4,The shield,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr69,3,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr70,3,the dollar sign,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr71,3,the flames,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+fr75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,144,batch2,r
+or16,2,The heart-shaped tree is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or17,3,The brain.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or18,2,The elephant,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or22,3,everything equal,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or24,2,the phone,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or25,3,the big circle,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or26,3,the bike,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or29,2,cannot say,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs32,2,The front side of pedestal,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs37,2,the people,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs38,2,the chart,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs39,2,The person sitting alone is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs42,2,the big window,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs44,1,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+cs45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de52,3,the water,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de55,2,the crane,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+de60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr62,2,the people,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr63,3,the tractor,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr74,3,everything equal,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+fr75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,170,batch2,r
+or16,2,the watering cans,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or18,2,The elephant,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or22,3,everything equal,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or24,3,The phone,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or25,3,the big circle,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or26,3,the bike,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or28,4,the pig,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or29,1,cannot say,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or30,2,flasks,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs31,2,the yellow tape,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs32,3,The person,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs34,2,the hands,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs37,2,the people,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs38,3,the bike,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs39,4,the person sitting alone,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs40,3,the little girl,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+cs45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de50,3,the animal,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de52,3,the water,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de54,2,the piggy bank,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de55,3,the crane,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de57,2,The bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de59,2,the laughing man,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr62,2,the people,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr63,3,The corn,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr67,3,the yellow balls,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr69,3,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr71,2,the fumes,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+fr75,2,The cliff on the right is the one at the most front of this image.,OpenGVLab/InternVL3-1B-hf,179,batch2,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or18,2,The elephant is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or19,2,the laptops,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or22,2,everything equal,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or24,3,the phone,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or25,3,the big circle,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or26,3,the bike,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or28,1,the surgeons,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or29,3,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or30,1,flasks,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs32,2,the person,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs37,3,the people,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs38,3,the bike,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs42,1,the solar panels,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+cs45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de50,3,the animal,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de52,2,the water,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de55,1,the faucet,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de56,3,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de57,3,the bank,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+de60,1,the woman on stage,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr62,3,the people,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr63,2,the tractor,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr64,3,the glove,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr69,3,The man with his hand on his chin is at the most front of this image,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr70,3,the dollar sign,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr74,3,everything equal,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+fr75,2,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,217,batch2,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or17,3,everything equal,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or18,2,the elephant,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or19,2,the laptops,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or20,1,the man,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or22,1,everything equal,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or24,3,The phone.,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or29,3,cannot say,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or30,1,The flasks,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs31,1,the paramedics,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs32,2,the person,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs33,2,The torch is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs34,1,the mug,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs35,1,The magnifying glass,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs37,2,the people,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs38,3,the person,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs39,2,the mug,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+cs45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de47,3,the couple,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de48,2,the book,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de52,3,the water,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de55,2,the crane,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de57,2,the bank,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr62,2,the people,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr63,2,the tractor,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr67,2,The yellow balls,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+fr75,1,The cliffs on the right are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,239,batch2,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or18,2,the elephant,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or21,2,the screen,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or22,3,everything equal,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or23,3,the door,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or24,2,The phone.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or27,2,The woman's left foot is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or28,2,the pig,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or29,2,cannot say,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or30,3,The flasks,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs32,2,the person,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs37,2,The people,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs38,3,the person,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+cs45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de48,3,the book,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de50,2,The animal,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de52,2,the water,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de55,2,The faucet is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de59,2,the woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr62,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr63,3,the corn,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr65,2,The ape is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr68,2,the shield,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr69,1,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr71,3,the flames,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+fr75,3,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,265,batch2,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or18,2,the elephant,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or19,2,the laptops,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or22,3,everything equal,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or24,3,the phone,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or29,3,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs32,3,the person,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs36,3,the cigarette box,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs37,2,the people,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs38,3,the chart,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs39,2,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs40,3,the little girl,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs42,2,the big window,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+cs45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de47,3,the couple,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de50,3,The animal,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de52,1,the water,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de53,3,the power lines,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de55,2,the faucet,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+de60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr62,2,the seal,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr63,2,the tractor,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr64,1,the glove,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr67,3,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr68,2,the shield,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr69,2,The man with his hand on his chin is at the most front of this image,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr73,3,The most front of this image is the carriage.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr74,2,everything equal.,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+fr75,2,cliffs on the right,OpenGVLab/InternVL3-1B-hf,268,batch2,r
+or16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or17,2,The brain.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or18,2,the elephant,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or20,2,The man,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or21,3,the screen,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or22,2,Everything equal.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or24,3,The phone,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or26,3,the bike,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or28,3,the liver,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or29,2,the man with a beard,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or30,2,flasks,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs34,3,the hands,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs37,3,the people,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs38,3,the person,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs39,4,the person sitting alone,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs40,2,The little girl,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs41,2,The fingerprint scanner is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+cs45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de47,2,the couple,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de48,3,the book,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de50,3,the animal,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de52,3,the water,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de53,2,the helicopter is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de55,2,the faucet,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de57,2,the bank,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr62,2,The people,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr69,2,The man wearing a hat is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr74,3,everything equal,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+fr75,1,the trees in the lower left corner,OpenGVLab/InternVL3-1B-hf,317,batch2,r
+or16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or18,3,the elephant,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or20,2,the man,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or21,2,the screen,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or22,2,everything equal,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or23,2,the door,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or24,2,The phone,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or25,2,the big circle,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or26,2,the bike,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or28,1,the surgeons,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or29,2,cannot say,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or30,2,the flasks,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs33,2,the torch,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs37,2,The people,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs38,2,the person,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs39,2,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs40,2,the little girl,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs41,3,The fingerprint scanner is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs42,1,the solar panels,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+cs45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de46,2,the scale,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de47,3,the couple,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de52,2,the land,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de54,2,the piggy bank,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de55,2,The faucet is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+de60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr62,1,the people,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr63,2,the corn,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr64,2,the glove,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr65,3,the ape,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr66,3,the hourglass,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr67,2,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr72,3,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr73,2,The lamps,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr74,2,everything equal,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+fr75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,438,batch2,r
+or31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or32,2,the person,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or33,3,the torch,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or34,3,the mug,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or36,1,The cigarette box,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or37,2,the people,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or38,3,the person,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or39,2,the mug,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or41,4,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or42,1,the big window,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs50,2,The animal,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr1,1,the woman,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr3,3,the tray,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr4,3,The man,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr7,3,nothing else,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr14,1,the red bars,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs52,2,the land,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs53,1,The helicopter is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs59,2,The woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+cs60,1,the woman on stage,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de61,2,the tropical trees,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de62,1,the people,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de63,2,the corn,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de67,2,The yellow balls.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de69,3,the chalkboard,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de70,2,The dollar sign is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de73,2,the lamps,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de74,2,The person in a yellow shirt is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+de75,1,The cliffs on the right are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,129,batch3,r
+or31,2,the paramedics,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or32,3,the person,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or33,3,the torch,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or34,2,the hands,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or38,3,the bike,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs47,3,the couple,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs48,3,the book,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs50,3,the animal,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr3,3,the tray,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr4,2,The man,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr5,1,the suitcase,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr6,1,the men with their hands up,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr8,1,the man,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr11,3,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr12,1,the soccer ball,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr14,2,The red bars are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+fr15,4,the woman with the headband,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs51,3,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs52,2,the water,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs54,2,it is ambiguous,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs55,3,the crane,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs59,3,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+cs60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de62,2,the people,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de63,2,the tractor,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de65,2,the ape,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de70,3,the dollar sign,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+de75,2,The cliffs on the right is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,133,batch3,r
+or31,2,the paramedics,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or32,3,the person,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or33,2,the torch,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or34,2,the mug,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or35,2,The magnifying glass,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or38,3,the person,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or39,3,the mug,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or42,1,the solar panels,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or43,1,the keyboard,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs50,4,the animal,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr4,2,The man.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr6,2,The barbed wire is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr9,3,the crowd,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr12,2,The soccer ball is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr14,3,red bars,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs52,3,the water,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs57,2,the bank,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs59,2,,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+cs60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de62,2,the people,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de63,2,the corn,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de64,3,the glove,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de67,1,The yellow balls,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de70,3,the dollar sign,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+de75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,163,batch3,r
+or31,2,the yellow tape,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or32,3,The front side of the pedestal is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or33,2,the torch,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or34,2,the mug,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or37,2,the people,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or38,2,the bike,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs50,1,The animal,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr1,2,The woman,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr3,3,The tray,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr4,2,The man.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr6,3,the barbed wire,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr14,2,The red bars,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+fr15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs52,2,the water,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs57,2,the bank,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs58,3,the people,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+cs60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de62,3,the people,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de63,2,the corn,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de64,2,the glove,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de66,2,The hourglass is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de68,2,the shield,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de69,3,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de70,2,The dollar sign is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de71,3,the flames,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de72,2,the red flower-shaped object with a pointy middle is at the most front.,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de74,3,everything equal,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+de75,1,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,201,batch3,r
+or31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or32,3,the person,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or33,3,The torch is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or34,2,the hands,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or38,3,the person,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or39,3,the mug,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or44,3,The old-style building is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs49,2,the electrodes cap,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs50,3,the animal,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr1,2,The woman,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr2,3,the skyscrapers,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr3,3,the tray,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr4,2,The man.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr5,3,the baby,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr9,1,the crowd,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr14,3,The red bars.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs52,2,land,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs53,3,the big car,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs54,1,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs55,3,the faucet,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+cs60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de62,2,the people,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de63,2,the tractor,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de64,2,the glove,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de65,2,the ape,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de66,3,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de67,1,cannot say,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de68,2,the shield,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de69,3,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de74,3,everything equal,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+de75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,260,batch3,r
+or31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or33,2,the torch,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or34,2,the hands,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or36,3,the cigarette box,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or37,2,the people,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or38,2,the chart,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or39,4,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr1,2,The woman,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr2,2,The skyscrapers,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr4,2,The man.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr9,3,the crowd,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr12,4,the soccer ball,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr14,2,red bars,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+fr15,1,the woman in jeans,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs52,3,the water,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs54,2,It is ambiguous and nothing else.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+cs60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de62,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de63,2,tomatoes,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de64,3,the glove,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de67,1,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de73,2,the lamps,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+de75,2,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,300,batch3,r
+or31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or33,2,the torch,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or34,3,the mug,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or37,2,the people,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or38,3,the bike,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or39,2,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or42,1,the solar panels,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr2,2,the pointy trees,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr4,2,The man is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr11,3,the open books,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr14,2,red bars,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs52,2,the water,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs57,3,the bank,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de62,1,people,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de63,3,the tractor,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de64,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de68,2,the shield,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de73,1,the lamps,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+de75,3,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,344,batch3,r
+or31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or34,2,the mug,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or37,2,the people,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or38,3,the person,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or40,1,the little girl,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs47,3,the couple,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs49,2,The person holding a pen is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs50,2,The animal,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr1,3,the woman,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr4,2,The man,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr7,3,the red rays,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr9,3,the crowd,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr10,2,the woman's left hand,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr14,1,The red bars are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs52,2,the water,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs55,2,three standing humans,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs57,2,the bank,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+cs60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de62,3,the magnifying glass,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de63,1,the tractor,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de64,2,the glove,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de65,2,the ape,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de66,3,the hourglass,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de67,3,The yellow balls,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+de75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,347,batch3,r
+or31,2,the paramedics,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or33,2,the torch,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or37,2,The people,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or38,3,the bike,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or39,4,the person sitting alone,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or41,4,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs47,3,the couple,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs48,2,the book,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs50,2,the moon,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr4,3,The man.,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr7,4,The blue rays,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr13,3,The stool,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr14,2,red bars,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+fr15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs52,2,the land,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs54,1,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+cs60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de62,3,the people,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de63,2,the tractor,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de64,3,the glove,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de65,2,the ape,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de66,3,the hourglass,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de68,3,the shield,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de73,2,The lamps,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+de75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,364,batch3,r
+or31,3,the paramedics,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or33,3,the torch,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or34,2,the mug,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or38,3,the bike,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or39,3,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or40,4,the little girl,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or41,2,The fingerprint scanner is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or42,1,the solar panels,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or44,3,The book with a brick on it is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs48,3,the book,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs49,1,The person holding a pen is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr1,2,The woman,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr3,3,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr4,2,The man.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr6,1,the men with their hands up,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr7,3,the red rays,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr11,2,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr12,2,The soccer ball is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr14,1,The red bars.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+fr15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs51,1,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs52,3,the land,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs53,1,the helicopter,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs55,2,the crane,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+cs60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de62,1,the people,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de63,2,the tractor,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de64,2,the glove,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de65,3,the ape,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de67,2,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de68,2,The shield is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de71,2,the flames,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de73,1,the lamps,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de74,2,everything equal,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+de75,1,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,367,batch3,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de2,1,the solar panel,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de4,3,The man.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de14,1,red bars,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+de15,2,The woman in jeans is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr18,1,the elephant,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr21,2,the screen,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr22,2,everything equal,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr24,2,The phone,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr26,2,the bike,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr28,1,the pig,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr29,2,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+fr30,2,the flasks,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or55,3,the crane,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or57,2,the bank,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs61,4,the cylinders,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs63,3,the corn,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs64,2,the glove,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs65,3,the ape,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs67,3,the black balls,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs74,2,everything equal,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+cs75,2,The cliffs on the right.,OpenGVLab/InternVL3-1B-hf,101,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or49,3,The person holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or50,2,the animal,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de4,2,The man.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de9,3,the crowd,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de11,2,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de14,2,red bars,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+de15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr17,3,Everything equal.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr22,3,everything equal,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr23,3,the door,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr24,1,The phone.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr25,3,the light,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr26,2,the bike,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr28,1,the pig,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr29,1,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+fr30,2,The flasks,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or53,2,the big car,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or54,2,It is ambiguous and nothing else.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or55,2,the faucet,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or57,2,The pig broken in half is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or59,1,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs63,2,the tractor,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs66,3,the hourglass,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs67,2,The black balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs74,3,everything equal,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+cs75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,104,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or50,2,The animal,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de4,2,The man,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de7,2,the red rays,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de11,2,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de14,3,red bars,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+de15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr17,3,The brain.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr22,2,everything equal,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr23,3,the door,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr24,3,the phone,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr26,3,the bike,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr28,3,the pig,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr29,2,cannot say,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+fr30,2,flasks,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or53,3,the helicopter,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or54,3,The piggy bank.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or55,2,the faucet,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or57,2,The pig broken in half is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or60,2,the orchestra,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs63,2,the corn,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs65,3,the ape,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs69,2,the chalkboard,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs74,2,The person in a yellow shirt is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+cs75,3,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,111,batch4,r
+or46,3,the scale,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de4,2,The man.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de7,3,the red rays,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de11,2,the open books,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de14,2,red bars,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+de15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr17,2,everything equal,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr18,2,The elephant is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr20,3,the man,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr22,2,Everything equal.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr26,3,the bike,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr29,3,the house symbol,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+fr30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or53,2,the big car,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or55,3,the faucet,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or56,2,the quill pen,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or59,1,the laughing man,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs63,2,the corn,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs69,1,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs73,3,the lamps,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs74,2,everything equal,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+cs75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,113,batch4,r
+or46,1,the scale,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or48,2,the book,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de1,2,The woman,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de3,2,The tray,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de4,2,The man.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de6,3,the barbed wire,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de10,4,the woman's left hand,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de14,2,red bars,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+de15,1,the woman in jeans,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr18,1,the elephant,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr22,3,everything equal,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr24,1,The phone,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr25,2,The big circle is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr26,2,the bike,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr29,2,cannot say,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+fr30,2,The flasks,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or51,2,The soldiers facing forward are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or55,1,the faucet,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or57,2,the bank,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs62,3,The people.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs63,1,the corn,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs67,1,yellow balls,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs69,2,the chalkboard,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs73,1,the lamps,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs74,1,everything equal,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+cs75,1,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,117,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or49,2,The electrode cap is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de1,3,the woman,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de4,2,The man is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de14,2,red bars,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+de15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr16,4,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr21,2,the screen,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr22,2,everything equal,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr24,2,The phone,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr26,3,the bike,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr28,1,the surgeons,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr29,2,cannot say,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+fr30,2,The flasks,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or54,2,the piggy bank,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or55,2,the crane,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or56,3,the quill pen,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or57,2,the pig broken in half,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or58,1,the people,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs63,2,the tractor,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs64,2,the glove,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs67,2,the yellow balls,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs69,1,The man with his hand on his chin is at the most front of this image,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs70,3,the dollar sign,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs73,3,the lamps,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs74,3,everything equal,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+cs75,1,The cliffs on the right are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,147,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or48,2,the book,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or50,2,the animal,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de4,3,The man,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de6,1,the men with their hands up,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de7,3,the red rays,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de9,3,the crowd,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de11,2,the open books,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de14,2,The red bars,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+de15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr22,2,everything equal,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr24,2,The phone is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr25,3,the big circle,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr26,2,the bike,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr29,2,cannot say,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+fr30,2,flasks,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or51,2,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or55,3,the crane,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or56,3,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or59,2,The woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or60,2,the woman on stage,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs62,2,seal,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs63,2,the corn,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs64,2,the glove,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs65,2,the big screen,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs67,2,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs69,2,The man with his hand on his chin is at the most front of this image,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs70,4,the dollar sign,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs74,2,everything equal,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-1B-hf,349,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or48,2,the book,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or49,2,the person holding a pen,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or50,2,the animal,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de1,3,the woman,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de4,2,The man,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de5,2,the suitcase,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de11,1,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de12,3,the kid on the bike,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de14,1,red bars,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+de15,2,The woman in jeans is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr22,3,Everything equal.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr25,2,the light,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr26,3,the bike,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr28,1,the pig,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+fr30,2,flasks,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or54,3,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or55,3,the faucet,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or57,2,the bank,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs63,1,the corn,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs65,3,the ape,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs66,2,the surveillance camera on the right,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs67,1,yellow balls,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs72,1,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs74,2,everything equal,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+cs75,2,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,354,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or49,3,the person holding a pen,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de3,3,The tray,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de4,2,The man is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de6,3,the barbed wire,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de7,2,the red rays,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de9,2,The crowd,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de11,2,the open books,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de12,3,The kid on the bike is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de13,3,the stool,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de14,1,red bars,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+de15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr21,3,The screen.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr22,3,everything equal,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr24,2,the phone,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr26,3,the bike,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr28,2,the pig,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr29,1,cannot say,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+fr30,2,flasks,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or51,3,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or52,3,the water,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or53,2,the helicopter,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or55,2,the faucet,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or56,3,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or57,3,the bank,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or59,1,The woman with a notepad is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or60,2,the orchestra,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs62,4,the people,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs63,2,the tractor,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs64,2,the glove,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs65,3,the ape,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs68,2,the shield,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs74,2,everything equal,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+cs75,2,The cliffs on the right are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,371,batch4,r
+or46,2,the scale,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or48,2,the bathtub,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or50,2,the animal,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de1,2,The woman,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de4,3,The man,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de6,1,the men with their hands up,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de7,2,the red rays,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de9,3,the crowd,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de11,3,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de14,2,The red bars.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+de15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr20,2,the man,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr21,3,the screen,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr22,3,everything equal,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr23,2,the door,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr24,3,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr25,2,the big circle,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr26,2,the bike,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr27,1,the shoes,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr28,3,the pig,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr29,3,The house symbol is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+fr30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or51,1,the soldiers facing forward,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or52,2,the water,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or53,3,the big car,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or54,2,The piggy bank is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or55,2,the faucet,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or56,2,The quill pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or57,3,the pig broken in half,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or59,2,the woman with a notepad,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+or60,3,the woman on stage,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs62,2,the people,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs63,1,the tractor,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs64,3,the glove,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs67,2,The yellow balls.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs68,3,The shield,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs69,3,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs71,3,the flames,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs73,2,The lamps.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs74,3,everything equal,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,454,batch4,r
+cs1,2,the woman,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs4,2,the man,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs7,2,The red rays,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs11,2,The open books.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs14,2,red bars,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs15,1,the woman in jeans,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de18,2,the building with a dome,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de19,3,the laptops,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de21,2,the screen,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de23,3,the door,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de29,1,cannot say,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+de30,2,flasks,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr32,2,the person,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr37,2,The people,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr38,3,the bike,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr41,3,The fingerprint scanner is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr44,2,The old-style building is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+fr45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or62,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or63,3,the tractor,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or67,2,the yellow balls,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or71,1,the flames,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or73,2,The lamps.,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+or75,3,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,109,batch5,r
+cs1,1,The woman,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs3,3,the tray,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs4,2,The man.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs5,3,The suitcase,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs7,3,the blue rays,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs11,4,the open books,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs13,3,the stool,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs14,2,The red bars,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs15,2,the woman with the headband,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de18,3,the elephant,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de20,3,the man,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de21,3,The screen.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de29,2,cannot say,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+de30,3,flasks,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr31,2,the paramedics,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr34,2,the hands,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr40,3,the little girl,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr44,2,The book with a brick on it is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+fr45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or62,2,the seal,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or63,3,the corn,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or64,2,the glove,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or67,2,the yellow balls,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or70,4,the dollar sign,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+or75,2,the trees in the lower left corner,OpenGVLab/InternVL3-1B-hf,115,batch5,r
+cs1,2,The woman,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs4,3,The man.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs7,2,the red rays,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs10,4,the woman's left hand,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs13,3,the stool,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs14,2,red bars,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs15,3,the woman in jeans,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de16,2,The heart-shaped tree is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de17,2,Everything equal.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de18,2,the elephant,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de20,2,the man,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de21,2,the screen,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de22,2,everything equal,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de24,2,phone,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de25,1,the big circle,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de26,2,the bike,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de28,2,the pig,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de29,2,The man with a beard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+de30,2,The flasks,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr32,1,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr36,3,the cigarette box,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr39,3,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+fr45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or62,2,the people,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or63,2,the corn,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or65,2,The ape is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or66,3,the hourglass,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or67,2,cannot say,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or74,3,everything equal,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+or75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,199,batch5,r
+cs1,2,the woman,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs3,1,the tray,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs4,2,The man,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs10,2,the woman's left hand,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs11,2,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs12,2,The soccer ball is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs14,2,The red bars,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs15,3,the woman with the headband,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de17,1,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de18,3,the elephant,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de19,3,the laptops,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de20,3,the man,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de21,3,the screen,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de22,2,everything equal,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de24,2,The phone,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de25,2,the light,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de29,2,cannot say,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+de30,2,flasks,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr32,1,the person,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr36,2,the woman,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr37,3,The people,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr38,3,the bike,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr44,3,The old-style building is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+fr45,2,The person holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or62,2,people,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or63,3,the corn,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or64,3,the glove,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or68,2,The shield,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or69,2,The man with his hand on his chin is at the most front of this image,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+or75,3,The cliffs on the right are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,208,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs2,1,the pointy trees,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs3,1,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs4,1,The man,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs6,3,the men with their hands up,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs7,3,The blue rays are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs9,3,the crowd,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs11,3,the open books,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs13,4,the stool,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs14,2,red bars,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de17,2,The brain.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de18,3,the elephant,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de20,2,the man,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de21,2,the screen,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de23,1,the door,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de24,3,phone,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de26,2,the bike,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de28,3,the pig,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de29,1,cannot say,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+de30,2,flasks,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr31,3,the dog collar,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr32,2,the person,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr34,2,the hands,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr36,2,The cigarette box is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr37,3,people,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr38,2,the bike,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr39,2,the person sitting alone,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr42,3,the solar panels,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr44,4,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+fr45,3,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or61,2,the cylinders,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or62,2,The magnifying glass,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or63,2,the tractor,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or64,4,the glove,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or65,2,the ape,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or66,2,the surveillance camera on the right,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or67,2,The yellow balls are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or73,4,the lamps,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+or75,3,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,240,batch5,r
+cs1,2,The woman,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs3,3,the tray,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs4,2,The man is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs11,2,The woman holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs14,1,red bars,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs15,3,the woman with the headband,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de17,3,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de18,1,the elephant,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de20,3,the man,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de21,3,the screen,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de22,2,everything equal,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de25,2,the light,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de28,2,the pig,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de29,1,cannot say,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+de30,1,The flasks.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr32,2,The person and the front side of the pedestal are at the most front of the,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr39,2,,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+fr45,2,The person holding a pen is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or62,2,the people,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or63,3,the corn,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or64,2,the glove,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or67,3,yellow balls,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+or75,3,The trees in the lower left corner are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,261,batch5,r
+cs1,2,The woman,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs2,2,the skyscrapers,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs4,3,the man,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs6,4,the men with their hands up,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs7,2,the blue rays,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs10,2,the man's right hand,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs11,2,the open books,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs14,1,red bars,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs15,2,the woman with the headband,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de17,3,The brain is at the most front of the image.,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de18,2,The elephant,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de21,3,the screen,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de22,2,everything equal,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de24,1,the phone,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de26,2,the bike,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de27,2,the woman's left foot,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de29,3,cannot say,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+de30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr32,3,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr35,1,the magnifying glass,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr38,2,the bike,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr39,2,The person sitting alone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr40,3,the little girl,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr42,2,the bigger globe,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+fr45,2,the colorful face,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or62,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or63,2,the corn,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or64,2,the glove,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or68,2,the shield,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or69,4,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or74,3,everything equal,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+or75,2,the cliffs on the right,OpenGVLab/InternVL3-1B-hf,303,batch5,r
+cs1,2,the woman,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs3,2,The tray,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs4,2,The man.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs7,3,The red rays,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs14,2,The red bars.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs15,2,the woman with the headband,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de16,3,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de18,3,the elephant,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de20,2,The man,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de21,2,the screen,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de22,2,everything equal,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de24,2,The phone is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de27,4,the woman's left foot,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de28,2,the pig,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de29,2,cannot say,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+de30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr33,2,the torch,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr36,3,the cigarette,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr37,2,The people,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr38,2,the chart,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr43,3,the keyboard,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+fr45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or62,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or63,2,the corn,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or64,4,the glove,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or65,2,the ape,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or66,1,the hourglass,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or67,2,the black balls,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or69,2,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or74,4,everything equal,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+or75,4,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,352,batch5,r
+cs1,2,the woman,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs4,1,The man.,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs5,3,the suitcase,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs7,3,the red rays,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs8,3,the man,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs10,3,the woman's left hand,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs11,2,the woman holding a pen,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs12,2,the soccer ball,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs14,1,The red bars,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de16,2,the heart-shaped tree,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de18,2,the elephant,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de19,3,the laptops,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de21,3,the screen,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de23,2,the door,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de24,2,The phone,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de26,2,the bike,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de27,3,the woman's left foot,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de29,1,Cannot say,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+de30,2,the flasks,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr32,3,the diamond,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr34,2,the mug,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr39,3,the person sitting alone,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr42,2,the bigger globe,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr43,4,the keyboard,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr44,2,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+fr45,3,the colorful face,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or62,2,The people,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or63,3,The corn is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or64,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or66,2,the hourglass,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or67,2,yellow balls,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or68,3,The shield is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or69,1,the man with his hand on his chin,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or70,2,the dollar sign,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or71,2,the flames,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or72,2,The red flower-shaped object with a pointy middle is at the most front of,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or73,2,the lamps,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+or75,2,the trees in the lower left corner,OpenGVLab/InternVL3-1B-hf,434,batch5,r
+cs1,2,The woman,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs2,3,the skyscrapers,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs3,2,The tray is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs4,2,The man.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs5,4,the suitcase,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs7,3,the red rays,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs8,2,the man,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs9,3,the crowd,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs10,3,the man's right hand,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs11,2,the open books,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs12,3,the soccer ball,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs14,2,The red bars,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+cs15,2,the woman in jeans,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de16,2,The heart-shaped tree is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de17,2,The brain is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de18,2,The elephant is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de20,2,the man,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de21,2,the screen,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de23,1,the door,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de24,1,phone,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de25,2,the big circle,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de26,3,the bike,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de28,3,the surgeons,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de29,3,cannot say,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+de30,2,The flasks are at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr33,3,The torch,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr36,2,the cigarette,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr38,3,the chart,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr40,3,the little girl,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr42,2,the solar panels,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr43,2,the keyboard,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+fr45,2,The colorful face is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or62,2,The magnifying glass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or63,2,the tractor,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or64,2,the glove,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or65,2,the ape,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or66,2,The hourglass is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or67,3,yellow balls,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or68,3,the shield,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or69,2,The chalkboard is at the most front of this image.,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or70,1,the dollar sign,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or73,1,the lamps,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or74,2,everything equal,OpenGVLab/InternVL3-1B-hf,469,batch5,r
+or75,2,The trees in the lower left corner.,OpenGVLab/InternVL3-1B-hf,469,batch5,r

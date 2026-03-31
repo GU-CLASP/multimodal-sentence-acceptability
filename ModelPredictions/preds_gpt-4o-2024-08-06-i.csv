@@ -1,0 +1,1501 @@
+name,choice,natural,model,seed,batch,condition
+cs1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs10,The woman holding a note.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs10,The woman holding a note.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs10,The woman holding a note.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs10,The woman holding a note.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs10,The woman holding a note.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs11,The hammer.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs11,The bike.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs11,The hammer.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs11,The bike.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs11,The bike.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs12,The woman's left foot.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs12,The woman's left foot.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs12,The woman's left foot.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs12,The woman's left foot,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs12,the woman's left foot,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs13,The surgeons.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs13,The surgeons.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs13,The surgeons,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs13,The surgeons.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs13,The surgeons.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs14,Cannot say.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs14,cannot say,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs14,the man with a beard,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs14,The man with a beard.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs14,the man with a beard,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs15,The flasks,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs15,The flasks.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs15,The flasks.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs15,The flasks.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs15,The flasks.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs16,The dog collar.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs16,The dog collar.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs16,The dog collar.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs16,The dog collar.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs16,The dog collar.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs17,The person.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs17,The person.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs17,The person.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs17,The person.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs17,The person.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs18,The torch.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs18,The torch.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs18,The torch.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs18,The torch.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs18,The torch.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs19,The mug.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs19,The mug.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs19,The mug.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs19,The mug.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs19,The mug.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs2,The lightning.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs2,Everything equal.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs2,The lightning,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs2,Everything equal.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs2,The lightning.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs20,The magnifying glass.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs20,The magnifying glass.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs20,The magnifying glass.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs20,The magnifying glass.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs20,The magnifying glass.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs21,The cigarette box.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs21,The cigarette.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs21,The cigarette box.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs21,The cigarette box.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs21,The cigarette box.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs22,the people,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs22,The people.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs22,The people.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs22,The people.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs22,The people,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs23,The person.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs23,The person.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs23,The person.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs23,The person.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs23,The person,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs24,The mug.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs24,The mug.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs24,The mug.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs24,The mug.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs24,The mug.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs25,the little girl,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs25,The little girl.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs25,the little girl,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs25,the little girl,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs25,The little girl.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs26,The fingerprint scanner,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs26,The fingerprint scanner.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs26,The fingerprint scanner.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs26,The fingerprint scanner.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs26,The fingerprint scanner.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs27,The bigger globe.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs27,The bigger globe.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs27,The bigger globe.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs27,The bigger globe.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs27,The bigger globe.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs28,The puzzle pieces.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs28,The puzzle pieces.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs28,The puzzle pieces.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs28,The puzzle pieces.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs28,The puzzle pieces.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs29,The book with a brick on it.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs29,The magnifying glass.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs29,The magnifying glass.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs29,The magnifying glass.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs29,The magnifying glass.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs3,The elephant.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs3,The elephant.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs3,The elephant.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs3,The elephant.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs3,The elephant.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs30,The VR goggle.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+cs30,The VR goggle.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+cs30,The VR goggle.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+cs30,The VR goggle.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+cs30,The VR goggle.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+cs31,The scale.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs31,The scale,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs31,The scale.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs31,The scale.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs31,The scale,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs32,The couple.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs32,The couple,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs32,The couple.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs32,The couple.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs32,The couple.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs33,The book.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs33,The book.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs33,The book.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs33,The book.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs33,The book.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs34,The electrode cap.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs34,The electrode cap.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs34,The electrode cap.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs34,The electrode cap.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs34,The electrode cap.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs35,The animal.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs35,The animal.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs35,The animal.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs35,The animal.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs35,The animal.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs36,The soldiers facing forward.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs36,The soldiers facing forward.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs36,The soldiers facing forward.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs36,The soldiers facing forward.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs36,The soldiers facing forward.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs37,The land,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs37,The land.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs37,The water.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs37,The water.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs37,The water.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs38,The power lines.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs38,The big car.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs38,The power lines.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs38,The power lines.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs38,The big car.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs39,The piggy bank.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs39,The piggy bank.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs39,The piggy bank.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs39,The piggy bank.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs39,The piggy bank.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs4,The man in a wheelchair.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs4,The man in a wheelchair.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs4,The man in a wheelchair.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs4,The man in a wheelchair.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs4,The man in a wheelchair.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs40,The faucet.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs40,The faucet,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs40,The faucet.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs40,The faucet.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs40,The faucet.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs41,The quill pen.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs41,The quill pen.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs41,The quill pen.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs41,The quill pen.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs41,The quill pen.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs42,The pig broken in half.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs42,The pig broken in half.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs42,The pig broken in half.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs42,The pig broken in half.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs42,the pig broken in half,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs43,The people.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs43,The people,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs43,The people.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs43,The people.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs43,The hammer.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs44,The woman with a notepad.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs44,The woman with a notepad,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs44,The woman with a notepad,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs44,The woman with a notepad.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs44,The woman with a notepad.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs45,The orchestra.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+cs45,The woman on stage.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+cs45,The orchestra.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+cs45,The woman on stage.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+cs45,The orchestra.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+cs46,The cylinders.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs46,The cylinders.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs46,The cylinders.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs46,The cylinders.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs46,The cylinders.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs47,The seal.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs47,The seal.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs47,The seal.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs47,The seal.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs47,The seal.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs48,The corn.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs48,The tomatoes.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs48,The tomatoes.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs48,The corn.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs48,The tomatoes.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs49,The magnifying glass.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs49,The magnifying glass.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs49,The magnifying glass.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs49,The magnifying glass.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs49,The magnifying glass.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs5,The man.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs5,The man.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs5,The man,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs5,The man.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs5,The man.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs50,The ape.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs50,The ape.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs50,The ape.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs50,The ape.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs50,The ball next to a monitor.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs51,The lock.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs51,The lock.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs51,The lock.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs51,The lock.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs51,The lock.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs52,The yellow balls.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs52,The yellow balls.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs52,The yellow balls.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs52,The yellow balls.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs52,The yellow balls.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs53,The shield.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs53,The shield.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs53,The shield.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs53,The shield.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs53,The shield.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs55,The dollar sign.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs55,The dollar sign.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs55,The dollar sign.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs55,The dollar sign.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs55,The dollar sign.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs56,The fire truck.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs56,The fire truck.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs56,The fire truck.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs56,The fire truck.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs56,The fire truck.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs58,The lamps.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs58,The lamps.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs58,The lamps.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs58,The lamps.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs58,The lamps.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs59,The person in a yellow shirt,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs6,The kid in a yellow shirt.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs60,The trees in the lower left corner.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+cs60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+cs60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+cs60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+cs60,The trees in the lower left corner.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+cs61,the woman,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs61,The woman,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs61,The woman.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs61,The woman,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs61,The woman,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs62,The solar panel.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs62,The solar panel.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs62,The solar panel.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs62,The solar panel.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs62,The solar panel.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs63,The tray.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs63,The tray.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs63,The tray.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs63,The tray.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs63,The tray.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs64,The weight,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs64,The man.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs64,The man.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs64,It is ambiguous.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs64,The man.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs65,The baby.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs65,The baby.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs65,The baby.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs65,The baby.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs65,The baby.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs66,The barbed wire.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs66,The barbed wire.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs66,The barbed wire.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs66,The barbed wire.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs66,The barbed wire.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs67,It is ambiguous.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs67,The red rays.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs67,The red rays.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs67,It is ambiguous.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs67,It is ambiguous.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs68,The man.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs68,The man.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs68,The man.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs68,The man.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs68,The man.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs69,The crowd.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs69,The crowd,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs69,The crowd.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs69,The crowd.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs69,The crowd.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs7,Everything equal.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs7,Everything equal.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs7,The sun,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs7,Everything equal.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs7,The sun.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs70,The man's right hand.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs70,The man's right hand.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs70,The man's right hand.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs70,The man's right hand.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs70,The man's right hand,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs71,The open books.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs71,The open books.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs71,The open books.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs71,The open books,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs71,The open books.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs72,The soccer ball.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs72,The soccer ball.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs72,The soccer ball.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs72,The soccer ball.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs72,The soccer ball.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs73,The stool.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs73,The stool.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs73,The green cloth.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs73,The stool.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs73,The stool.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs74,Cannot say.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs74,The red bars.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs74,Cannot say.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs74,The red bars.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs74,Cannot say.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs75,The lime.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+cs75,The lime.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+cs75,The lime.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+cs75,The lime.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+cs75,The lime.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+cs8,The staircase.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs8,The staircase.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs8,The staircase,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs8,The staircase.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs8,The staircase.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+cs9,The phone.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+cs9,The phone.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+cs9,The phone,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+cs9,the phone,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+cs9,The phone.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de1,The kid in a striped shirt.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de1,The heart-shaped tree.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de1,The kid in a striped shirt.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de1,The heart-shaped tree.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+de10,The woman holding a note.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+de10,The woman holding a note.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+de10,The woman holding a note.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+de10,The woman holding a note.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+de10,The woman holding a note.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+de11,The bike,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de11,The hammer.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de11,The hammer.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de11,The bike,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de11,The bike.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de12,the woman's left foot,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de12,The woman's left foot.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de12,The woman's left foot.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de12,The woman's left foot.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de12,"""the woman's left foot""",1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de13,The surgeons.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de13,The surgeons,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de13,The surgeons.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de13,The surgeons.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de13,The surgeons.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de14,cannot say,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de14,the man with a beard,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de14,cannot say,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de14,Cannot say.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de14,Cannot say.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de15,The flasks.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de15,The flasks.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de15,The flasks.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de15,The flasks,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de15,The flasks.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de16,The dog collar.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+de16,The dog collar.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+de16,The dog collar.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+de16,The dog collar.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+de16,The dog collar.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+de17,The person.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+de17,The person.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de17,The person.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de17,The person.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+de17,The front side of pedestal.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+de18,The torch.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de18,The torch.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de18,The torch.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de18,The torch.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de18,The torch.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de19,The mug.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de19,The mug.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de19,The mug,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de19,The mug.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de19,The mug.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de2,The lightning.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de2,The lightning.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de2,The lightning.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de2,The lightning.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de2,The lightning.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+de20,The magnifying glass.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de20,The magnifying glass.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de20,The magnifying glass.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de20,The magnifying glass.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de20,The magnifying glass.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de21,The cigarette.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de21,The cigarette.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de21,The cigarette.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de21,The cigarette box.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de21,The cigarette.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de22,The people.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de22,The people.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de22,The people,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de22,the people,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de22,The people.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+de23,The person.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de23,The person.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de23,The person,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de23,the person,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de23,The person.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de24,The mug.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de24,The mug.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de24,The mug.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de24,The mug.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de24,The mug.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de25,The little girl.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+de25,The little girl.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de25,the little girl,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de25,The little girl.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de25,the little girl,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+de26,The fingerprint scanner.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+de26,The fingerprint scanner.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de26,The fingerprint scanner.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de26,The fingerprint scanner.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de26,The fingerprint scanner.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+de27,The bigger globe.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de27,The bigger globe.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de27,The bigger globe.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de27,The bigger globe.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de27,The bigger globe.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de28,The puzzle pieces.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de28,The puzzle pieces.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de28,The puzzle pieces,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de28,The puzzle pieces.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de28,The puzzle pieces.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de29,The magnifying glass.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de29,The magnifying glass.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+de29,The book with a brick on it.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+de29,The magnifying glass.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+de29,The magnifying glass.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de3,The elephant.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+de3,The elephant.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de3,The elephant.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de3,The elephant.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+de3,The elephant.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de30,The VR goggle,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+de30,The VR goggle.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+de30,The VR goggle.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+de30,The colorful face.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+de30,The VR goggle.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+de31,The scale.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de31,The scale.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de31,The scale,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de31,The scale.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+de31,The scale.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de32,The couple.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de32,The couple.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de32,The couple.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de32,The couple.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de32,The couple.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de33,The book.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+de33,The book.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+de33,The book.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+de33,The book.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+de33,The book.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de34,The electrode cap.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+de34,The electrode cap.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de34,The electrode cap.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de34,The electrode cap.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de34,The electrode cap.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de35,The animal.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de35,The animal.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de35,The animal.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+de35,The animal.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de35,The animal.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de36,The soldiers facing forward.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de36,The soldiers facing forward.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de36,The soldiers facing forward.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de36,The soldiers facing forward.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de36,The soldiers facing forward.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de37,The land.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de37,The water.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de37,The water.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de37,The land.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de37,The water,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de38,The big car.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+de38,The big car,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+de38,The big car.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de38,The big car.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de38,The power lines.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de39,The piggy bank.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de39,The piggy bank.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de39,The piggy bank.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de39,The piggy bank.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de39,The piggy bank.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de4,The man in a wheelchair.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de4,The man in a wheelchair.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de4,The man in a wheelchair.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de4,The man in a wheelchair.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de4,The man in a wheelchair.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+de40,The faucet.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+de40,The faucet.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+de40,The faucet.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+de40,The faucet.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de40,The faucet.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de41,The quill pen.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de41,The quill pen.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de41,The quill pen.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de41,The quill pen.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de41,The quill pen.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de42,the pig broken in half,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de42,Pig broken in half.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de42,The pig broken in half.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de42,The pig broken in half.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de42,The pig broken in half.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+de43,The people.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de43,The people.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de43,The people.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de43,The people.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de43,The people.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de44,The woman with a notepad.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+de44,The woman with a notepad,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+de44,The woman with a notepad.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+de44,The woman with a notepad.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+de44,The woman with a notepad.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+de45,The woman on stage.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+de45,The orchestra.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+de45,The orchestra.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+de45,The orchestra.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+de45,The orchestra.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+de46,The cylinders.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de46,The cylinders,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+de46,The cylinders.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de46,The cylinders.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+de46,The cylinders.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de47,The seal.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de47,The seal.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de47,The seal.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de47,The seal.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de47,The seal.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de48,The tomatoes.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+de48,The tomatoes.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+de48,The tomatoes.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+de48,The tomatoes.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+de48,The tomatoes.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+de49,The magnifying glass.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de49,The magnifying glass.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de49,The magnifying glass.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de49,The magnifying glass.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de49,The magnifying glass.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de5,The man.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de5,The man,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de5,The man.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de5,The man.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de5,The man.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de50,The ball next to a monitor.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de50,The ball next to a monitor.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de50,The ape.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de50,The ball next to a monitor.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de50,The ape.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de51,The lock.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de51,The lock.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de51,The lock.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de51,The lock.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de51,The lock.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de52,The yellow balls.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de52,The yellow balls.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de52,The yellow balls.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de52,The yellow balls.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+de52,The yellow balls.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de53,The shield.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de53,The shield.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de53,The shield.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de53,The shield.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de53,The shield.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de55,The dollar sign.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de55,The dollar sign.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+de55,The dollar sign.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de55,The dollar sign.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+de55,The dollar sign.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de56,The fire truck.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de56,The fire truck.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+de56,The fire truck.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de56,The fire truck.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+de56,The fire truck.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de57,The red hat-shaped object.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+de57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de57,The red flower-shaped object with a pointy middle.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de58,The lamps.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de58,The lamps.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+de58,The lamps.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de58,The lamps.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+de58,The lamps.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+de59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+de59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+de59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+de6,The kid in a yellow shirt,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de6,The kid in a yellow shirt.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de6,The kid in a yellow shirt.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+de60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+de60,The trees in the lower left corner.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+de60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+de60,The trees in the lower left corner.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+de60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+de61,"I'm sorry, I can't determine the position of the woman, the tower, or the red box in an image.",2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de61,I can't answer based on the image provided.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+de61,"I'm sorry, but I can't determine the position of objects or people in an image.",2,gpt-4o-2024-08-06,234,batch3,irrelevant
+de61,"Sorry, I cannot comply with that request.",2,gpt-4o-2024-08-06,393,batch3,irrelevant
+de61,"I can't determine which is at the most front without a clearer view of a tower, woman, or red box in the image. Can you provide a better description or another image?",2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de62,The solar panel.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de62,The solar panel.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de62,The solar panel.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+de62,The solar panel.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+de62,The solar panel.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de63,The tray.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de63,The tray.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de63,The tray.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de63,The tray.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de63,The tray.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de64,It is ambiguous.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de64,The man,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de64,The man.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de64,The man.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de64,The man.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de65,The baby.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de65,The baby.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de65,The baby.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de65,The baby.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de65,The baby.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de66,The barbed wire.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de66,The barbed wire.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de66,The barbed wire.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de66,The barbed wire.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de66,The barbed wire.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de67,It is ambiguous.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de67,It is ambiguous.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de67,It is ambiguous.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+de67,The red rays.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+de67,It is ambiguous.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de68,The man.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de68,The man.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de68,The man.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de68,The man.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de68,The man.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de69,The crowd.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de69,The crowd.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de69,The crowd.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de69,The crowd.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de69,The crowd,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de7,Everything equal.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de7,The sun.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de7,Everything equal.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de7,The sun.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de7,The sun.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+de70,The man's right hand.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de70,The man's right hand,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de70,The man's right hand.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de70,The man's right hand.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de70,The man's right hand.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de71,The open books.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de71,The open books.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de71,The open books.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de71,The open books.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de71,The open books.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de72,The soccer ball.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de72,The soccer ball.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de72,The soccer ball.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de72,The soccer ball.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de72,The soccer ball.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de73,The stool.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de73,The stool.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+de73,The stool.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+de73,The stool.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+de73,The stool.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de74,Cannot say.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+de74,The red bars.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+de74,Cannot say.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+de74,Cannot say.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+de74,Cannot say.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+de75,The lime.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+de75,The lime.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+de75,The lime.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+de75,The lime.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+de75,The lime.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+de8,The staircase.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de8,The staircase.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+de8,The staircase.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+de8,The staircase.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+de8,The staircase.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+de9,the phone,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+de9,The phone,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+de9,The phone.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+de9,The phone.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+de9,The phone.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr1,The heart-shaped tree.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr1,The heart-shaped tree.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr1,The kid in a striped shirt.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr10,The woman holding a note.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr10,The woman holding a note,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr10,The woman holding a note.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr10,The woman holding a note.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr10,The woman holding a note.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr11,The bike.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr11,The hammer.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr11,The bike.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr11,The hammer.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr11,The bike.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr12,the woman's left foot,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr12,the woman's left foot,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr12,The woman's left foot.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr12,The woman's left foot.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr12,The woman's left foot.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr13,the surgeons,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr13,The surgeons,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr13,The surgeons.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr13,The surgeons.,1,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr13,The surgeons.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr14,Cannot say.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr14,the house symbol,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr14,The man with a beard.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr14,the house symbol,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr14,the man with a beard,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr15,The flasks.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr15,The flasks,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr15,The flasks.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr15,The flasks,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr15,The flasks.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr16,The dog collar,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr16,The dog collar.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr16,The dog collar.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr16,The dog collar.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr16,The dog collar.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr17,The person.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr17,The person.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr17,The person.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr17,The person.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr17,The person.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr18,The torch.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr18,The torch.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr18,The torch.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr18,The torch.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr18,The torch.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr19,The mug.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr19,The mug,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr19,The mug.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr19,The mug.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr19,The mug.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr2,The lightning.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr2,The lightning.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr2,The lightning.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr2,The lightning.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr2,The lightning.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr20,The magnifying glass.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr20,The magnifying glass.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr20,The magnifying glass.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr20,The magnifying glass.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr20,The magnifying glass.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr21,The cigarette box.,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr21,The cigarette.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr21,The cigarette.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr21,The cigarette box.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr21,The cigarette box.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr22,The people.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr22,The people,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr22,The people.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr22,The people.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr22,The people.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr23,The person.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr23,The person,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr23,The person.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr23,The person.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr23,The person.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr24,The mug.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr24,The mug.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr24,The mug.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr24,The mug.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr24,The mug.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr25,The little girl.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr25,The little girl.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr25,The little girl.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr25,The little girl.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr25,The little girl.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr26,The fingerprint scanner.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr26,the fingerprint scanner,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr26,The fingerprint scanner.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr26,The fingerprint scanner.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr26,The fingerprint scanner.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr27,The bigger globe,1,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr27,The bigger globe.,1,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr27,The bigger globe.,1,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr27,The bigger globe.,1,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr27,The bigger globe.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr28,The puzzle pieces.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr28,The puzzle pieces.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr28,The puzzle pieces.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr28,The puzzle pieces.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr28,The puzzle pieces.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr29,The magnifying glass.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr29,The magnifying glass.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr29,The magnifying glass.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr29,The magnifying glass.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr29,The magnifying glass.,1,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr3,The elephant.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr3,The elephant.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr3,The elephant.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr3,The elephant.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr3,The elephant.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr30,The VR goggle.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+fr30,The VR goggle.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+fr30,The VR goggle.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+fr30,The VR goggle.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+fr30,The VR goggle.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+fr31,The scale.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr31,The scale.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr31,The scale.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr31,The scale.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr31,The scale.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr32,The couple.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr32,The couple.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr32,The couple.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr32,The couple.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr32,The couple.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr33,The book.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr33,The book.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr33,The book,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr33,The book.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr33,The book.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr34,The electrode cap.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr34,The electrode cap.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr34,The electrode cap.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr34,The electrode cap.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr34,The electrode cap.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr35,the animal,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr35,The animal.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr35,The animal.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr35,The animal.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr35,The animal.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr36,the soldiers facing forward,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr36,the soldiers facing forward,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr36,The soldiers facing forward.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr36,the soldiers facing forward,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr36,the soldiers facing forward,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr37,the land,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr37,The land.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr37,The water.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr37,The water.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr37,The land.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr38,The power lines.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr38,The big car.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr38,The power lines.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr38,The power lines.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr38,The big car.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr39,The piggy bank.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr39,The piggy bank.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr39,The piggy bank.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr39,The piggy bank.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr39,The piggy bank.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr4,The man in a wheelchair.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr4,The man in a wheelchair.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr4,The man in a wheelchair.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr4,The man in a wheelchair.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr4,The man in a wheelchair.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr40,The faucet.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr40,The faucet.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr40,The faucet.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr40,The faucet.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr40,The faucet.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr41,The quill pen.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr41,The quill pen.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr41,The quill pen.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr41,The quill pen.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr41,The quill pen.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr42,The pig broken in half.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr42,The pig broken in half.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr42,The pig broken in half.,2,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr42,The pig broken in half.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr42,The pig broken in half.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr43,The people.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr43,The people.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr43,The people.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr43,The people.,2,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr43,The people.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr44,The woman with a notepad.,2,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr44,The woman with a notepad.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr44,The woman with a notepad.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr44,The woman with a notepad.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr44,The woman with a notepad.,2,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr45,The orchestra.,1,gpt-4o-2024-08-06,302,batch5,irrelevant
+fr45,The orchestra.,1,gpt-4o-2024-08-06,144,batch5,irrelevant
+fr45,The orchestra.,1,gpt-4o-2024-08-06,345,batch5,irrelevant
+fr45,The orchestra.,1,gpt-4o-2024-08-06,111,batch5,irrelevant
+fr45,The orchestra.,1,gpt-4o-2024-08-06,173,batch5,irrelevant
+fr46,The cylinders.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr46,The cylinders.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr46,The cylinders.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr46,The cylinders.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr46,The cylinders.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr47,The seal,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr47,The seal.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr47,The seal.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr47,The seal.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr47,The seal.,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr48,The corn.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr48,The tomatoes.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr48,The tomatoes.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr48,The tomatoes.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr48,The tomatoes,1,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr49,The magnifying glass.,1,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr49,The magnifying glass.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr49,The magnifying glass.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr49,The magnifying glass.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr49,The magnifying glass.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr5,The man.,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr5,The man.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr5,The man.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr5,The man.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr5,The man.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr50,The ape.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr50,The ball next to a monitor.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr50,The ape,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr50,The ball next to a monitor.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr50,The ape.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr51,The lock.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr51,The lock.,1,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr51,The lock.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr51,The lock.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr51,The lock.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr52,The yellow balls.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr52,The yellow balls,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr52,The yellow balls.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr52,The yellow balls.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr52,The yellow balls.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr53,The shield.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr53,The shield.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr53,The shield.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr53,The shield.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr53,The shield,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr54,The sitting man wearing a hat.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr54,The sitting man wearing a hat.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr55,The dollar sign.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr55,The dollar sign,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr55,The dollar sign.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr55,The dollar sign.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr55,The dollar sign.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr56,The fire truck.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr56,The fire truck.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr56,The flames.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr56,The fire truck.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr56,The fire truck.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr57,The red flower-shaped object with a pointy middle.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr58,The lamps,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr58,The lamps.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr58,The lamps.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr58,The lamps.,1,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr58,The lamps.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr59,The person in a yellow shirt.,1,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr59,The person in a yellow shirt.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr6,The kid in a yellow shirt,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,462,batch1,irrelevant
+fr60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+fr60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+fr60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,332,batch1,irrelevant
+fr60,The trees in the lower left corner.,2,gpt-4o-2024-08-06,209,batch1,irrelevant
+fr61,The woman,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr61,The woman.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr61,The woman.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr61,The woman.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr61,I don’t know.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr62,The solar panel.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr62,The solar panel.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr62,The solar panel.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr62,The solar panel.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr62,The solar panel.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr63,The tray.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr63,The tray.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr63,The tray.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr63,The tray.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr63,The tray.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr64,The man.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr64,The man,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr64,The man.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr64,The man.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr64,The man.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr65,The baby.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr65,The baby.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr65,The baby.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr65,The baby.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr65,The baby.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr66,The barbed wire.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr66,The barbed wire.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr66,The barbed wire.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr66,The barbed wire.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr66,The barbed wire.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr67,It is ambiguous.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr67,It is ambiguous.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr67,It is ambiguous.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr67,The red rays.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr67,The red rays.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr68,The man.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr68,The man.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr68,The man.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr68,The man.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr68,The man.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr69,The crowd.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr69,The crowd.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr69,The crowd,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr69,The crowd,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr69,The crowd,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr7,Everything equal.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr7,The sun.,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr7,The sun.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr7,The sun.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr7,The sun.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr70,The man's right hand.,2,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr70,The man's right hand.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr70,The man's right hand,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr70,The man's right hand.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr70,The man's right hand.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr71,The open books.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr71,the open books,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr71,The open books.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr71,The open books.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr71,The open books.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr72,The soccer ball.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr72,The soccer ball.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr72,The soccer ball.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr72,The soccer ball.,1,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr72,The soccer ball.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr73,The stool.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr73,The stool.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr73,The stool.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr73,The stool.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr73,The stool.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr74,The red bars.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr74,Cannot say.,2,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr74,The red bars.,2,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr74,Cannot say.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr74,Cannot say.,2,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr75,The lime.,1,gpt-4o-2024-08-06,308,batch2,irrelevant
+fr75,The lime.,1,gpt-4o-2024-08-06,151,batch2,irrelevant
+fr75,The lime.,1,gpt-4o-2024-08-06,436,batch2,irrelevant
+fr75,The lime.,2,gpt-4o-2024-08-06,137,batch2,irrelevant
+fr75,The lime.,1,gpt-4o-2024-08-06,309,batch2,irrelevant
+fr8,The staircase.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr8,The staircase.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr8,The staircase.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr8,The staircase.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr8,The staircase.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+fr9,the phone,1,gpt-4o-2024-08-06,165,batch3,irrelevant
+fr9,The phone,1,gpt-4o-2024-08-06,492,batch3,irrelevant
+fr9,The phone.,1,gpt-4o-2024-08-06,234,batch3,irrelevant
+fr9,The phone.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+fr9,The phone.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+or1,The kid in a striped shirt.,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or1,The kid in a striped shirt.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or1,The kid in a striped shirt.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or1,The kid in a striped shirt.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or1,The kid in a striped shirt.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or10,The woman holding a note.,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or10,The woman holding a note.,4,gpt-4o-2024-08-06,409,batch1,irrelevant
+or10,The woman holding a note.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or10,The woman holding a note.,4,gpt-4o-2024-08-06,332,batch1,irrelevant
+or10,The woman holding a note.,4,gpt-4o-2024-08-06,209,batch1,irrelevant
+or11,The bike.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or11,The bike.,4,gpt-4o-2024-08-06,409,batch1,irrelevant
+or11,The hammer.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or11,The hammer.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or11,The hammer.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or12,The woman's left foot.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or12,The woman's left foot.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or12,The woman's left foot,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or12,The woman's left foot.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or12,the woman's left foot,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or13,The surgeons.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or13,The surgeons.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or13,The surgeons.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or13,The surgeons.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or13,The surgeons,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or14,Cannot say.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or14,the man with a beard,4,gpt-4o-2024-08-06,409,batch1,irrelevant
+or14,The man with a beard.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or14,Cannot say.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or14,Cannot say.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or15,The flasks.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or15,The flasks,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+or15,The flasks,2,gpt-4o-2024-08-06,205,batch1,irrelevant
+or15,The flasks.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or15,The flasks,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or16,The dog collar.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or16,The dog collar.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or16,The dog collar.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or16,The dog collar.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or16,The dog collar.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+or17,The person.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or17,The person.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or17,The front side of pedestal.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or17,The person.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or17,The person.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or18,The torch.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+or18,The torch.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or18,The torch.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+or18,The torch.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or18,The torch.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or19,The mug.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+or19,The mug.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or19,The mug.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or19,The mug.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or19,The mug.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+or2,The lightning.,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or2,The lightning.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or2,The lightning.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or2,Everything equal.,4,gpt-4o-2024-08-06,332,batch1,irrelevant
+or2,The lightning,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or20,The magnifying glass.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or20,The magnifying glass.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or20,The magnifying glass.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or20,The magnifying glass.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or20,The magnifying glass.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or21,The cigarette.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or21,The cigarette.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or21,The cigarette box.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or21,The cigarette.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or21,The cigarette.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or22,The people.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or22,The people.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or22,the people,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or22,The people.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or22,The people.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or23,The person.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or23,The person.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or23,The person.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or23,The person.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or23,The person.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or24,The mug.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or24,The mug.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or24,The mug.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or24,The mug.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or24,The mug.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or25,The little girl,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or25,The little girl.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or25,The little girl.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or25,the little girl,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or25,The little girl.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or26,The fingerprint scanner.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or26,The fingerprint scanner.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or26,the fingerprint scanner,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or26,The fingerprint scanner.,4,gpt-4o-2024-08-06,137,batch2,irrelevant
+or26,The fingerprint scanner.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or27,The bigger globe.,4,gpt-4o-2024-08-06,308,batch2,irrelevant
+or27,The bigger globe.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or27,The big window.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+or27,The big window.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or27,The bigger globe.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+or28,The puzzle pieces,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+or28,The puzzle pieces.,4,gpt-4o-2024-08-06,151,batch2,irrelevant
+or28,The puzzle pieces.,4,gpt-4o-2024-08-06,436,batch2,irrelevant
+or28,The puzzle pieces.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or28,The puzzle pieces.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or29,The book with a brick on it.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+or29,The magnifying glass.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or29,The book with a brick on it.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+or29,The magnifying glass.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or29,The book with a brick on it.,4,gpt-4o-2024-08-06,309,batch2,irrelevant
+or3,The elephant.,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or3,The elephant.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or3,The elephant.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or3,The elephant.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or3,The elephant.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or30,The VR goggle.,3,gpt-4o-2024-08-06,308,batch2,irrelevant
+or30,The VR goggle.,3,gpt-4o-2024-08-06,151,batch2,irrelevant
+or30,The VR goggle.,3,gpt-4o-2024-08-06,436,batch2,irrelevant
+or30,The VR goggle.,3,gpt-4o-2024-08-06,137,batch2,irrelevant
+or30,The VR goggle.,3,gpt-4o-2024-08-06,309,batch2,irrelevant
+or31,The scale.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or31,The scale.,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or31,The scale.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or31,The scale.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or31,The scale.,1,gpt-4o-2024-08-06,196,batch3,irrelevant
+or32,The couple.,4,gpt-4o-2024-08-06,165,batch3,irrelevant
+or32,The couple.,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or32,The couple.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or32,The couple.,4,gpt-4o-2024-08-06,393,batch3,irrelevant
+or32,The couple.,4,gpt-4o-2024-08-06,196,batch3,irrelevant
+or33,The book.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or33,The book.,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or33,The book.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or33,The book.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or33,The book.,4,gpt-4o-2024-08-06,196,batch3,irrelevant
+or34,The electrode cap.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or34,The electrode cap.,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or34,The electrode cap.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or34,The electrode cap.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or34,The electrode cap.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or35,The animal.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+or35,The animal.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+or35,The animal.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or35,The animal.,2,gpt-4o-2024-08-06,393,batch3,irrelevant
+or35,The animal.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+or36,The soldiers facing forward.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or36,The soldiers facing forward.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or36,The soldiers facing forward.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or36,The soldiers facing forward,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or36,The soldiers facing forward.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or37,The water,4,gpt-4o-2024-08-06,165,batch3,irrelevant
+or37,The land.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or37,The water,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or37,The water,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or37,The land.,4,gpt-4o-2024-08-06,196,batch3,irrelevant
+or38,The big car.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or38,The power lines.,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or38,The big car.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or38,The power lines.,4,gpt-4o-2024-08-06,393,batch3,irrelevant
+or38,The big car.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or39,The piggy bank.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or39,The piggy bank.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or39,The piggy bank.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or39,The piggy bank.,4,gpt-4o-2024-08-06,393,batch3,irrelevant
+or39,The piggy bank.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or4,The man in a wheelchair,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or4,The man in a wheelchair.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or4,the man in a wheelchair,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or4,The man in a wheelchair.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or4,The man in a wheelchair.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or40,The faucet.,2,gpt-4o-2024-08-06,165,batch3,irrelevant
+or40,The faucet.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or40,The faucet.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or40,The faucet.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or40,The faucet.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or41,The quill pen.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or41,The quill pen.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or41,The quill pen.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or41,The quill pen.,4,gpt-4o-2024-08-06,393,batch3,irrelevant
+or41,The quill pen.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or42,The pig broken in half.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or42,The pig broken in half.,2,gpt-4o-2024-08-06,492,batch3,irrelevant
+or42,The pig broken in half.,2,gpt-4o-2024-08-06,234,batch3,irrelevant
+or42,the pig broken in half,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or42,The pig broken in half.,2,gpt-4o-2024-08-06,196,batch3,irrelevant
+or43,The people.,4,gpt-4o-2024-08-06,165,batch3,irrelevant
+or43,The hammer,4,gpt-4o-2024-08-06,492,batch3,irrelevant
+or43,The people.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or43,The people.,4,gpt-4o-2024-08-06,393,batch3,irrelevant
+or43,The people.,4,gpt-4o-2024-08-06,196,batch3,irrelevant
+or44,The woman with a notepad.,4,gpt-4o-2024-08-06,165,batch3,irrelevant
+or44,The woman with a notepad,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or44,The woman with a notepad.,4,gpt-4o-2024-08-06,234,batch3,irrelevant
+or44,The woman with a notepad.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or44,The woman with a notepad.,4,gpt-4o-2024-08-06,196,batch3,irrelevant
+or45,The orchestra.,3,gpt-4o-2024-08-06,165,batch3,irrelevant
+or45,The woman on stage.,3,gpt-4o-2024-08-06,492,batch3,irrelevant
+or45,The orchestra.,3,gpt-4o-2024-08-06,234,batch3,irrelevant
+or45,The orchestra.,3,gpt-4o-2024-08-06,393,batch3,irrelevant
+or45,The orchestra.,3,gpt-4o-2024-08-06,196,batch3,irrelevant
+or46,The cylinders.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or46,The cylinders.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or46,The cylinders.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or46,The cylinders.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or46,The cylinders.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or47,The seal.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or47,The seal.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or47,The seal.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or47,The seal.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or47,The seal.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or48,The corn.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+or48,The tomatoes.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or48,The tomatoes.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or48,The tomatoes.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+or48,The tomatoes.,2,gpt-4o-2024-08-06,446,batch4,irrelevant
+or49,The magnifying glass.,2,gpt-4o-2024-08-06,271,batch4,irrelevant
+or49,The magnifying glass.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or49,The magnifying glass.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or49,The magnifying glass.,2,gpt-4o-2024-08-06,225,batch4,irrelevant
+or49,The magnifying glass.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or5,The man.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or5,The man.,2,gpt-4o-2024-08-06,409,batch1,irrelevant
+or5,The man.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or5,The man.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or5,The man,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or50,The ape.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or50,The ball next to a monitor.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or50,The ape.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or50,The ball next to a monitor.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or50,The ape.,4,gpt-4o-2024-08-06,446,batch4,irrelevant
+or51,The lock.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or51,The lock.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or51,The lock.,2,gpt-4o-2024-08-06,474,batch4,irrelevant
+or51,The lock.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or51,The lock.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or52,The yellow balls.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or52,The yellow balls.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or52,The yellow balls.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or52,The yellow balls.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or52,The yellow balls.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or53,The shield.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or53,The shield,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or53,The shield.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or53,The shield.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or53,The shield.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or54,The sitting man wearing a hat.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or54,The sitting man wearing a hat.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or54,The sitting man wearing a hat.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or54,The sitting man wearing a hat.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or54,The sitting man wearing a hat.,4,gpt-4o-2024-08-06,446,batch4,irrelevant
+or55,The dollar sign.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or55,The dollar sign.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or55,The dollar sign.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or55,The dollar sign.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or55,The dollar sign.,4,gpt-4o-2024-08-06,446,batch4,irrelevant
+or56,The fire truck.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or56,The fire truck.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or56,The fire truck.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or56,The fire truck.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or56,The fire truck.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or57,The red flower-shaped object with a pointy middle.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or57,The red flower-shaped object with a pointy middle.,4,gpt-4o-2024-08-06,440,batch4,irrelevant
+or57,The red flower-shaped object with a pointy middle.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or57,The red flower-shaped object with a pointy middle.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or57,The red flower-shaped object with a pointy middle.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or58,The lamps.,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or58,The lamps.,2,gpt-4o-2024-08-06,440,batch4,irrelevant
+or58,The lamps.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or58,The lamps.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or58,The lamps.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,271,batch4,irrelevant
+or59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,474,batch4,irrelevant
+or59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,225,batch4,irrelevant
+or59,The person in a yellow shirt.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or6,The kid in a yellow shirt.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or6,The kid in a yellow shirt.,4,gpt-4o-2024-08-06,409,batch1,irrelevant
+or6,The kid in a yellow shirt.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or6,The kid in a yellow shirt.,4,gpt-4o-2024-08-06,332,batch1,irrelevant
+or6,The kid in a yellow shirt.,4,gpt-4o-2024-08-06,209,batch1,irrelevant
+or60,the trees in the lower left corner,4,gpt-4o-2024-08-06,271,batch4,irrelevant
+or60,The trees in the lower left corner.,3,gpt-4o-2024-08-06,440,batch4,irrelevant
+or60,The trees in the lower left corner.,4,gpt-4o-2024-08-06,474,batch4,irrelevant
+or60,The trees in the lower left corner.,4,gpt-4o-2024-08-06,225,batch4,irrelevant
+or60,The trees in the lower left corner.,3,gpt-4o-2024-08-06,446,batch4,irrelevant
+or61,The woman.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or61,The woman.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or61,The woman,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or61,The woman,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or61,I'm unable to provide a response given the prompt and image description.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or62,The solar panel.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or62,The solar panel.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or62,The solar panel.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or62,The solar panel.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+or62,The solar panel.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or63,The tray.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or63,The tray.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or63,The tray.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or63,The tray.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+or63,The tray.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or64,The man.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+or64,The man.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+or64,The man.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or64,The man.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+or64,The weight.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or65,The baby.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+or65,The baby.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or65,The baby,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or65,The baby.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or65,The baby.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or66,The barbed wire,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or66,The barbed wire.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or66,The barbed wire.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or66,The barbed wire.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or66,The barbed wire.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or67,It is ambiguous.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or67,It is ambiguous.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+or67,It is ambiguous.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or67,It is ambiguous.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or67,It is ambiguous.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or68,The man.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or68,The man.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or68,The man.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or68,The man.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or68,The man.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or69,The crowd,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or69,The crowd.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+or69,The crowd.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or69,The crowd.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or69,The crowd.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or7,Everything equal.,4,gpt-4o-2024-08-06,462,batch1,irrelevant
+or7,The sun.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or7,Everything equal.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or7,Everything equal.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or7,The sun.,4,gpt-4o-2024-08-06,209,batch1,irrelevant
+or70,The man's right hand.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+or70,The man's right hand.,2,gpt-4o-2024-08-06,144,batch5,irrelevant
+or70,the man's right hand,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or70,The man's right hand.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+or70,The man's right hand.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or71,The open books.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or71,The open books,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or71,the open books,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or71,The open books,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or71,The open books.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or72,The soccer ball.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or72,The soccer ball.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+or72,The soccer ball.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or72,The soccer ball.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or72,The soccer ball.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or73,The green cloth.,3,gpt-4o-2024-08-06,302,batch5,irrelevant
+or73,The stool.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or73,The stool.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or73,The stool.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or73,The green cloth.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or74,Cannot say.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or74,The red bars.,4,gpt-4o-2024-08-06,144,batch5,irrelevant
+or74,The red bars.,4,gpt-4o-2024-08-06,345,batch5,irrelevant
+or74,The red bars.,4,gpt-4o-2024-08-06,111,batch5,irrelevant
+or74,The red bars.,4,gpt-4o-2024-08-06,173,batch5,irrelevant
+or75,The lime.,4,gpt-4o-2024-08-06,302,batch5,irrelevant
+or75,The lime.,3,gpt-4o-2024-08-06,144,batch5,irrelevant
+or75,The lime.,3,gpt-4o-2024-08-06,345,batch5,irrelevant
+or75,The lime.,3,gpt-4o-2024-08-06,111,batch5,irrelevant
+or75,The lime.,3,gpt-4o-2024-08-06,173,batch5,irrelevant
+or8,The staircase.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or8,The staircase.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or8,The staircase.,4,gpt-4o-2024-08-06,205,batch1,irrelevant
+or8,The staircase.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or8,The staircase.,3,gpt-4o-2024-08-06,209,batch1,irrelevant
+or9,The phone.,3,gpt-4o-2024-08-06,462,batch1,irrelevant
+or9,The phone.,3,gpt-4o-2024-08-06,409,batch1,irrelevant
+or9,The phone.,3,gpt-4o-2024-08-06,205,batch1,irrelevant
+or9,The phone.,3,gpt-4o-2024-08-06,332,batch1,irrelevant
+or9,The phone,3,gpt-4o-2024-08-06,209,batch1,irrelevant

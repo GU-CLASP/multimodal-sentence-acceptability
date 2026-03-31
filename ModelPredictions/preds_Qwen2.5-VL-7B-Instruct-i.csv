@@ -1,0 +1,2920 @@
+name,natural,choice,model,seed,batch,condition
+or1,3,heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or2,2,the lightning,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or3,2,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or4,4,The laptops,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or5,3,man,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or6,4,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or9,4,flags,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or10,4,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or11,2,The air pump,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs16,2,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs17,4,the front side of pedestal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs19,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs21,3,the cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs26,2,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs28,4,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs29,2,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+cs30,3,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de31,1,The scale,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de32,1,couple,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de33,1,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de37,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de38,1,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de43,2,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+de45,3,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr46,2,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr50,3,ape,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr51,2,the lock,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr52,1,black balls,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr54,3,the sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr58,4,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr59,2,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+fr60,2,the trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,146,batch1,i
+or1,2,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or2,4,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or3,3,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or4,3,laptops,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or6,4,the screen,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or8,4,door,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or9,3,phone,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or10,4,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or11,3,air pump,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or13,2,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or14,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs16,1,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs17,4,the person,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs21,3,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs22,3,People,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs24,2,The mug,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs26,4,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs27,2,The solar panels.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs28,2,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+cs30,3,VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de32,1,The couple,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de33,2,the bathtub,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de37,1,water,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de38,2,power lines,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de39,4,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de42,1,The pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de43,1,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+de45,2,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr46,1,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr48,2,The tomatoes.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr49,4,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr52,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr54,2,The sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr57,1,the red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr59,2,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+fr60,4,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,174,batch1,i
+or1,1,The heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or2,3,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or3,2,elephant,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or4,4,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or5,4,man,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or6,3,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or9,3,phone,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or10,3,The light,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or11,4,air pump,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or12,3,the shoes,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or13,3,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or14,3,the man with a beard,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs16,4,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs17,4,The person,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs19,3,mug,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs20,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs21,3,The cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs22,4,The people.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs24,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs25,1,little girl,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs28,2,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs29,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+cs30,2,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de32,2,couple,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de33,1,The book.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de36,1,The trucks,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de37,1,The water,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de39,2,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de42,3,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de43,2,people,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+de45,1,the woman on stage,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr48,2,The corn,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr50,1,the ape,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr55,3,arrow,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr56,3,fumes,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr59,2,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+fr60,2,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,191,batch1,i
+or1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or2,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or3,3,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or4,4,laptops,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or5,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or6,4,The screen.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or8,4,The staircase.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or9,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or10,4,the big circle,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or11,4,air pump,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or13,2,The pig,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or15,1,the exclamation points,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs17,4,diamond,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs19,4,hands,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs20,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs21,1,The cigarette.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs22,4,The people,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs24,2,The mug,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs28,2,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+cs30,1,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de32,1,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de33,4,The book.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de37,1,land,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de38,1,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de39,2,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de42,2,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de43,2,People,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de44,1,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+de45,2,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr46,1,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr48,2,tractor,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr53,3,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr54,3,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr55,3,The dollar sign.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr57,2,red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr58,4,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr59,2,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+fr60,2,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,209,batch1,i
+or1,2,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or2,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or3,3,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or4,4,laptops,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or6,3,The kid in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or8,1,door,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or9,2,phone,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or10,4,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or11,4,air pump,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or12,4,the shoes,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or13,2,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or14,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs17,4,diamond,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs20,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs21,3,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs22,3,The people.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs23,1,The chart,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs26,3,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs28,2,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs29,3,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+cs30,4,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de31,2,The scale.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de32,3,couple,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de33,2,the book,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de37,2,The land,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de38,4,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de39,2,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de41,1,The quill pen,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de43,2,Hammer,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+de44,1,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr48,3,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr53,3,shield,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr55,4,The arrow,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr58,2,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr59,4,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+fr60,2,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,221,batch1,i
+or1,1,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or2,3,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or4,4,The man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or5,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or6,4,The screen.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or8,4,door,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or9,3,phone,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or10,4,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or11,3,air pump,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or13,3,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs16,3,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs17,3,the front side of pedestal,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs19,3,mug,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs22,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs23,1,bike,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs26,3,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs27,1,The bigger globe,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs28,3,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+cs30,4,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de31,1,Scale,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de32,2,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de33,1,the book,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de37,1,land,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de38,1,the big car,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de39,2,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de43,2,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+de45,1,The woman on stage,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr46,1,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr48,1,tractor,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr49,3,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr50,1,The ape,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr51,3,the hourglass,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr53,2,shield,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr54,3,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr55,3,dollar sign,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr56,4,The flames,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr57,4,red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr59,2,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+fr60,2,The cliffs on the right,Qwen/Qwen2.5-VL-7B-Instruct,229,batch1,i
+or1,2,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or2,3,brain,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or3,2,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or4,3,man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or5,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or6,3,The plant.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or8,2,staircase,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or9,3,The phone.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or10,4,the light,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or13,3,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or15,3,flasks,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs16,2,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs17,3,The person,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs19,4,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs21,2,cigarette,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs22,4,The people,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs24,1,mug,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs27,1,The bigger globe,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs28,2,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs29,1,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+cs30,3,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de32,2,The bench,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de33,1,the bathtub,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de34,1,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de35,4,animal,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de37,2,The water.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de38,3,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de39,1,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de42,2,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de43,2,The hammer,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+de45,1,The woman on stage.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr49,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr51,1,the hourglass,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr53,1,The shield,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr54,2,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr55,3,dollar sign,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr56,4,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr58,2,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+fr59,1,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,243,batch1,i
+or1,4,heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or2,3,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or3,4,elephant,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or4,2,The man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or6,4,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or8,4,The door.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or9,3,phone,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or10,3,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or11,3,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or12,4,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or13,4,The surgeons.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or14,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs16,2,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs17,3,The front side of pedestal,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs18,3,The torch.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs22,4,The people,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs23,1,The bike.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs24,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs26,2,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+cs30,2,The VR goggles.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de31,3,scale,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de32,2,The bench,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de33,1,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de36,1,The trucks,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de37,1,The water,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de42,2,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de43,1,people,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de44,2,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+de45,1,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr46,2,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr48,2,Tomatoes,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr49,4,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr51,1,hourglass,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr54,2,The man with his hand on his chin,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr55,4,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr58,1,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr59,3,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+fr60,4,Trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,264,batch1,i
+or1,2,The watering cans,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or2,3,brain,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or3,3,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or4,4,laptops,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or5,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or6,4,screen,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or7,4,the sun,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or9,4,phone,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or10,4,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or13,2,The pig,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs17,4,person,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs19,2,The mug,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs21,1,the cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs22,3,People,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs23,2,The bike,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs26,2,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs28,2,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+cs30,2,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de31,2,The scale,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de32,2,The couple,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de33,1,The book,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de37,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de38,2,The helicopter.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de43,2,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de44,1,Laughing man,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+de45,1,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr46,1,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr49,3,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr56,4,flames,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr59,2,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+fr60,2,The trees in the lower left corner.,Qwen/Qwen2.5-VL-7B-Instruct,325,batch1,i
+or1,2,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or2,4,The brain.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or3,3,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or4,3,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or5,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or6,3,the kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or8,2,staircase,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or9,3,the phone,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or10,4,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or11,3,bottle,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or13,4,The liver,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or14,3,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs16,2,the dog collar,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs17,3,The diamond,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs19,1,hands,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs22,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs26,1,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs28,3,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+cs30,2,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de32,3,the couple,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de33,2,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de34,4,The person holding a pen,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de36,1,trucks,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de37,2,The water,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de38,4,The helicopter.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de42,2,the bank,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de43,2,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de44,3,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+de45,2,The woman on stage.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr46,2,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr48,3,The corn,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr49,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr50,2,The ape,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr58,1,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr59,2,The old-fashioned phone,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+fr60,4,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,345,batch1,i
+or16,3,the dog collar,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or17,3,person,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or18,4,The torch.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or19,4,mug,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or20,4,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or21,3,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or22,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or25,3,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or27,3,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or28,4,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or29,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or30,3,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs32,2,The couple,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs33,2,The bathtub.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs34,1,the electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs37,2,Cannot say.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs38,2,The big car,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs43,3,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+cs45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de46,1,Cylinders,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de48,3,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de49,1,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de50,1,The ape,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de51,2,The hourglass.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de53,3,The shield,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de58,1,lamps,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de59,1,Person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+de60,2,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr61,4,the woman,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr63,2,The tray,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr65,2,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr66,2,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr67,2,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr68,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr69,2,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr70,3,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr71,1,"Only say the open books, the woman holding a pen, or the lights on",Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr73,3,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr74,4,Cannot say.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+fr75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,126,batch2,i
+or16,3,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or17,3,The person.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or19,4,hands,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or20,4,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or21,4,The cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or22,3,The people.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or25,4,little girl,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or27,3,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or28,4,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or29,3,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or30,4,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs31,2,The scale,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs32,3,couple,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs33,2,the towel,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs35,3,the animal,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs36,1,soldiers facing forward,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs37,2,water,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs38,1,big car,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs43,2,people,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+cs45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de48,4,tractor,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de49,2,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de51,2,The lock.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de53,1,the shield,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de54,2,The man with his hand on his chin,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de57,2,The red flower-shaped object with a pointy middle is at the most front of,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de59,2,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+de60,1,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr61,2,the woman,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr62,1,pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr63,3,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr64,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr66,2,Barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr67,3,the red rays,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr68,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr69,4,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr71,1,open books,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr72,2,car,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr74,1,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+fr75,1,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,162,batch2,i
+or16,4,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or17,4,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or18,4,torch,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or20,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or21,3,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or24,4,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or25,3,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or26,4,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or27,3,The big window,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or28,4,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or29,3,the magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or30,2,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs32,4,couple,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs33,1,the book,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs34,3,The electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs36,4,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs37,4,The water,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs41,3,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs42,2,The bank,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs43,3,Hammer,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs44,1,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+cs45,1,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de46,2,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de49,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de52,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de53,1,shield,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de55,4,The dollar sign,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de56,2,flames,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de57,1,red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de58,1,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de59,1,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+de60,4,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr61,1,The woman,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr62,1,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr65,2,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr66,1,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr68,2,man,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr69,1,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr70,4,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr71,2,The open books,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr73,3,stool,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr74,2,red bars,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+fr75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,185,batch2,i
+or16,4,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or17,3,The person,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or18,4,torch,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or19,3,mug,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or20,4,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or21,4,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or22,4,people,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or27,1,The big window,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or28,4,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or29,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or30,3,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs31,1,The scale,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs32,3,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs33,2,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs37,2,The water,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs38,2,big car,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs43,3,The hammer,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+cs45,2,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de46,3,The cylinders,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de49,2,the magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de52,3,The yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de53,2,Shield,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de54,2,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de57,4,red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de59,3,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+de60,2,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr61,2,The woman,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr65,2,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr66,2,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr67,4,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr68,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr69,1,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr73,1,the stool,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr74,2,red bars,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+fr75,3,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,234,batch2,i
+or16,4,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or17,4,the front side of pedestal,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or19,4,mug,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or20,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or21,4,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or23,3,chart,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or25,3,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or27,2,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or28,4,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or29,3,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or30,4,The VR goggles.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs32,3,Couple,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs33,4,the book,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs37,2,The land,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs38,2,The big car,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs41,2,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs42,2,the bank,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs43,4,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+cs45,2,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de48,4,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de49,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de53,2,The shield,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de54,2,The chalkboard.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de56,3,flames,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de59,3,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+de60,3,The trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr61,2,The woman,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr63,2,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr64,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr65,1,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr66,2,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr67,3,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr68,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr69,1,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr71,1,"Only say the open books, the woman holding a pen, or the lights on",Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr72,3,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr73,3,stool,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr74,2,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+fr75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,256,batch2,i
+or16,4,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or17,3,person,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or18,4,torch,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or20,4,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or21,4,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or22,2,The people,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or24,3,The mug,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or25,4,little girl,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or26,3,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or27,4,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or28,4,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or29,3,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or30,4,The VR goggles.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs31,3,scale,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs32,3,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs33,2,the towel,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs34,1,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs36,1,the soldiers facing forward,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs37,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs39,4,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs43,2,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs44,1,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+cs45,1,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de46,4,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de48,4,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de49,2,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de53,3,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de54,3,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de59,2,the person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+de60,3,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr62,2,The pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr64,4,man,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr65,1,The suitcase,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr66,2,the barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr67,3,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr68,3,man,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr69,2,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr73,3,stool,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr74,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+fr75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,260,batch2,i
+or16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or17,4,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or20,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or21,4,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or23,2,bicycle,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or24,4,The mug,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or25,4,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or27,3,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or28,1,Puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or29,1,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or30,3,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs32,4,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs33,3,The book,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs37,2,The water,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs38,1,The big car,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs39,3,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs41,1,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs43,2,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+cs45,2,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de47,1,Seal,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de48,4,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de53,2,The shield,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de54,2,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de56,4,flames,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de59,2,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+de60,3,The trees in the lower left corner.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr64,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr66,1,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr67,2,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr68,3,man,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr69,1,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr72,3,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr74,3,red bars,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+fr75,1,the lime,Qwen/Qwen2.5-VL-7B-Instruct,317,batch2,i
+or16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or17,4,The person.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or19,4,hands,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or20,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or21,3,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or22,4,people,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or24,4,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or27,3,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or28,4,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or29,4,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or30,3,VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs32,3,the couple,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs33,1,the towel,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs34,1,the electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs35,2,The moon,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs37,2,Cannot say.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs38,1,The big car,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs39,4,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs41,2,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs43,3,people,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs44,1,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+cs45,1,the orchestra,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de48,4,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de49,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de54,3,the sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de59,1,the person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+de60,2,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr61,2,The woman,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr63,2,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr64,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr66,2,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr67,2,The red rays are in the foreground.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr68,2,the man,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr69,1,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr70,2,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr73,2,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr74,2,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+fr75,2,The lime.,Qwen/Qwen2.5-VL-7B-Instruct,330,batch2,i
+or16,4,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or17,3,person,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or20,4,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or21,4,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or22,4,The sun,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or24,4,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or25,4,little girl,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or27,3,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or28,3,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or29,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or30,4,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs32,2,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs33,4,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs35,1,the animal,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs37,1,The water.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs38,1,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs43,4,people,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+cs45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de49,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de50,1,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de53,1,shield,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de54,3,The chalkboard.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de56,4,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de57,1,the red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de59,4,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+de60,3,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr63,2,Tray,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr64,2,the man,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr66,2,the barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr67,3,Only say the red rays,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr68,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr69,2,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr70,2,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr73,4,The stool.,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr74,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+fr75,2,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,369,batch2,i
+or16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or17,4,The diamond,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or18,3,The torch.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or19,4,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or20,3,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or21,4,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or22,4,The people.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or24,3,The mug,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or25,4,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or27,2,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or28,4,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or29,4,the magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or30,4,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs32,3,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs33,4,the book,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs37,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs38,2,The big car,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs41,4,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs43,3,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs44,2,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+cs45,2,The woman on stage.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de46,4,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de48,2,The corn,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de49,2,glove,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de51,3,The hourglass.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de55,3,The arrow,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de57,1,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de59,2,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+de60,3,The trees in the lower left corner.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr61,3,the woman,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr62,3,Pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr64,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr65,3,baby,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr66,2,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr67,4,only say the red rays,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr68,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr69,3,The crowd,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr72,2,The kid on the bike.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr73,2,stool,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr74,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+fr75,2,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,388,batch2,i
+or31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or32,4,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or33,3,the towel,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or37,2,The land.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or38,4,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or39,4,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or41,2,The quill pen,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or42,2,the pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or43,4,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or45,2,The woman on stage.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs46,2,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs49,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs50,1,the ape,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr1,2,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr2,2,the brain,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr4,2,The man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr5,2,man,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr6,1,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr9,2,phone,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr10,4,The light,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr11,3,air pump,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr12,4,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr13,1,the surgeons,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+fr15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs53,1,shield,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs55,3,arrow,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs57,1,red hat-shaped object,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs59,1,Everything equal.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+cs60,1,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de61,3,the woman,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de62,2,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de63,1,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de64,1,The man,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de65,2,The suitcase,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de66,1,Barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de67,2,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de69,1,The crowd.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de70,1,The thermos.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de73,1,stool,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de74,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+de75,1,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,127,batch3,i
+or31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or32,3,bench,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or33,3,towel,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or34,4,The electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or36,4,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or37,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or39,3,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or43,2,people,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or44,3,laughing man,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or45,4,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs48,2,tractor,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs49,2,The glove,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr2,2,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr4,2,man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr5,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr6,1,the screen,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr8,3,the staircase,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr9,1,The phone,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr10,3,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr13,1,pig,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+fr15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs53,2,shield,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs58,1,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs59,1,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+cs60,2,The trees in the lower left corner.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de61,4,The woman,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de62,1,pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de66,2,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de67,2,Only say the red rays,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de68,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de69,1,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de73,2,The stool,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de74,3,red bars,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+de75,1,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,203,batch3,i
+or31,3,Scale,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or32,3,couple,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or33,2,the book,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or36,4,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or37,3,water,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or38,4,big car,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or40,3,faucet,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or42,3,The bank.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or43,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or44,4,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or45,4,The woman on stage.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs46,1,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs48,1,the corn,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr1,1,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr2,2,the brain,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr3,2,elephant,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr4,1,man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr5,2,man,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr6,2,the kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr8,2,door,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr9,3,phone,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr10,3,the big circle,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr11,1,the air pump,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+fr15,3,flasks,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs51,1,The hourglass.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs54,2,the man with his hand on his chin,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs59,1,person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+cs60,2,The trees in the lower left corner are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de61,3,the woman,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de63,1,Tray,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de66,1,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de67,2,"Only say the red rays, it is ambiguous, or the blue rays and nothing",Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de68,2,man,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de69,3,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de74,4,red bars,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+de75,2,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,204,batch3,i
+or31,3,scale,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or32,3,The couple,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or33,2,the book,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or34,3,The electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or36,4,soldiers facing forward,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or37,1,Land,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or38,3,Big car,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or39,4,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or41,4,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or42,4,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or43,3,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or45,3,the orchestra,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs46,2,The cylinders,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs48,2,Tomatoes,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs49,2,The glove,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr2,2,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr4,2,Laptops,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr5,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr6,2,the kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr9,2,Phone,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr10,3,The big circle,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr11,2,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+fr15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs53,1,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs54,2,The sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs57,2,The red hat-shaped object.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs59,2,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+cs60,1,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de61,2,the woman,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de62,2,The solar panel.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de64,2,the man,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de65,3,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de66,2,drone,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de67,2,The red rays appear to be the most prominent in the foreground of the image.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de69,3,The crowd,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de71,3,The open books,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de74,4,red bars,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+de75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,311,batch3,i
+or31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or32,2,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or33,2,the towel,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or35,3,The moon.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or37,4,The water,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or38,4,The big car,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or41,3,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or43,3,the people,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or45,4,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs46,1,Cylinders,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs48,1,The corn is at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs49,1,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs50,1,the ape,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr1,3,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr2,3,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr5,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr6,2,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr9,1,flags,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr10,3,The light,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr13,1,The surgeons.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr14,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+fr15,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs51,2,The lock.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs54,1,The sitting man wearing a hat is at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs55,3,The dollar sign.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs58,1,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs59,1,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+cs60,2,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de61,2,The woman,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de63,2,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de64,1,man,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de66,2,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de67,3,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de68,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de69,1,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de73,1,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de74,3,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+de75,1,The lime.,Qwen/Qwen2.5-VL-7B-Instruct,355,batch3,i
+or31,3,scale,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or32,3,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or33,3,the towel,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or36,4,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or37,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or38,3,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or39,4,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or41,2,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or42,3,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or43,3,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or45,4,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs46,3,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs49,2,The glove,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr1,1,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr2,2,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr3,1,the elephant,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr4,4,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr5,1,man,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr6,2,the kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr9,1,Cannot say.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr10,4,the light,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr13,1,The liver.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+fr15,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs51,1,lock,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs52,1,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs55,2,arrow,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs57,3,the red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs58,4,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs59,1,old-fashioned phone,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+cs60,1,the cliffs on the right,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de61,3,The woman,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de64,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de65,1,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de66,1,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de68,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de69,1,Crowd,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de71,2,The open books are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de73,3,The stool.,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de74,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+de75,1,the lime,Qwen/Qwen2.5-VL-7B-Instruct,356,batch3,i
+or31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or32,3,the bench,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or33,4,The book.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or35,4,animal,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or37,4,The water,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or38,2,big car,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or39,3,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or41,3,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or43,3,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or44,3,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or45,3,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs49,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs50,2,The Ape,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr2,3,the brain,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr5,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr6,3,The screen,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr8,4,staircase,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr9,2,phone,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr10,4,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr12,4,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+fr15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs51,1,the lock,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs52,2,The yellow balls.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs53,2,Shield,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs55,4,The dollar sign.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs58,1,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs59,3,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+cs60,2,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de61,3,the woman,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de64,1,man,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de65,2,baby,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de66,2,The barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de67,3,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de68,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de69,1,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de73,3,The stool,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de74,3,Cannot say.,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+de75,1,the lime,Qwen/Qwen2.5-VL-7B-Instruct,421,batch3,i
+or31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or32,4,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or33,4,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or35,3,animal,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or36,3,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or37,2,The water,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or38,4,Big car,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or39,3,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or41,3,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or42,2,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or43,3,the people,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or45,3,the orchestra,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs46,2,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs49,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr2,2,Brain,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr5,2,the man,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr6,4,The screen.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr8,3,The door.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr9,2,The phone.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr10,4,The light,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr13,3,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+fr15,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs52,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs53,3,Shield,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs54,2,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs57,4,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs59,2,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+cs60,3,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de61,2,the woman,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de63,1,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de66,2,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de67,3,The blue rays.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de68,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de69,1,The crowd.,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de70,2,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de73,1,stool,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de74,3,"Only say the red bars, the green bars, or cannot say.",Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+de75,1,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,453,batch3,i
+or31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or32,3,The couple,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or33,3,the book,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or35,4,animal,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or36,3,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or37,2,The water,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or38,4,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or41,3,the quill pen,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or42,4,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or43,4,The hammer,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or44,3,the woman with a notepad,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or45,4,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs46,4,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs49,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs50,2,The ape,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr1,2,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr2,3,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr3,1,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr5,2,the man,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr6,1,the screen,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr9,2,flags,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr10,4,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr11,3,air pump,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr14,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+fr15,4,flasks,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs51,3,The lock.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs52,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs53,2,The shield,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs54,1,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs55,2,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs56,1,flames,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs57,2,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+cs60,2,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de61,2,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de64,3,man,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de66,3,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de67,3,The blue rays.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de68,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de69,2,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de71,4,open books,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de72,1,The soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de73,2,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de74,2,red bars,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+de75,2,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,494,batch3,i
+or46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or47,2,the seal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or48,2,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or49,3,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de2,3,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de3,2,elephant,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de5,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de6,2,screen,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de9,1,phone,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de10,3,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de11,1,The bike.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+de15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr16,2,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr17,3,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr19,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr20,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr21,3,The cigarette.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr22,4,The people.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr24,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr27,1,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr28,3,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr29,3,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+fr30,2,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or53,4,The shield,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or54,3,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or55,3,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or57,2,the red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or59,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or60,2,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs61,3,The woman,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs62,1,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs63,1,The tray.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs64,1,The weight.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs67,2,The red rays,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs68,2,The machines.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs69,1,crowd,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs71,2,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs72,1,Soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs73,1,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs74,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+cs75,2,the woman with the headband,Qwen/Qwen2.5-VL-7B-Instruct,146,batch4,i
+or46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or49,3,The glove,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or50,4,the ape,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de1,1,The heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de2,3,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de3,2,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de4,2,laptops,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de5,1,man,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de6,3,the kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de8,2,door,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de10,3,The light,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de11,1,The air pump,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de14,3,man with a beard,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+de15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr17,4,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr19,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr21,3,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr22,4,people,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr23,2,The person.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr24,1,The mug,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr25,3,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr26,4,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr28,1,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr29,1,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+fr30,4,The VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or52,4,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or53,3,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or54,3,The sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or55,3,dollar sign,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or56,4,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or59,3,Everything equal.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or60,4,the trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs62,2,The pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs65,2,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs66,2,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs67,3,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs68,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs69,1,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs70,2,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs72,1,The soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs73,1,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs74,1,red bars,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+cs75,2,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,149,batch4,i
+or46,4,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or50,4,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de2,3,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de4,2,The man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de6,2,The screen,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de7,3,the sun,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de8,1,The door,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de9,3,Flags,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de10,4,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de13,1,the surgeons,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+de15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr16,1,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr17,3,The person,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr21,1,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr22,3,The people.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr23,1,bike,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr24,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr27,2,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr28,3,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr29,3,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+fr30,4,The VR goggles.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or53,3,shield,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or54,3,The sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or55,3,arrow,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or56,2,flames,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or57,3,the red flower-shaped object with a pointy middle,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or59,2,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or60,4,cliffs on the right,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs61,4,the woman,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs62,1,The solar panel.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs66,2,the barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs67,2,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs68,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs69,3,The crowd.,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs71,2,The open books,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs73,1,the stool,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs74,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+cs75,3,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,181,batch4,i
+or46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or48,4,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or49,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or50,2,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de1,2,Kid in a striped shirt,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de2,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de3,2,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de4,2,laptops,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de5,3,man,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de6,1,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de8,4,door,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de9,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de10,4,the light,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de11,1,air pump,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de12,3,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de13,1,pig,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+de15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr17,3,The person.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr22,4,People,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr24,3,The mug,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr25,4,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr27,1,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr28,4,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr29,1,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+fr30,4,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or52,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or53,4,The shield,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or54,3,the sitting man wearing a hat,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or55,4,The arrow.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or56,2,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or59,3,The person in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or60,4,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs61,1,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs64,1,the man,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs65,2,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs66,1,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs67,2,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs69,2,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs70,1,The man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs71,2,The open books,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs74,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+cs75,3,the lime,Qwen/Qwen2.5-VL-7B-Instruct,217,batch4,i
+or46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or47,2,The seal,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or48,4,tractor,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or49,3,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or50,1,The ape,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de1,3,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de2,4,Brain,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de4,3,the man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de5,1,man,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de6,1,The screen.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de7,2,sun,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de8,3,Staircase,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de9,3,The phone,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de10,4,the big circle,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de11,1,air pump,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de13,2,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de14,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+de15,4,the exclamation points,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr17,4,the front side of pedestal,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr19,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr21,3,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr22,2,people,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr24,4,The mug,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr28,2,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr29,2,The book with a brick on it,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+fr30,3,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or51,4,hourglass,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or52,2,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or53,3,shield,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or54,4,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or55,3,arrow,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or59,3,the person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or60,1,the cliffs on the right,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs61,1,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs63,2,Tray,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs65,1,The baby.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs66,2,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs67,2,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs68,2,man,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs69,4,DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs72,2,Soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs73,1,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs74,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+cs75,3,lime,Qwen/Qwen2.5-VL-7B-Instruct,233,batch4,i
+or46,3,The cylinders,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or47,3,The seal,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or48,3,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or49,1,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de1,2,heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de2,4,the lightning,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de3,2,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de4,2,The laptop.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de5,2,man,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de6,2,The plants.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de7,1,sun,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de8,2,The door.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de9,4,flags,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de10,4,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de13,1,pig,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de14,2,man with a beard,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+de15,1,The flasks.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr16,1,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr17,4,the diamond,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr21,4,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr22,2,people,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr23,1,The bike.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr24,1,mug,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr25,4,little girl,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr26,3,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr28,3,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr29,2,Book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+fr30,3,VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or51,3,lock,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or52,4,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or53,2,The shield,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or54,4,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or55,3,The arrow,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or56,3,flames,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or58,2,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or59,3,the person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or60,3,The trees in the lower left corner.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs61,2,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs62,2,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs64,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs65,1,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs67,2,The red rays,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs68,1,The man,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs69,4,the DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs71,2,The open books,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs73,2,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs74,1,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+cs75,1,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,302,batch4,i
+or46,3,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or48,3,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or49,2,The glove.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or50,1,ape,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de1,2,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de2,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de3,1,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de4,1,laptops,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de5,2,man,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de6,2,the screen,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de9,2,The phone,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de10,4,The woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de13,1,pig,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+de15,3,flasks,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr16,1,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr17,4,The diamond.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr18,4,The torch.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr19,3,hands,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr20,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr21,2,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr22,3,The people.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr28,1,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr29,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+fr30,4,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or52,4,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or53,2,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or54,4,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or55,4,The arrow,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or56,4,flames,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or57,3,The red flower-shaped object with a pointy middle is at the most front of,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or58,4,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or59,4,Person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or60,3,trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs61,2,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs65,4,baby,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs66,1,The drones.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs67,2,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs68,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs69,2,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs73,2,the stool,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs74,2,red bars,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+cs75,1,The woman with the headband,Qwen/Qwen2.5-VL-7B-Instruct,316,batch4,i
+or46,3,cylinders,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or47,1,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or48,3,The corn,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or49,4,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or50,3,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de1,2,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de2,4,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de3,1,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de4,1,man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de5,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de6,1,The kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de7,3,The sun,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de8,3,door,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de9,1,The phone,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de10,4,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de11,1,the air pump,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de14,2,Man with a beard,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+de15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr17,3,The person,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr19,3,the mug,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr20,2,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr22,4,The people.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr25,1,little girl,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr26,2,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr27,1,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+fr30,4,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or51,2,lock,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or52,3,yellow balls,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or53,3,The shield.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or54,3,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or55,4,dollar sign,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or56,1,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or59,3,the person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or60,3,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs61,2,the woman,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs63,2,tray,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs64,1,the man,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs65,1,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs66,4,The drones.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs68,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs69,3,Crowd,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs70,1,The woman's left hand,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs71,1,open books,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs72,1,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs73,1,stool,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs74,2,The red bars,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+cs75,3,The lime.,Qwen/Qwen2.5-VL-7B-Instruct,383,batch4,i
+or46,4,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or47,2,The seal.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or48,1,The corn.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or49,3,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or50,3,The ape.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de1,1,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de2,3,the brain,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de3,1,the elephant,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de5,1,man,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de6,2,The screen.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de8,1,The moon is at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de9,2,The phone,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de10,3,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de11,2,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de14,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+de15,1,the flasks,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr16,1,the dog collar,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr17,4,the person,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr20,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr21,4,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr26,3,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr27,3,the big window,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr28,2,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr29,1,Book with a brick on it,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+fr30,3,The VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or51,3,The lock.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or52,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or53,3,The shield,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or54,4,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or55,3,arrow,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or56,3,The flames.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or57,4,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or58,3,The lamps,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or59,3,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or60,4,the trees in the lower left corner,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs62,1,The pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs63,1,tray,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs64,2,The man,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs65,2,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs67,2,"Only say the red rays, it is ambiguous, or the blue rays.",Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs68,2,man,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs69,1,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs72,1,The kid on the bike.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs73,2,The stool.,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+cs74,1,Red bars,Qwen/Qwen2.5-VL-7B-Instruct,445,batch4,i
+or46,4,The cylinders.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or47,1,The seal,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or48,4,The tomatoes.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or49,4,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or50,2,the ape,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de1,3,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de2,3,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de5,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de6,4,the screen,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de7,2,sun,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de8,1,The door,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de9,2,flags,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de10,4,the big circle,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de11,1,air pump,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de14,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+de15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr16,2,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr17,3,The front side of pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr18,3,the torch,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr24,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr25,2,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr26,3,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr27,1,big window,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr28,4,The keyboard.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+fr30,3,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or51,4,lock,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or52,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or53,3,Shield,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or54,4,The sitting man wearing a hat.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or55,4,arrow,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or56,3,flames,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or57,3,The red flower-shaped object with a pointy middle.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or58,3,The lamps.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or59,3,The person in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+or60,3,The cliffs on the right.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs61,4,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs63,2,Tray,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs64,4,man,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs65,1,baby,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs68,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs69,2,The DJ behind the glass,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs70,1,the woman's left hand,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs71,1,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs73,1,stool,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs74,2,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs75,1,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,487,batch4,i
+cs1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs2,2,brain,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs3,3,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs4,2,The man in a wheelchair,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs6,3,The kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs8,2,door,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs9,1,phone,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs10,3,The light,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de17,3,The diamond,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de19,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de21,2,the cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de22,3,people,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de23,2,bike,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de26,3,The fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+de30,2,VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr31,1,the scale,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr32,3,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr33,3,The book.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr35,1,The animal.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr37,4,Land.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr39,4,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr43,4,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr44,3,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+fr45,2,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or61,4,the woman,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or62,2,The pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or65,3,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or67,3,The red rays appear to be at the most front in this image.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or68,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or69,4,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or71,3,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or72,3,Car,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or73,4,the stool,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or74,4,"Only say the red bars, the green bars, or cannot say.",Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+or75,3,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,129,batch5,i
+cs1,1,The heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs2,1,Everything equal,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs3,1,The elephant.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs5,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs6,3,The kid in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs9,1,Cannot say,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs10,4,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs12,1,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs13,1,surgeons,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs15,2,flasks,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de17,4,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de18,4,torch,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de19,1,hands,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de21,1,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de22,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de23,3,The chart,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de24,2,the mug,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de26,1,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de28,1,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+de30,3,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr31,1,door on the left,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr32,4,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr33,2,The book.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr34,1,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr35,4,animal,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr37,3,water,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr38,3,big car,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr42,2,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr43,1,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+fr45,1,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or61,4,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or62,3,the pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or64,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or65,3,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or66,4,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or67,2,The red rays.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or69,3,The crowd,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or70,3,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or71,3,The open books,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or72,3,car,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or73,3,the stool,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or74,4,red bars,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+or75,3,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,153,batch5,i
+cs1,1,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs2,1,The brain.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs4,1,laptops,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs5,2,The man.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs6,4,The kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs9,2,flags,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs10,4,The light,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs11,2,The air pump,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs12,1,The woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs13,2,The pig,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs14,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs15,1,flasks,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de16,3,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de17,3,the person,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de19,1,hands,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de20,3,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de21,1,The cigarette.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de22,2,The people.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de23,2,chart,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de24,3,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de25,3,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de26,2,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de27,2,The bigger globe,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de28,3,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+de30,2,VR goggles,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr31,1,The blackboard.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr32,3,couple,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr33,2,the book,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr34,2,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr36,3,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr37,2,Land,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr38,3,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr39,4,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr43,1,people,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+fr45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or61,4,The woman,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or62,2,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or64,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or65,4,baby,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or66,3,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or68,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or69,4,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or70,2,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or71,4,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or72,4,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or73,4,the green cloth,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or74,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+or75,1,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,198,batch5,i
+cs1,1,The heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs2,2,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs3,1,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs4,1,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs5,3,man,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs6,3,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs8,2,door,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs9,2,"Only say ""the phone"" if the phone is the foremost object in the image",Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs10,3,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs11,3,The air pump,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs15,3,the flasks,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de16,3,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de17,4,The front side of pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de18,2,The torch.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de21,1,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de22,3,The people are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de23,1,The bike.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de25,2,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de28,3,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+de30,1,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr31,1,The scale,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr32,2,couple,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr33,2,The towel.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr34,3,electrode cap,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr35,1,The animal.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr37,3,The water.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr38,3,The helicopter.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr40,2,faucet,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr41,2,The quill pen,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr43,2,people,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr44,2,laughing man,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+fr45,4,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or61,4,the woman,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or62,3,The pointy trees,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or65,3,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or66,3,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or67,3,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or69,3,The crowd,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or70,1,the woman's left hand,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or71,2,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or72,2,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or73,3,stool,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or74,3,Only say the red bars,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+or75,3,The lime.,Qwen/Qwen2.5-VL-7B-Instruct,259,batch5,i
+cs1,2,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs2,2,brain,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs4,4,laptops,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs5,3,the man,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs6,4,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs7,4,the sun,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs8,1,the door,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs9,4,phone,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs10,4,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs13,1,The surgeons.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs14,2,The man with a beard.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs15,3,flasks,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de16,1,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de17,2,the diamond,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de19,4,mug,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de20,1,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de21,2,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de22,4,people,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de23,3,bike,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de25,3,little girl,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de26,3,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de28,1,The puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de29,1,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+de30,2,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr31,1,The scale.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr32,2,The couple,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr33,1,towel,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr37,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr38,2,big car,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr41,2,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr43,3,the people,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+fr45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or61,4,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or62,3,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or63,4,Tray,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or64,3,The weight.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or65,3,suitcase,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or66,3,drone,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or67,2,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or68,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or69,4,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or71,3,The open books,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or72,3,The kid on the bike.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or73,3,stool,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or74,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+or75,4,The woman in jeans.,Qwen/Qwen2.5-VL-7B-Instruct,270,batch5,i
+cs1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs2,1,brain,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs3,4,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs5,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs6,2,kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs7,1,sun,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs8,1,door,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs9,1,Phone,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs10,2,the woman holding a note,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs11,1,air pump,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs13,1,pig,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs15,3,flasks,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de16,4,The dog collar,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de17,3,The person,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de19,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de21,1,cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de22,4,people,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de23,1,bike,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de24,1,The mug,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de26,4,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de27,1,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+de30,4,The VR goggles.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr31,1,The scale.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr32,3,The couple,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr33,3,the bathtub,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr34,4,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr35,2,the animal,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr36,1,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr37,2,The water.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr39,3,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr41,1,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr42,2,the pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr43,2,people,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr44,4,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+fr45,1,the orchestra,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or61,3,The woman,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or62,4,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or64,4,the man,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or65,3,baby,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or66,4,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or67,4,The red rays are at the most front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or68,4,man,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or69,3,crowd,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or70,1,the thermos,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or71,3,The open books,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or72,3,Soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or73,3,The stool,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or74,4,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+or75,4,The woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,271,batch5,i
+cs1,1,the heart-shaped tree,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs2,2,brain,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs3,2,the elephant,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs5,4,The man,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs6,2,The kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs9,2,Phone,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs10,4,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs11,2,air pump,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs13,2,the pig,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs14,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs15,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de16,4,the dog collar,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de17,3,The person.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de18,2,torch,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de19,2,mug,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de21,1,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de22,2,people,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de23,1,bike,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de24,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de25,4,the little girl,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de27,1,The bigger globe,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+de30,4,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr32,1,The couple.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr33,1,the book,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr36,1,The trucks,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr37,1,water,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr38,2,big car,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr39,3,The piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr41,4,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr42,1,pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr43,2,The hammer.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr44,3,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+fr45,1,The orchestra.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or61,2,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or62,3,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or64,3,The man,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or65,4,The suitcase.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or66,4,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or67,4,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or68,4,The man.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or69,1,The DJ behind the glass.,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or70,2,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or71,1,The open books,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or72,4,The kid on the bike,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or73,4,stool,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or74,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+or75,3,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,273,batch5,i
+cs1,1,The kid in a striped shirt.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs2,2,Everything equal.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs3,3,The elephant,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs4,2,The man in a wheelchair.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs5,2,man,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs6,2,The kid in a yellow shirt,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs7,4,The sun.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs8,2,The door.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs9,1,the phone,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs10,3,The woman holding a note.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs11,1,air pump,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs13,1,The pig.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs15,2,The flasks.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de16,3,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de17,3,The front side of the pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de18,3,torch,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de19,2,hands,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de21,1,The cigarette box,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de22,3,The people,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de23,1,The person.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de24,2,The mug,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de25,3,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de26,2,fingerprint scanner,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de27,1,The bigger globe.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de28,1,puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de29,1,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+de30,2,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr31,2,scale,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr32,2,The bench.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr33,2,The book.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr35,2,animal,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr37,2,the water,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr38,3,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr39,2,It is ambiguous.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr41,2,The quill pen,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr43,1,The people.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+fr44,3,the woman with a notepad,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or61,3,the woman,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or62,1,The pointy trees.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or63,4,tray,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or64,4,the man,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or65,4,baby,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or66,4,The barbed wire.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or68,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or69,2,The crowd,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or70,4,the woman's left hand,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or71,3,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or72,3,soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or73,2,stool,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or74,3,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+or75,3,The lime.,Qwen/Qwen2.5-VL-7B-Instruct,397,batch5,i
+cs1,2,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs2,1,brain,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs3,1,elephant,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs4,3,laptops,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs5,3,the man,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs6,2,The kid in a yellow shirt.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs7,3,sun,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs8,1,door,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs9,2,phone,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs10,3,The big circle.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs11,1,The air pump.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs13,1,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs14,2,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs15,4,The flasks.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de16,4,The dog collar.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de17,4,The diamond,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de19,1,hands,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de20,2,The magnifying glass.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de21,2,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de22,1,People,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de23,1,bike,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de25,2,The little girl.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de26,2,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de27,2,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de28,2,Puzzle pieces,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de29,1,The book with a brick on it.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+de30,1,The VR goggle.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr31,2,door on the left,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr32,2,couple,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr33,3,The book,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr34,1,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr37,1,land,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr38,3,The big car,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr39,3,piggy bank,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr41,4,quill pen,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr42,1,the pig broken in half,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr43,2,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr44,3,The laughing man.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+fr45,2,The orchestra,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or62,3,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or63,3,tray,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or64,3,The weight,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or65,4,baby,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or66,4,The barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or67,3,The red rays are at the most front of this image.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or68,4,Man,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or69,2,the crowd,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or70,2,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or71,3,The open books.,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or72,4,the soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or73,2,stool,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or74,3,red bars,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+or75,4,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,457,batch5,i
+cs1,1,The heart-shaped tree.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs2,2,everything equal,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs3,2,elephant,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs4,3,laptops,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs5,1,The man.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs6,1,The screen,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs7,4,sun,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs8,2,the door,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs9,3,The flags,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs10,4,The big circle,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs11,1,the air pump,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs12,2,the woman's left foot,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs13,2,The surgeons,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs14,1,man with a beard,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+cs15,1,cannot say,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de16,2,dog collar,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de17,3,The front side of pedestal.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de18,1,torch,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de19,2,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de20,1,magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de21,1,The cigarette box.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de22,4,The people.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de23,2,The chart.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de24,1,The mug.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de25,2,little girl,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de26,3,The fingerprint scanner.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de27,4,The big window.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de28,1,The puzzle pieces.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de29,2,The magnifying glass,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+de30,1,The VR goggle,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr31,1,scale,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr32,1,couple,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr33,3,the book,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr34,3,The electrode cap.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr35,1,animal,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr36,2,The soldiers facing forward.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr37,1,The land.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr38,2,The big car.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr39,4,The piggy bank.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr40,1,faucet,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr41,2,The quill pen.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr42,1,The pig broken in half.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr43,2,the hammer,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr44,3,The woman with a notepad.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+fr45,1,The woman on stage,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or61,3,The woman.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or62,3,solar panel,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or63,4,The tray,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or64,3,The man.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or65,3,the suitcase,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or66,3,barbed wire,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or67,3,The red rays are at the most in front of the image.,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or68,4,man,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or69,3,Crowd,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or70,1,the man's right hand,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or71,4,The open books,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or72,3,Soccer ball,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or73,3,The stool,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or74,4,red bars,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i
+or75,1,the woman in jeans,Qwen/Qwen2.5-VL-7B-Instruct,485,batch5,i

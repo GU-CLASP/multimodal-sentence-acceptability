@@ -1,0 +1,3001 @@
+name,natural,choice,model,seed,batch,condition
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or4,3,The man,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or5,2,the baby,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or6,4,the men with their hands up,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or7,4,The blue rays.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or11,3,the open books,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or12,4,the kid on the bike,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or14,4,The red bars.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or15,2,the lime,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs16,3,the watering cans,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs19,1,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs20,1,The man.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs23,1,the staircase,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs24,3,the phone,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs25,1,the woman holding a note,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+cs30,2,The flasks,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de31,1,the dog collar,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de34,1,the hands,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de38,1,the person,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de39,1,the mug,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+de45,2,The VR goggle.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr50,1,the animal,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr52,2,The land.,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr55,3,the faucet,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr56,3,The quill pen,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,117,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or4,4,the man,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or5,4,the baby,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or6,4,the barbed wire,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or11,3,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or12,2,the soccer ball,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs16,3,the watering cans,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs17,4,The brain,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs20,2,the man,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs22,4,The sun.,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs24,2,the phone,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs25,1,the woman holding a note,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs26,3,The air pump.,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+cs30,2,The flasks.,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de32,2,the diamond,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de34,2,the hands,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+de45,1,The VR goggle,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr48,2,the book,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr52,3,the land,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr53,1,the big car,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr55,4,the faucet,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,120,batch1,r
+or1,2,the woman,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or3,4,the tray,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or4,3,the weight,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or5,3,the baby,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or6,4,the men with their hands up,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or7,4,It is ambiguous.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or11,3,the open books,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or14,4,The red bars.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs22,4,The sun,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs24,3,the phone,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs26,4,the air pump,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+cs30,2,The flasks.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de32,3,the diamond,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de34,2,the hands,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de38,1,the bike,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de43,1,The puzzle pieces.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+de45,2,The VR goggle.,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr48,1,the book,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr52,3,the land,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr55,3,the faucet,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr58,1,the people,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,164,batch1,r
+or1,2,the woman,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or3,4,the tray,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or4,3,the man,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or5,3,the baby,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or6,4,the men with their hands up,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or7,3,The red rays are at the most front of this image.,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or11,4,the open books,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs18,2,The elephant,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs22,3,The sun.,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs24,2,the phone,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs26,2,the air pump,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+cs30,2,The flasks,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de32,2,the diamond,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de33,3,the torch,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de34,1,the hands,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de38,1,the person,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+de45,3,The VR goggle,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr52,2,the land,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr58,2,The people,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+fr60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,172,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or4,4,the man,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or5,3,the baby,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or6,4,the barbed wire,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or11,3,the open books,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or12,3,the soccer ball,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or15,2,the lime,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs18,2,The elephant.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs19,2,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs22,3,The sun,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs24,3,The phone,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs29,3,the man with a beard,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+cs30,2,the flasks,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de34,1,the mug,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+de45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr49,3,The electrode cap.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr52,3,The land.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr53,3,the big car,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr55,4,The faucet,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr58,2,the hammer,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+fr60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,330,batch1,r
+or1,2,the woman,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or4,3,the man,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or5,3,the baby,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or6,4,the men with their hands up,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or8,3,The man,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or9,3,the crowd,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or11,4,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or12,3,The soccer ball.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs17,3,The brain.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs18,2,The elephant,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs19,2,the laptops,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs22,4,The sun.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs24,3,The phone.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs25,1,the woman holding a note,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+cs30,2,the flasks,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de34,1,the hands,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de38,1,the person,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de41,2,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+de45,1,The VR goggle,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr48,3,the book,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr52,3,The land.,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr53,3,the big car,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr55,4,The faucet,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr57,1,the pig broken in half,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,345,batch1,r
+or1,1,the woman,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or4,4,the man,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or5,3,the globe,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or11,4,the open books,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or15,2,the lime,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs19,2,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs22,4,everything equal,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs24,3,the phone,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs25,1,the woman holding a note,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+cs30,1,The flasks,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de34,1,the hands,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+de45,3,the VR goggle,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr48,1,the book,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr50,1,the animal,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr52,2,The land.,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr55,4,the faucet,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr58,3,the people,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr59,3,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,427,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or4,3,the man,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or5,2,the baby,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or6,4,the barbed wire,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or8,3,the man,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or11,4,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or13,3,the stool,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or15,2,the lime,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs17,3,The brain.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs18,2,The elephant,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs19,3,the laptops,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs24,2,The phone,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs25,1,the light,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs26,4,the air pump,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+cs30,2,the flasks,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de31,2,The dog collar.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de34,1,the hands,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de38,1,The person,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de44,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+de45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr46,2,the scale,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr50,1,the animal,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr52,2,The land.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr55,4,the faucet,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr56,4,The quill pen.,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr58,2,The people,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+fr60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,440,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or4,4,The man,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or5,4,the baby,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or7,4,it is ambiguous,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or8,3,The man,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or11,4,the open books,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or14,3,the red bars,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs16,3,the watering cans,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs17,3,The brain.,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs19,3,The man in a wheelchair.,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs20,1,The man.,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs22,3,everything equal,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs23,1,the staircase,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs24,3,the phone,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs25,1,the woman holding a note,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs26,4,the air pump,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+cs30,2,The flasks,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de34,2,the hands,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de35,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de37,1,the people,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de38,1,the bike,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de39,2,the mug,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de41,1,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+de45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr50,1,the animal,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr52,2,the land,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr55,4,the faucet,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+fr60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,443,batch1,r
+or1,3,the woman,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or3,3,the tray,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or4,2,the man,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or5,4,the baby,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or6,4,the men with their hands up,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or7,3,The red rays are at the most front of the image.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or8,2,the man,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or9,4,the crowd,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or11,4,the open books,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or13,4,the stool,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or14,4,the red bars,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or15,1,the lime,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs16,4,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs17,4,The brain.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs18,2,the elephant,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs19,2,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs20,1,the man,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs23,2,the staircase,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs24,2,The phone,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs26,3,the air pump,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+cs30,2,the flasks,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de33,2,the torch,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de34,2,the hands,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de37,2,the people,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de38,2,the person,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de39,1,the mug,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de40,1,the little girl,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+de45,2,The VR goggle,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr46,3,the scale,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr47,1,the couple,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr48,2,the book,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr50,2,the animal,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr52,3,The land.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr53,2,the big car,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr55,4,The faucet,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr57,2,The pig broken in half.,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr58,2,the people,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+fr60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,467,batch1,r
+or16,4,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or17,4,The brain.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or19,3,The man in a wheelchair.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or22,4,Everything equal,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or24,4,the phone,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or30,4,the flasks,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs34,2,the hands,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs35,1,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs38,2,the person,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs39,4,the mug,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de52,4,The land,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de55,4,The faucet,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de56,2,The quill pen.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+de60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr62,3,the seal,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr66,2,the lock,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr67,4,The yellow balls.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr68,3,The shield.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr74,3,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+fr75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,112,batch2,r
+or16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or17,4,the brain,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or18,4,The elephant,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or19,4,the laptops,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or20,3,the man,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or24,4,the phone,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or30,3,the flasks,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs33,4,the torch,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs34,1,the hands,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs38,1,the bike,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs39,4,the mug,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de46,4,the scale,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de48,1,the book,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de49,1,The electrode cap,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de52,3,the land,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de55,4,the faucet,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de57,2,The pig broken in half.,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+de60,1,the orchestra,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr61,3,The cylinders.,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr62,3,The seal,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr63,3,the corn,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr67,4,The yellow balls.,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr73,2,The lamps.,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr74,4,the old-fashioned phone,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,136,batch2,r
+or16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or17,3,The lightning.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or19,3,the laptops,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or20,4,The man.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or22,4,The cloud.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or24,4,The phone,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or29,4,cannot say,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or30,3,The flasks.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs32,3,the diamond,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs34,1,the hands,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs38,2,the person,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs39,4,the mug,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs41,2,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs44,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de46,4,the scale,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de52,2,The land.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de55,4,the faucet,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de56,2,The quill pen.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de57,2,The pig broken in half.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de58,1,The people.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+de60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr62,2,the seal,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr63,3,the corn,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr65,2,the ape,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr67,3,Cannot say,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr71,2,the flames,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr73,2,The lamps.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr74,3,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+fr75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,184,batch2,r
+or16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or17,4,The brain.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or19,3,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or20,4,The man.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or22,4,The cloud.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or23,3,the staircase,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or24,3,the phone,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or30,4,The flasks,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs33,4,the torch,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs34,2,the hands,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs35,1,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs38,1,the person,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs39,3,the mug,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs41,2,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+cs45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de51,1,The soldiers facing forward.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de52,2,The land.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de54,1,The piggy bank.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de55,4,the faucet,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+de60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr62,2,The seal,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr65,2,the ape,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr67,3,the yellow balls,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr74,4,the old-fashioned phone,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+fr75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,192,batch2,r
+or16,4,the watering cans,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or17,4,The brain.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or19,3,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or22,3,The sun.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or24,4,The phone,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or30,4,The flasks.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs33,4,the torch,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs34,2,the hands,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs38,2,the bike,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs39,3,the mug,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs41,1,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs42,1,The bigger globe,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+cs45,1,The VR goggle,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de48,2,the book,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de49,1,The electrode cap,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de52,3,The land.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de53,1,the big car,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+de60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr62,2,the seal,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr67,3,The yellow balls.,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr74,3,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,207,batch2,r
+or16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or17,4,everything equal,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or19,4,the laptops,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or22,4,The sun,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or23,3,the staircase,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or24,4,the phone,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or30,4,the flasks,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs34,1,the hands,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs38,1,the person,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs39,3,the mug,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs41,2,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+cs45,3,the VR goggle,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de46,4,the scale,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de49,1,The electrode cap.,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de52,3,the land,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de55,4,the faucet,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de58,2,the hammer,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+de60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr61,3,The cylinders,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr62,3,The seal,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr67,3,The yellow balls.,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr74,4,the old-fashioned phone,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,222,batch2,r
+or16,4,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or17,4,The brain,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or19,4,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or20,4,The man.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or22,3,The sun.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or23,3,the staircase,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or24,3,The phone,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or27,3,the woman's left foot,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or30,4,The flasks,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs32,3,the diamond,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs33,4,the torch,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs34,1,the hands,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs38,1,the bike,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs39,2,the mug,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs44,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de52,2,the land,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de53,1,the big car,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+de60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr62,3,the seal,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr63,3,the corn,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr65,2,the ape,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr67,4,The yellow balls.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr68,3,the shield,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr74,4,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+fr75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,229,batch2,r
+or16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or17,3,The brain.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or18,4,The elephant.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or19,4,the laptops,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or22,4,The sun.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or24,4,the phone,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or27,3,the woman's left foot,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or30,3,The flasks.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs34,2,the hands,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs38,1,the bike,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs39,4,the mug,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+cs45,3,the VR goggle,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de47,1,the couple,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de52,3,the land,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de53,1,the big car,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de55,4,The faucet,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+de60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr62,2,the seal,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr67,4,Cannot say,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr68,3,The shield.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr70,1,The dollar sign,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr74,3,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,304,batch2,r
+or16,4,the watering cans,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or17,3,The brain.,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or18,4,The elephant,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or19,4,the laptops,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or22,3,everything equal,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or24,3,the phone,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or26,4,The air pump,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or30,4,The flasks.,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs32,3,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs33,4,the torch,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs34,1,the hands,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs38,1,the person,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs39,3,the mug,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs41,1,The fingerprint scanner,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de46,4,the scale,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de47,1,The couple,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de48,1,the book,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de50,1,the animal,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de52,3,the land,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de53,2,the big car,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de55,4,the faucet,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+de60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr62,3,The seal,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr65,1,the ape,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr67,4,The yellow balls,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr71,1,The flames,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr73,3,the lamps,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr74,4,the old-fashioned phone,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+fr75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,306,batch2,r
+or16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or17,4,The brain.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or18,4,the elephant,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or19,4,the laptops,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or20,4,the man,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or21,4,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or22,4,The cloud.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or23,4,the staircase,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or24,4,The phone.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or26,4,the air pump,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or27,4,the woman's left foot,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or28,4,the surgeons,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or29,4,the man with a beard,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or30,3,The flasks,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs33,3,the torch,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs34,2,the mug,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs37,1,the people,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs38,2,the person,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs39,4,the mug,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs40,1,the little girl,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs41,1,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs44,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+cs45,2,the VR goggle,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de46,3,the scale,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de47,1,The couple,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de48,3,the book,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de50,2,the animal,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de51,2,The soldiers facing forward,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de52,4,The land.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de53,1,the big car,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de56,3,the quill pen,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de58,2,the people,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+de60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr61,3,The cylinders,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr62,2,the seal,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr65,2,the ape,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr66,1,the lock,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr67,3,The yellow balls.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr68,4,the shield,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr71,1,the flames,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr73,2,the lamps,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr74,4,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+fr75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,345,batch2,r
+or31,4,the dog collar,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or35,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or36,4,the cigarette box,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or41,4,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or45,3,The VR goggle.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr3,3,the tray,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr4,3,the man,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr6,1,the barbed wire,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr11,1,the open books,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr14,2,the red bars,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs52,3,The land.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs55,3,The faucet.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs56,1,The quill pen,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs57,2,the pig broken in half,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de62,1,The seal.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de71,1,The flames,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,168,batch3,r
+or31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or32,4,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or34,2,the hands,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or35,3,The magnifying glass,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or36,4,the cigarette box,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or37,4,the people,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or38,3,the bike,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or41,4,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or45,4,The VR goggle.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs48,1,the book,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr4,2,the weight,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr9,1,the crowd,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr11,2,The woman holding a pen.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr14,1,the red bars,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs52,3,The land.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs55,4,The faucet,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de61,2,The cylinders.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de62,2,the seal,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de66,2,the lock,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de73,3,The lamps,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de74,4,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,206,batch3,r
+or31,4,the dog collar,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or34,3,the mug,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or35,3,The magnifying glass,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or39,4,The mug.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or45,3,The VR goggle.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs48,1,the book,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr3,1,The tray,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr4,3,the man,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr5,2,the baby,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr11,2,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr14,2,The red bars.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs51,2,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs52,3,The land.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs56,2,the quill pen,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs59,3,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+cs60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de62,2,the seal,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de63,1,the corn,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de68,4,The shield,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de73,4,The lamps,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,253,batch3,r
+or31,4,the dog collar,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or32,4,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or38,4,the bike,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or44,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or45,4,The VR goggle,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs46,2,the scale,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr4,2,The man,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr7,2,it is ambiguous,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr11,1,the open books,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr12,2,the soccer ball,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr13,2,the stool,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr14,2,The red bars.,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+fr15,2,the lime,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs52,3,the land,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs56,1,The quill pen.,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+cs60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de62,1,the seal,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de66,2,the lock,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de67,3,The yellow balls.,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,318,batch3,r
+or31,4,The dog collar.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or34,3,the mug,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or35,3,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or41,4,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or45,3,The VR goggle,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs47,1,The couple,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr3,1,the tray,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr4,3,the weight,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr5,2,the baby,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr10,4,the woman's left hand,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr11,2,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr12,3,the soccer ball,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr14,2,the red bars,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs51,3,The soldiers facing forward.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs52,3,the land,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs55,4,The faucet,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs59,1,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+cs60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de62,2,the seal,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de63,2,the corn,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de65,1,The ape,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de70,1,The dollar sign.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de73,3,the lamps,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+de75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,331,batch3,r
+or31,4,the dog collar,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or33,3,the torch,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or37,4,the people,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or41,4,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or45,4,The VR goggle.,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs48,1,the book,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr1,1,The woman.,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr4,2,it is ambiguous,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr7,2,The blue rays.,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr12,4,the kid on the bike,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr14,2,the red bars,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs52,4,the land,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs58,3,the people,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+cs60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de61,2,The cylinders,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de62,1,The seal,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de67,2,The yellow balls,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de71,1,The flames,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de73,4,the lamps,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+de75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,346,batch3,r
+or31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or32,4,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or34,4,the hands,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or35,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or36,4,the cigarette box,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or45,3,the VR goggle,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr2,2,The solar panel.,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr4,3,the man,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr9,1,the crowd,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr10,4,the woman's left hand,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr14,2,the red bars,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs52,2,the land,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de62,2,The seal,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de66,2,the lock,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de73,4,The lamps,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+de75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,357,batch3,r
+or31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or32,4,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or35,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or39,3,the mug,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or40,1,the little girl,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or41,4,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or45,3,the VR goggle,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs46,4,the scale,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs48,1,the bathtub,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs50,2,the animal,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr3,1,the tray,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr4,2,the man,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr10,4,the thermos,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr14,1,The red bars.,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+fr15,2,the lime,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs52,3,The land.,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de62,1,The seal,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de66,2,the lock,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de70,2,the dollar sign,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de73,4,the lamps,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de74,3,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,396,batch3,r
+or31,3,the dog collar,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or33,4,The torch.,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or34,3,the hands,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or35,4,The magnifying glass,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or36,4,the cigarette box,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or43,3,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or45,3,The VR goggle,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs47,2,the couple,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs48,1,the book,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs49,1,the electrode cap,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr3,1,The tray,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr4,3,the man,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr5,2,the baby,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr7,3,the red rays,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr8,2,the man,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr11,2,the open books,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr14,1,the red bars,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+fr15,1,the lime,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs52,2,The land.,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs54,2,the piggy bank,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs55,3,The faucet.,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs56,1,the quill pen,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+cs60,2,the orchestra,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de62,2,the seal,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de71,1,The flames,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de73,2,the lamps,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de74,4,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,417,batch3,r
+or31,4,the dog collar,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or32,4,the diamond,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or33,4,the torch,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or34,3,the mug,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or35,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or36,4,the cigarette box,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or37,3,the people,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or38,4,the person,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or39,4,the mug,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or40,2,the little girl,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or42,3,the bigger globe,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or43,4,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or44,4,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or45,4,The VR goggle,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs46,3,the scale,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs47,1,the couple,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs48,1,the book,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs50,1,the animal,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr1,2,the woman,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr3,2,the tray,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr4,3,the man,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr5,1,the baby,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr8,3,the man,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr9,2,the crowd,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr11,2,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr12,4,the soccer ball,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr13,1,the stool,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr14,1,the red bars,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+fr15,2,the lime,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs51,3,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs52,3,the land,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs53,2,the big car,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs54,1,the piggy bank,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs55,4,the faucet,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs56,1,The quill pen,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs58,2,the people,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs59,2,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+cs60,3,the orchestra,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de62,2,The seal,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de63,1,the corn,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de65,1,the ape,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de66,1,the lock,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de68,4,the shield,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de71,1,the flames,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de72,2,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de73,3,The lamps,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+de75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,441,batch3,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or48,2,the book,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de4,2,the man,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de10,4,the thermos,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de12,1,The soccer ball.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de14,2,Red bars,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr18,3,The elephant.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr22,4,Everything equal,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr23,2,the staircase,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr24,2,the phone,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+fr30,3,the flasks,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or51,4,The soldiers facing forward.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or54,4,the piggy bank,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or55,4,the faucet,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or59,3,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs62,1,the seal,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs64,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs65,1,The ape,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs68,4,the shield,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs73,1,The lamps,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs74,2,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,174,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or48,3,the book,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or50,4,the animal,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de4,2,the man,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de14,1,the red bars,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr19,3,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr22,3,The sun.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr24,2,the phone,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr26,4,The air pump.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr29,2,cannot say,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+fr30,3,The flasks,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or52,4,the land,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or53,3,the big car,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or54,4,the piggy bank,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or55,4,The faucet,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or57,3,the pig broken in half,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or58,4,the people,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs62,2,The seal,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs68,4,The shield,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs71,1,the flames,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs73,1,The lamps,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs74,2,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,187,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or49,4,the electrode cap,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or50,1,the animal,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de4,3,the man,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de14,3,the red bars,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+de15,1,The lime.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr24,2,the phone,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+fr30,3,The flasks,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or52,4,the land,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or54,4,the piggy bank,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or55,4,the faucet,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs62,2,The seal.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs66,3,the lock,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs71,1,The flames,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs73,1,the lamps,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs74,2,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,226,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or47,4,the couple,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de4,3,The man,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de14,3,red bars,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr16,2,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr22,4,everything equal,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr23,3,the staircase,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr24,3,the phone,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr25,4,the woman holding a note,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+fr30,3,The flasks.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or51,4,The soldiers facing forward.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or56,3,The quill pen.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or59,3,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs61,2,The cylinders.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs62,2,The seal,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs63,2,the corn,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs65,1,the ape,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs67,3,The yellow balls.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs68,4,the shield,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs73,1,The lamps,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs74,2,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,264,batch4,r
+or46,3,the scale,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or50,4,the animal,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de4,2,the man,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de5,1,the baby,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de14,2,the red bars,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr16,3,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr17,4,the brain,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr20,1,The man,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr22,4,The cloud.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr23,2,the staircase,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr24,4,The phone,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr29,3,the man with a beard,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+fr30,4,the flasks,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or51,3,The soldiers facing forward.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or54,4,the piggy bank,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or55,4,The faucet.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or56,2,The quill pen.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs61,3,The cylinders.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs62,2,The seal,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs63,1,the tomatoes,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs64,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs65,1,the ape,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs67,3,the yellow balls,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs69,2,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs71,1,the flames,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs74,3,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+cs75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,295,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or48,3,the book,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de2,4,the solar panel,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de3,1,the tray,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de4,2,the weight,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de11,2,the open books,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de12,2,the kid on the bike,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de14,3,The red bars,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr18,3,The elephant,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr24,3,The phone,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+fr30,3,The flasks,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or52,3,The land.,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or54,4,the piggy bank,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or55,4,the faucet,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs62,2,the seal,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs63,2,the corn,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs64,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs65,1,the ape,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs66,3,the lock,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs67,2,The yellow balls,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs68,4,The shield,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs73,1,the lamps,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs74,2,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,308,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or48,3,the bathtub,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or49,4,the electrode cap,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or50,4,the animal,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de4,3,The man.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de8,1,the man,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de11,1,the open books,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de14,2,the red bars,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr16,2,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr22,3,The sun.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr24,3,the phone,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+fr30,3,The flasks.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or52,4,the water,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or55,4,The faucet,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or58,2,the people,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs62,2,The seal,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs68,4,the shield,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs69,1,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs71,2,The flames,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs74,2,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+cs75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,372,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or48,2,the bathtub,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or49,4,the electrode cap,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or50,4,the animal,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de1,1,the woman,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de4,2,the man,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de9,2,the crowd,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de14,3,the red bars,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr17,4,the lightning,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr18,3,the elephant,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr19,3,the laptops,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr22,4,everything equal,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr24,4,The phone,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr29,3,the man with a beard,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+fr30,3,the flasks,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or52,4,the land,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or54,4,The piggy bank,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or55,4,The faucet,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs62,2,the seal,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs63,3,the tomatoes,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs64,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs65,1,the ape,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs68,4,The shield.,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs71,1,the flames,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs74,2,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+cs75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,375,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or47,3,the couple,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or48,3,the book,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or49,3,the electrode cap,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or50,3,the animal,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de1,3,the woman,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de3,2,the tray,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de4,3,the man,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de13,1,the stool,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de14,3,the red bars,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr16,2,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr17,3,The brain.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr18,4,the elephant,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr22,3,The cloud.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr24,3,the phone,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr29,3,cannot say,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+fr30,4,The flasks,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or52,4,The land.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or53,4,the big car,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or55,3,The faucet,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or56,4,The quill pen.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or57,4,The pig broken in half.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs62,2,The seal,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs64,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs65,2,the ape,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs66,2,the lock,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs67,2,The yellow balls.,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs68,3,the shield,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs69,1,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs73,1,the lamps,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs74,2,the old-fashioned phone,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,423,batch4,r
+or46,4,the scale,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or47,2,the couple,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or48,1,the book,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or49,2,the electrode cap,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or50,4,the animal,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de1,2,the woman,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de2,3,the solar panel,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de3,3,the tray,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de4,3,the man,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de5,2,the baby,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de8,2,the man,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de9,1,the crowd,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de12,2,the soccer ball,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de13,2,the stool,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de14,3,cannot say,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+de15,1,the lime,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr17,4,The brain.,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr18,2,the elephant,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr19,2,the laptops,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr20,1,the man,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr21,3,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr22,2,The cloud.,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr23,1,the staircase,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr24,3,the phone,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr26,3,the air pump,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr28,3,the surgeons,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr29,2,the man with a beard,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+fr30,3,The flasks,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or51,4,the soldiers facing forward,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or52,3,the land,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or53,4,The big car.,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or54,3,the piggy bank,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or55,4,The faucet,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or56,4,the quill pen,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or57,4,the pig broken in half,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or58,3,the people,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or59,4,the woman with a notepad,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+or60,4,the orchestra,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs61,2,the cylinders,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs62,2,the seal,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs63,2,the tomatoes,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs64,1,the magnifying glass,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs65,1,the ape,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs66,3,the lock,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs67,2,the yellow balls,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs68,4,the shield,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs69,2,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs70,1,the dollar sign,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs71,2,the flames,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs72,1,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs73,2,the lamps,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs74,2,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs75,2,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,474,batch4,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs4,3,the man,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs6,1,the barbed wire,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs14,1,the red bars,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de16,4,the watering cans,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de17,4,The brain.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de18,2,The elephant.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de22,3,The sun.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de26,2,the air pump,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+de30,1,The flasks,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr33,4,the torch,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr41,2,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+fr45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or61,4,The cylinders,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or62,4,The seal,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or63,4,The tomatoes.,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or66,3,the lock,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or69,4,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or71,4,The flames,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or73,3,the lamps,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+or75,4,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,102,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs4,4,the weight,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs5,4,the baby,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs7,2,the red rays,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs14,1,the red bars,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de16,3,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de17,3,the brain,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de18,1,The elephant,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de20,1,The man.,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de22,2,The cloud.,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de26,3,the air pump,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+de30,1,The flasks,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr35,1,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr40,2,the little girl,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr44,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+fr45,2,The VR goggle,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or62,3,The seal,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or63,4,the tomatoes,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or67,4,The yellow balls.,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or69,4,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or73,3,the lamps,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,112,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs3,1,the tray,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs4,3,The man.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs6,4,the barbed wire,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs7,2,It is ambiguous.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs14,3,the red bars,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de16,4,the watering cans,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de17,3,The brain.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de18,2,the elephant,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de19,1,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de22,3,Everything equal,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de24,1,the phone,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de26,3,the air pump,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+de30,1,The flasks.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr33,4,the torch,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr35,1,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr39,2,the mug,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr41,3,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+fr45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or62,4,the seal,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or63,4,The corn.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or67,4,Cannot say,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or71,3,The flames,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or73,3,the lamps,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,183,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs4,3,the man,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs11,1,The open books.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs14,1,The red bars.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de17,4,The brain.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de18,1,the elephant,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de19,1,the laptops,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de22,3,The sun.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de24,3,the phone,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de26,2,the air pump,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+de30,2,The flasks,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr32,1,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr34,2,the hands,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr41,2,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+fr45,1,The VR goggle,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or61,3,The cylinders.,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or62,4,the seal,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or63,4,the tomatoes,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or67,3,the yellow balls,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or70,4,the dollar sign,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or71,4,the flames,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or73,3,the lamps,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+or75,4,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,265,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs4,4,the man,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs7,4,The red rays.,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs14,1,red bars,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de17,3,The brain.,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de18,1,The elephant,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de19,1,the laptops,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de22,2,The cloud.,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de24,2,The phone,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de26,3,the air pump,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+de30,1,The flasks,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr34,2,the hands,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr44,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+fr45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or62,4,The seal.,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or63,4,the tomatoes,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or66,3,the lock,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or69,4,the man with his hand on his chin,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or71,4,the flames,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or73,4,the lamps,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,284,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs3,1,the tray,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs4,3,the man,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs6,3,the men with their hands up,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs11,1,the open books,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs14,1,The red bars.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs15,2,the lime,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de17,3,The brain.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de18,2,The elephant,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de22,2,The sun.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de26,3,the air pump,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+de30,1,The flasks,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr35,1,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr40,1,The little girl.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr44,2,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+fr45,1,The VR goggle.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or62,4,the seal,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or63,4,the tomatoes,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or65,3,the ape,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or73,4,The lamps,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or74,4,The old-fashioned phone.,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+or75,4,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,326,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs3,1,the tray,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs4,4,the man,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs6,3,the barbed wire,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs10,3,the man's right hand,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs14,1,Red bars,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de16,4,the heart-shaped tree,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de17,4,The brain.,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de18,2,The elephant,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de19,1,the man in a wheelchair,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de22,3,The sun,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de23,1,The staircase.,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de26,1,the air pump,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+de30,2,The flasks.,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr32,2,the diamond,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr33,4,the torch,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr34,1,the mug,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr35,2,The magnifying glass.,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr36,1,the cigarette box,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr39,2,the mug,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr41,2,The fingerprint scanner,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr42,2,the bigger globe,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+fr45,2,The VR goggle,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or62,3,the seal,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or63,4,the corn,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or68,4,The shield,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or72,3,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or73,3,The lamps,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,354,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs4,4,the man,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs6,2,the barbed wire,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs7,3,The red rays.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs11,1,the woman holding a pen,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs14,1,The red bars.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de17,4,The brain.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de18,2,The elephant.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de19,1,the laptops,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de21,2,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de22,3,everything equal,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de24,1,the phone,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de26,2,the air pump,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+de30,2,The flasks,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr37,2,the people,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr39,4,the mug,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr41,3,The fingerprint scanner.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+fr45,2,The VR goggle,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or61,4,the cylinders,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or62,4,the seal,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or63,4,the tomatoes,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or66,3,the lock,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or71,3,the flames,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or73,4,The lamps,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or74,4,The person in a yellow shirt.,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,376,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs2,2,the solar panel,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs4,3,the man,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs7,2,The red rays.,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs8,1,The man,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs10,3,the thermos,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs11,2,the open books,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs12,1,the soccer ball,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs13,2,the stool,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs14,2,the red bars,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de16,4,the watering cans,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de17,4,The brain.,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de18,2,The elephant,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de19,2,the laptops,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de20,1,The man.,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de22,3,Everything equal,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de25,3,the woman holding a note,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de26,1,the air pump,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de28,2,the surgeons,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+de30,2,The flasks,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr31,2,the dog collar,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr32,1,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr33,3,the torch,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr34,1,the mug,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr36,2,the cigarette box,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr38,3,the person,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr39,3,the mug,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr41,2,The fingerprint scanner,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr43,2,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr44,3,the book with a brick on it,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+fr45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or61,4,The cylinders.,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or62,4,The seal,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or63,4,the corn,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or64,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or67,4,The yellow balls.,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or70,3,the dollar sign,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or71,4,the flames,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or73,3,The lamps,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+or75,3,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,426,batch5,r
+cs1,1,the woman,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs2,1,the solar panel,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs3,2,the tray,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs4,4,the weight,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs5,3,the baby,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs6,2,the men with their hands up,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs7,2,the red rays,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs8,1,the man,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs9,2,the crowd,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs10,4,the man's right hand,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs11,2,the open books,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs12,1,The kid on the bike.,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs13,1,the stool,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs14,1,The red bars.,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+cs15,1,the lime,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de16,4,the kid in a striped shirt,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de17,3,The brain.,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de18,1,the elephant,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de19,1,the laptops,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de20,1,the man,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de21,1,the kid in a yellow shirt,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de22,2,The cloud.,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de23,1,the staircase,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de24,2,the phone,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de25,2,the woman holding a note,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de26,2,the air pump,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de27,1,the woman's left foot,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de28,1,the surgeons,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de29,1,the man with a beard,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+de30,2,The flasks,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr31,1,the dog collar,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr32,2,the front side of pedestal,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr33,4,the torch,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr34,1,the hands,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr35,2,the magnifying glass,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr36,3,the cigarette box,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr37,3,the people,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr38,2,the person,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr39,2,the mug,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr40,1,the little girl,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr41,2,the fingerprint scanner,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr42,1,the bigger globe,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr43,1,the puzzle pieces,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr44,3,the magnifying glass,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+fr45,1,the VR goggle,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or61,3,the cylinders,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or62,4,the seal,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or63,4,the corn,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or64,4,the magnifying glass,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or65,4,the ape,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or66,4,the lock,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or67,4,the yellow balls,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or68,4,the shield,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or69,4,the sitting man wearing a hat,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or70,3,The dollar sign.,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or71,4,the flames,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or72,4,the red flower-shaped object with a pointy middle,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or73,4,the lamps,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or74,4,the person in a yellow shirt,OpenGVLab/InternVL3-8B-hf,491,batch5,r
+or75,1,the trees in the lower left corner,OpenGVLab/InternVL3-8B-hf,491,batch5,r
