@@ -20,7 +20,7 @@ GPT-5 generated images describing the 75 English sentences.
 Sentence acceptability ratings provided by 7 VLMs (InternVL3-1B, InternVL3-8B, Qwen2.5-3B, Qwen2.5-7B, llava-1.5-7b, gpt-4o & gpt-4o-mini) averaged across multiple attempts (seeds) for each sentence.
 
 ### 4. `ModelLogits`
-Logits extracted for each sentence preceded by relevant, irrelevant, null visual contexts for 5 open-source VLMs - with multiple attempts (seeds) for each sentence.
+Logits extracted for each sentence preceded by relevant, irrelevant, null visual contexts for the 5 open-source VLMs - with multiple attempts (seeds) for each sentence.
 
 ---
 ## Code
@@ -35,7 +35,7 @@ Code for sentence acceptability ratings by InternVL3-1B, InternVL3-8B, Qwen2.5-3
 Code for logit extractions from open-source models for each sentence following relevant, irrelevant, and null visual contexts.
 
 ### 4. `correlations.ipynb`
-Spearman correlations between [human ratings ~ model ratings], [human ratings ~ normalized model logprobs], [model ratings ~ normalized model logprobs].
+Pearson and Spearman correlations between [_human ratings ~ model ratings_], [_human ratings ~ normalized model logprobs_], [_model ratings ~ normalized model logprobs_].
 
 ### 5. `regression.ipynb`
 Total least square regressions between ratings in each condition pair ([_N-R_], [_N-I_], [_R-I_]).
