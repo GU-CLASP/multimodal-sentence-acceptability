@@ -4,7 +4,7 @@ Data and code for multimodal sentence acceptability judgment.
 
 Hyewon Jang, Nikolai Ilinykh, Sharid Loáiciga, Jey Han Lau, Shalom Lappin, **Predicting Sentence Acceptability Judgments in Multimodal Contexts**, _to appear at CMCL 2026_ [(arxiv)](https://arxiv.org/abs/2602.20918). 
 
-Human participants and vision language models (VLMs) rated acceptability of an English sentence on a scale of 1 (very unnatural) - 4 (very natural), which was preceded by a relevant visual context (R), irrelevant visual context (I), and no contexts (N). 
+Human participants and vision language models (VLMs) rated acceptability of English sentences on a scale of 1 (very unnatural) - 4 (very natural). The sentences were preceded by a relevant visual context (R), irrelevant visual context (I), and no contexts (N). 
 
 ---
 
@@ -14,13 +14,13 @@ Human participants and vision language models (VLMs) rated acceptability of an E
 Human acceptability judgment on 75 original English sentences taken from News, Books, and Wikipedia + 225 backtranslated sentences of them.
 
 ### 2. `Images`
-GPT-5 generated images of the 75 English sentences.
+GPT-5 generated images describing the 75 English sentences.
 
 ### 3. `ModelPredictions`
 Sentence acceptability ratings provided by 7 VLMs (InternVL3-1B, InternVL3-8B, Qwen2.5-3B, Qwen2.5-7B, llava-1.5-7b, gpt-4o & gpt-4o-mini) averaged across multiple attempts (seeds) for each sentence.
 
 ### 4. `ModelLogits`
-Logits extracted for each sentence preceded by relevant, irrelevant, null visual contexts for 5 open-source VLMs with multiple attempts (seeds) for each sentence.
+Logits extracted for each sentence preceded by relevant, irrelevant, null visual contexts for 5 open-source VLMs - with multiple attempts (seeds) for each sentence.
 
 ---
 ## Code
