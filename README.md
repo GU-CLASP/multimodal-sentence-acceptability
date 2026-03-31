@@ -37,5 +37,5 @@ Code for logit extractions from open-source models for each sentence following r
 ### 4. `correlations.ipynb`
 Spearman correlations between [human ratings ~ model ratings], [human ratings ~ normalized model logprobs], [model ratings ~ normalized model logprobs].
 
-### 5. `regressions.ipynb`
+### 5. `regression.ipynb`
 Total least square regressions between ratings in each condition pair ([_N-R_], [_N-I_], [_R-I_]).
